@@ -1,11 +1,9 @@
 """ Aplicação Fast API"""
-from app.routes.route import router
+from routes.route import router
 from fastapi import FastAPI
-#from .config.database import user_collection
-
+# from .config.database import user_collection
 
 # construção do objeto app
-
 app = FastAPI(
 
     title="Dados de Vitivinicultura Embrapa",

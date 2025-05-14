@@ -1,10 +1,12 @@
 """Database"""
+import os
+import sys
+sys.path.append('../projeto-api-vitivinicultura')
 from pymongo.mongo_client import MongoClient
 from redis import Redis
 
 # constante de conexão com o servidor MongoDB.
-URI = "mongodb+srv://USER:1234@cluster0.cawsgsm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
+URI = os.getenv('DB_URI')
 # criação de um cliente para conexão com o servidor.
 client = MongoClient(URI)
 
@@ -18,4 +20,8 @@ user_collection = db['users']
 data_collection = db['data']
 
 # conexão com redis para armazenamento de cache
-redis = Redis(host='localhost', port=6379, db=0)
+r_host = os.getenv('REDIS_HOST')
+r_port = os.getenv('REDIS_PORT')
+r_db = os.getenv('REDIST_DB')
+
+redis = Redis(host=r_host, port=r_port, db=r_port)
