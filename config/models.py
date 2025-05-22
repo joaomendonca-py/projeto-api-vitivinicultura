@@ -7,6 +7,7 @@ class Processamento(BaseModel):
     ano: int
     processo: str
     tipo_uva: str
+    tipo_uva_texto:str
     labels: List[str]
     data: List[list]
 
@@ -22,5 +23,6 @@ class ImportacaoExportacao(BaseModel):
     ano: int
     processo: str
     produto: str
+    produto_texto: str
     labels: List[str]
     data: List[List]

@@ -1,1 +1,5 @@
+# ambiente python
 /fastapi
+
+# arquivo env
+.env
