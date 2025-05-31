@@ -30,10 +30,9 @@ class ImportacaoExportacao(BaseModel):
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
-class User:
-    def __init__(self, username: str, hashed_password: str):
-        self.username = username
-        self.hashed_password = hashed_password
+class User(BaseModel):
+    username: str
+    hashed_password: str
 
     def verify_password(self, password: str) -> bool:
         return pwd_context.verify(password, self.hashed_password)

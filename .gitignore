@@ -1,5 +1,25 @@
-# ambiente python
+# Ambiente virtual
+venv/
 /fastapi
 
-# arquivo env
+# Arquivos de ambiente e credenciais
 .env
+acesso.txt
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de documentação
+*.pdf
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e dados locais
+*.log
+.DS_Store

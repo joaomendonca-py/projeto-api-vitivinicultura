@@ -1,13 +1,17 @@
 """"Modularização Rotas API"""
 import json
 import sys
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
+from typing import Annotated
 sys.path.append('../projeto-api-vitivinicultura')
 from src.utils.func_imp_exp import obter_dados_import_export
 from src.utils.func_prod_com import obter_dados_prod_com
 from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
 from config.schema import obter_item_processamento_db
 from config.database import redis, data_collection
+# [AUTH] 30/05/2025 - Importações adicionadas para proteger rotas com autenticação
+from app.routes.auth import get_current_user
+from config.models import User
 
 # construção do objeto APIRouter.
 router = APIRouter()
@@ -20,7 +24,7 @@ async def home():
 
 # construção da rota de produção
 @router.get("/producao", status_code=201, description='Ano: 1970 a 2023.')
-async def producao(ano: int):
+async def producao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except-else: verifica a resposta da página.
@@ -66,7 +70,7 @@ async def producao(ano: int):
             description='Ano: 1970 a 2023.<br>'
             'Tipo de Uva: Viníferas:01, Americanas e Híbridas:02, Uvas de Mesa:03, '
             'Sem Classificação:04')
-async def processamento(ano: int, tipo_uva: str):
+async def processamento(ano: int, tipo_uva: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except-else: verifica a resposta da página.
@@ -109,7 +113,7 @@ async def processamento(ano: int, tipo_uva: str):
 
 # construção da rota de processamento da página por completo
 @router.get("/processamento_completo", status_code=201)
-async def processamento_completo(ano: int):
+async def processamento_completo(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except: verifica a resposta da página.
@@ -140,7 +144,7 @@ async def processamento_completo(ano: int):
 
 # construção da rota de produção
 @router.get("/comercializacao", status_code=201, description='Ano: 1970 a 2023.')
-async def comercializacao(ano: int):
+async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except-else: verifica a resposta da página.
@@ -186,7 +190,7 @@ async def comercializacao(ano: int):
             description='Ano: 1970 a 2024.<br>'
             'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03,'
             'Uvas passas:04, Suco de uva:05')
-async def importacao(ano: int, derivado: str):
+async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except-else: verifica a resposta da página.
@@ -232,7 +236,7 @@ async def importacao(ano: int, derivado: str):
 @router.get("/exportacao", status_code=201,
             description='Ano: 1970 a 2024.<br>'
             'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04')
-async def exportacao(ano: int, derivado: str):
+async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
     # processo try-except-else: verifica a resposta da página.
