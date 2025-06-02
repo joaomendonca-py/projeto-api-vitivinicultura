@@ -1,6 +1,7 @@
 """Modelo de Dados"""
 from typing import List
 from pydantic import BaseModel
+from passlib.context import CryptContext
 
 class Processamento(BaseModel):
     """Classe que recebe os dados de Processamento."""
@@ -26,3 +27,12 @@ class ImportacaoExportacao(BaseModel):
     produto_texto: str
     labels: List[str]
     data: List[List]
+
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+class User(BaseModel):
+    username: str
+    hashed_password: str
+
+    def verify_password(self, password: str) -> bool:
+        return pwd_context.verify(password, self.hashed_password)
