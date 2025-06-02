@@ -1,29 +1,35 @@
 """"Modularização Rotas API"""
-import json
 import sys
-from fastapi import APIRouter, HTTPException
+import json
 sys.path.append('../projeto-api-vitivinicultura')
-from src.utils.func_imp_exp import obter_dados_import_export
-from src.utils.func_prod_com import obter_dados_prod_com
-from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
-from config.schema import obter_item_processamento_db
+from config.models import ProducaoComercializacao, Processamento, ImportacaoExportacao
 from config.database import redis, data_collection
+from config.schema import obter_item_processamento_db
+from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
+from src.utils.func_prod_com import obter_dados_prod_com
+from src.utils.func_imp_exp import obter_dados_import_export
+from fastapi import APIRouter, HTTPException
 
 # construção do objeto APIRouter.
 router = APIRouter()
 
 #  construção da rota home
-@router.get("/")
+
+
+@router.get("/", tags=['coleta_dados'])
 async def home():
     """ Função que executa a rota home."""
     return "Bem-vindo(a) a API de dados de Vitivinicultura da Embrapa.\nDados entre 1970 a 2024."
 
 # construção da rota de produção
-@router.get("/producao", status_code=201, description='Ano: 1970 a 2023.')
+
+
+@router.get("/producao", status_code=201, description='Ano: 1970 a 2023.', tags=['coleta_dados'],
+            response_model=ProducaoComercializacao)
 async def producao(ano: int):
     """ Função que executa o scrapping dos dados de processamento."""
 
-    # processo try-except-else: verifica a resposta da página.
+    # processo try-except: verifica a resposta da página.
     try:
         # pesquisa de dados em cache.
         cache = redis.get(f'{ano}-Produção')
@@ -32,7 +38,8 @@ async def producao(ano: int):
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
-            dados_web = obter_dados_prod_com(ano, processo='Produção', tag_page='02')
+            dados_web = obter_dados_prod_com(
+                ano, processo='Produção', tag_page='02')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)
             redis.set(f'{ano}-Produção', cache)
@@ -62,14 +69,16 @@ async def producao(ano: int):
             return obter_item_processamento_db(dados_mongo_db)
 
 # construção da rota de processamento
+
+
 @router.get("/processamento", status_code=201,
             description='Ano: 1970 a 2023.<br>'
             'Tipo de Uva: Viníferas:01, Americanas e Híbridas:02, Uvas de Mesa:03, '
-            'Sem Classificação:04')
+            'Sem Classificação:04', tags=['coleta_dados'], response_model=Processamento)
 async def processamento(ano: int, tipo_uva: str):
     """ Função que executa o scrapping dos dados de processamento."""
 
-    # processo try-except-else: verifica a resposta da página.
+    # processo try-except: verifica a resposta da página.
     try:
         # pesquisa de dados em cache.
         cache = redis.get(f'{ano}-{tipo_uva}')
@@ -107,43 +116,15 @@ async def processamento(ano: int, tipo_uva: str):
             redis.expire(f'{ano}-{tipo_uva}', 60)
             return obter_item_processamento_db(dados_mongo_db)
 
-# construção da rota de processamento da página por completo
-@router.get("/processamento_completo", status_code=201)
-async def processamento_completo(ano: int):
-    """ Função que executa o scrapping dos dados de processamento."""
-
-    # processo try-except: verifica a resposta da página.
-    try:
-        # pesquisa de dados em cache.
-        cache = redis.get(ano)
-
-        if cache:
-
-            print('Dados obtidos por cache')
-            return json.loads(cache)
-
-        else:
-
-            # invoca a função para obter os dados da página.
-            dados_web = obter_dados_pagina_processamento(ano)
-
-            # armazena os dados em cache.
-            cache = json.dumps(dados_web)
-            redis.set(ano, cache)
-            # adiciona o período de tempo de armazenamento.
-            redis.expire(ano, 60)
-            print('Dados armazenados em cache')
-            return dados_web
-    # retorna um erro caso a página não estiver disponível.
-    except HTTPException as e:
-        return HTTPException(status_code=500, detail=f"Erro: {e}")
-
 # construção da rota de produção
-@router.get("/comercializacao", status_code=201, description='Ano: 1970 a 2023.')
+
+
+@router.get("/comercializacao", status_code=201, description='Ano: 1970 a 2023.', tags=['coleta_dados'],
+            response_model=ProducaoComercializacao)
 async def comercializacao(ano: int):
     """ Função que executa o scrapping dos dados de processamento."""
 
-    # processo try-except-else: verifica a resposta da página.
+    # processo try-except: verifica a resposta da página.
     try:
         # pesquisa de dados em cache.
         cache = redis.get(f'{ano}-Comercialização')
@@ -152,7 +133,8 @@ async def comercializacao(ano: int):
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
-            dados_web = obter_dados_prod_com(ano, processo='Comercialização', tag_page='04')
+            dados_web = obter_dados_prod_com(
+                ano, processo='Comercialização', tag_page='04')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)
             redis.set(f'{ano}-Comercialização', cache)
@@ -182,14 +164,16 @@ async def comercializacao(ano: int):
             return obter_item_processamento_db(dados_mongo_db)
 
 # construção da rota de importação
+
+
 @router.get("/importacao", status_code=201,
             description='Ano: 1970 a 2024.<br>'
             'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03,'
-            'Uvas passas:04, Suco de uva:05')
+            'Uvas passas:04, Suco de uva:05', tags=['coleta_dados'], response_model=ImportacaoExportacao)
 async def importacao(ano: int, derivado: str):
     """ Função que executa o scrapping dos dados de processamento."""
 
-    # processo try-except-else: verifica a resposta da página.
+    # processo try-except: verifica a resposta da página.
     try:
         # pesquisa de dados em cache.
         cache = redis.get(f'{ano}-{derivado}-Importação')
@@ -198,7 +182,7 @@ async def importacao(ano: int, derivado: str):
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
-            dados_web = obter_dados_import_export(ano, derivado, processo = 'Importação',
+            dados_web = obter_dados_import_export(ano, derivado, processo='Importação',
                                                   tag_page='05')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)
@@ -229,13 +213,15 @@ async def importacao(ano: int, derivado: str):
             return obter_item_processamento_db(dados_mongo_db)
 
 # construção da rota de exportação
+
+
 @router.get("/exportacao", status_code=201,
             description='Ano: 1970 a 2024.<br>'
-            'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04')
+            'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04', tags=['coleta_dados'], response_model=ImportacaoExportacao)
 async def exportacao(ano: int, derivado: str):
     """ Função que executa o scrapping dos dados de processamento."""
 
-    # processo try-except-else: verifica a resposta da página.
+    # processo try-except: verifica a resposta da página.
     try:
         # pesquisa de dados em cache.
         cache = redis.get(f'{ano}-{derivado}-Exportação')
@@ -244,7 +230,7 @@ async def exportacao(ano: int, derivado: str):
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
-            dados_web = obter_dados_import_export(ano, derivado,processo='Exportação',
+            dados_web = obter_dados_import_export(ano, derivado, processo='Exportação',
                                                   tag_page='06')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)

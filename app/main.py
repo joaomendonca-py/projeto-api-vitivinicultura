@@ -1,6 +1,9 @@
 """ Aplicação Fast API"""
-from routes.route import router
+import sys
 from fastapi import FastAPI
+sys.path.append('../projeto-api-vitivinicultura')
+from routes.route import router
+from routes.predict import models_router
 # from .config.database import user_collection
 
 # construção do objeto app
@@ -13,3 +16,4 @@ app = FastAPI(
 
 # inclusão das rotas criadas à aplicação.
 app.include_router(router)
+app.include_router(models_router)

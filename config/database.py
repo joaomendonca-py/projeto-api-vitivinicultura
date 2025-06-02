@@ -24,4 +24,4 @@ r_host = os.getenv('REDIS_HOST')
 r_port = os.getenv('REDIS_PORT')
 r_db = os.getenv('REDIST_DB')
 
-redis = Redis(host=r_host, port=r_port, db=r_port)
+redis = Redis(host=r_host, port=r_port, db=r_db)

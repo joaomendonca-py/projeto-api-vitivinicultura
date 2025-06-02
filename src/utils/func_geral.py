@@ -1,8 +1,8 @@
 """Arquivo de funções gerais"""
-from config.database import data_collection
 import sys
 import json
 sys.path.append('../projeto-api-vitivinicultura')
+from config.database import data_collection
 
 # função salvar arquivos no formato json.
 def salvar_arquivo(output, caminho: str):
