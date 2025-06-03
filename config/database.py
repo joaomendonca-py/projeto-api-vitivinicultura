@@ -25,3 +25,25 @@ r_port = os.getenv('REDIS_PORT')
 r_db = os.getenv('REDIST_DB')
 
 redis = Redis(host=r_host, port=r_port, db=r_port)
+
+# Redis mock para garantir compatibilidade sem erro
+class RedisMock:
+    def get(self, key):
+        return None
+    
+    def set(self, key, value):
+        pass
+    
+    def expire(self, key, seconds):
+        pass
+
+# Importa as configurações do database principal
+try:
+    from app.database import data_collection
+    from app.database import redis as app_redis
+    
+    # Se redis for None, usa o mock
+    redis = app_redis if app_redis is not None else RedisMock()
+except:
+    redis = RedisMock()
+    data_collection = None
