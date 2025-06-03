@@ -1,4 +1,4 @@
-# 🍇 API de Vitivinicultura - Tech Challenge FIAP
+#  API de Vitivinicultura - Tech Challenge FIAP
 
 [![Deploy Status](https://img.shields.io/badge/Deploy-Live%20on%20Render-success)](https://vitivinicultura-00fv.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://python.org)
@@ -7,12 +7,12 @@
 
 API REST completa para análise e consulta de dados de **vitivinicultura** da Embrapa (1970-2024), desenvolvida como Tech Challenge da **Pós-graduação em Machine Learning Engineering da FIAP**.
 
-## 🚀 **Demo Live**
+##  **Demo Live**
 
-🌐 **URL da API**: https://vitivinicultura-00fv.onrender.com
-📚 **Documentação Interativa**: https://vitivinicultura-00fv.onrender.com/docs
+ **URL da API**: https://vitivinicultura-00fv.onrender.com
+ **Documentação Interativa**: https://vitivinicultura-00fv.onrender.com/docs
 
-## 📋 **Sobre o Projeto**
+##  **Sobre o Projeto**
 
 Esta API fornece acesso aos dados históricos de vitivinicultura do Brasil, incluindo:
 - **Produção** de uvas (1970-2023)
@@ -20,13 +20,13 @@ Esta API fornece acesso aos dados históricos de vitivinicultura do Brasil, incl
 - **Comercialização** (1970-2023)
 - **Importação/Exportação** de derivados (1970-2024)
 
-### 🔐 **Segurança**
+###  **Segurança**
 - Autenticação JWT obrigatória
 - Sistema completo de signup/login
 - Proteção de todas as rotas de dados
 - Senhas criptografadas com bcrypt
 
-## 🛠️ **Tecnologias Utilizadas**
+##  **Tecnologias Utilizadas**
 
 | Categoria | Tecnologia |
 |-----------|------------|
@@ -38,7 +38,7 @@ Esta API fornece acesso aos dados históricos de vitivinicultura do Brasil, incl
 | **Web Scraping** | BeautifulSoup4, Requests |
 | **Machine Learning** | Scikit-learn, Pandas, NumPy |
 
-## 📁 **Estrutura do Projeto**
+##  **Estrutura do Projeto**
 
 ```
 projeto-api-vitivinicultura/
@@ -61,7 +61,7 @@ projeto-api-vitivinicultura/
 └── README.md                    # Este arquivo
 ```
 
-## 🚀 **Instalação e Execução**
+##  **Instalação e Execução**
 
 ### **Opção 1: Desenvolvimento Local**
 
@@ -95,7 +95,7 @@ docker build -t vitivinicultura-api .
 docker run -p 8000:8000 vitivinicultura-api
 ```
 
-## ⚙️ **Variáveis de Ambiente**
+##  **Variáveis de Ambiente**
 
 Crie um arquivo `.env` na raiz do projeto:
 
@@ -119,7 +119,7 @@ API_ENV=development
 CORS_ORIGINS=["http://localhost:3000", "http://localhost:8000"]
 ```
 
-## 🔐 **Autenticação**
+##  **Autenticação**
 
 ### **1. Criar Conta**
 ```bash
@@ -145,9 +145,9 @@ POST /auth/token
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 ```
 
-## 📊 **Endpoints da API**
+##  **Endpoints da API**
 
-### **🔑 Autenticação**
+### ** Autenticação**
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
 | `POST` | `/auth/signup` | Criar nova conta |
@@ -155,7 +155,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 | `POST` | `/auth/login` | Login (JSON) |
 | `GET` | `/auth/me` | Dados do usuário atual |
 
-### **📈 Dados Vitivinicultura** (Requer Autenticação)
+### ** Dados Vitivinicultura** (Requer Autenticação)
 | Método | Endpoint | Descrição | Parâmetros |
 |--------|----------|-----------|------------|
 | `GET` | `/producao` | Dados de produção | `ano` (1970-2023) |
@@ -165,7 +165,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 | `GET` | `/importacao` | Dados de importação | `ano`, `derivado` |
 | `GET` | `/exportacao` | Dados de exportação | `ano`, `derivado` |
 
-### **📋 Parâmetros**
+### ** Parâmetros**
 
 #### **Tipos de Uva** (`tipo_uva`)
 - `01` - Viníferas
@@ -181,7 +181,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 - `04` - Suco de uva (só exportação)  
 - `05` - Suco de uva (só importação)
 
-## 🧪 **Exemplos de Uso**
+##  **Exemplos de Uso**
 
 ### **Autenticação Completa**
 ```python
@@ -236,23 +236,23 @@ dados_processamento = response.json()
 }
 ```
 
-## 🌐 **Deploy no Render**
+##  **Deploy no Render**
 
 A API está deployada no **Render.com** com:
 
-### **✅ Funcionalidades Ativas**
+### ** Funcionalidades Ativas**
 - ✅ Deploy automático via GitHub
 - ✅ HTTPS habilitado
 - ✅ Variáveis de ambiente seguras
 - ✅ Health checks automáticos
 - ✅ Logs em tempo real
 
-### **🔗 URLs**
+### ** URLs**
 - **API**: https://vitivinicultura-00fv.onrender.com
 - **Docs**: https://vitivinicultura-00fv.onrender.com/docs
 - **Health**: https://vitivinicultura-00fv.onrender.com/health
 
-### **📋 Configuração (render.yaml)**
+### ** Configuração (render.yaml)**
 ```yaml
 services:
   - type: web
@@ -263,7 +263,7 @@ services:
     healthCheckPath: /health
 ```
 
-## 🔧 **Desenvolvimento**
+##  **Desenvolvimento**
 
 ### **Branches**
 - `main` - Produção (deploy automático)
@@ -285,19 +285,19 @@ git push origin main  # Deploy automático no Render
 curl https://vitivinicultura-00fv.onrender.com/health
 ```
 
-## 📚 **Documentação**
+##  **Documentação**
 
-### **📖 Documentação Interativa**
+### ** Documentação Interativa**
 - **Swagger UI**: `/docs` - Interface interativa para testar endpoints
 - **ReDoc**: `/redoc` - Documentação alternativa
 
-### **🔍 Explorar API**
+### ** Explorar API**
 1. Acesse https://vitivinicultura-00fv.onrender.com/docs
 2. Clique em **"Authorize"**
 3. Faça login via `/auth/token`
 4. Teste qualquer endpoint com autenticação ativa
 
-## 🚦 **Status e Monitoramento**
+##  **Status e Monitoramento**
 
 ### **Health Check**
 ```bash
@@ -311,12 +311,12 @@ GET /health
 }
 ```
 
-### **🔴 Cache (Redis)**
+### ** Cache (Redis)**
 - **Status atual**: MockRedis (funcional sem cache)
 - **Impacto**: Dados sempre atualizados da fonte
 - **Performance**: Pode ser mais lenta sem cache
 
-## 🤝 **Contribuição**
+##  **Contribuição**
 
 1. **Fork** o projeto
 2. **Clone** seu fork
@@ -325,15 +325,14 @@ GET /health
 5. **Push** para a branch: `git push origin feature/nova-funcionalidade`
 6. **Abra** um Pull Request
 
-## 📄 **Licença**
+##  **Licença**
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👥 **Autores**
+##  **Autores**
 
-- **João** - *Desenvolvimento inicial* - [joaomendonca-py](https://github.com/joaomendonca-py)
 
-## 🙏 **Agradecimentos**
+##  **Agradecimentos**
 
 - **FIAP** - Pós-graduação em Machine Learning Engineering
 - **Embrapa** - Fonte dos dados de vitivinicultura
@@ -342,7 +341,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-## 📞 **Suporte**
+##  **Suporte**
 
 - **Issues**: [GitHub Issues](https://github.com/joaomendonca-py/projeto-api-vitivinicultura/issues)
 - **Email**: projeto5mlet@gmail.com
@@ -350,4 +349,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-⭐ **Se este projeto te ajudou, deixe uma star no GitHub!**
+ **Se este projeto te ajudou, deixe uma star no GitHub!**
