@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: api-vitivinicultura
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      # MongoDB Atlas Connection
+      - key: MONGODB_URL
+        value: mongodb+srv://projeto5mlet:projetofiap@apiembrapa.wcmp3fv.mongodb.net/
+      
+      # JWT Configuration
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: ACCESS_TOKEN_EXPIRE_MINUTES
+        value: 60
+      
+      # Redis Configuration (opcional - usa fallback se não disponível)
+      - key: REDIS_HOST
+        value: localhost
+      - key: REDIS_PORT
+        value: 6379
+      - key: REDIS_DB
+        value: 0
+      
+      # Environment
+      - key: ENVIRONMENT
+        value: production 
