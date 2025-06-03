@@ -24,7 +24,7 @@ app.add_middleware(
 )
 
 # inclusão das rotas criadas à aplicação.
-app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
+app.include_router(auth.router, prefix="/auth")
 app.include_router(main_router, tags=["Dados Vitivinicultura"])
 
 @app.get("/", tags=["Root"])
