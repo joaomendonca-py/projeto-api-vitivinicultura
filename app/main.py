@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .config import settings
 from .routes import auth
+from .routes.route import router as main_router
 import os
 
 # construção do objeto app
@@ -25,6 +26,7 @@ app.add_middleware(
 
 # inclusão das rotas criadas à aplicação.
 app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
+app.include_router(main_router, tags=["Dados Vitivinicultura"])
 
 # Importar outras rotas se existirem
 try:

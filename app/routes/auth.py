@@ -13,7 +13,7 @@ from app.config import settings
 from app.database import get_user_by_username, user_collection
 from config.models import User
 
-router = APIRouter(tags=["autenticação"])
+router = APIRouter()
 
 # Configuração do contexto de criptografia
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
