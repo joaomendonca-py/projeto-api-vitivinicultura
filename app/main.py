@@ -11,6 +11,20 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Tentar importar rotas de ML
+try:
+    from .routes.predict import ml_router
+    ML_ROUTES_AVAILABLE = True
+    logger.info("✅ Rotas de ML encontradas")
+except ImportError:
+    try:
+        from routes.predict import ml_router
+        ML_ROUTES_AVAILABLE = True
+        logger.info("✅ Rotas de ML encontradas (import alternativo)")
+    except ImportError:
+        ML_ROUTES_AVAILABLE = False
+        logger.info("📋 Rotas de ML não encontradas (opcional)")
+
 # construção do objeto app
 app = FastAPI(
     title="API de Vitivinicultura",
@@ -32,6 +46,11 @@ app.add_middleware(
 # inclusão das rotas criadas à aplicação.
 app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
 app.include_router(main_router, tags=["Dados Vitivinicultura"])
+
+# Incluir rotas de ML se disponíveis
+if ML_ROUTES_AVAILABLE:
+    app.include_router(ml_router, tags=["Machine Learning"])
+    logger.info("✅ Rotas de ML incluídas com sucesso")
 
 # Importar outras rotas se existirem
 try:
