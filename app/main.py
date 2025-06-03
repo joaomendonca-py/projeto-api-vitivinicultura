@@ -1,86 +1,72 @@
 """ Aplicação Fast API"""
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from .config import settings
+from .routes import auth
+from .routes.route import router as main_router
+import os
 import logging
 
-# [DEPLOY] 03/06/2025 - Configurar logging
+# Configurar logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # construção do objeto app
 app = FastAPI(
-    title="API de Vitivinicultura com ML e Autenticação",
-    version="2.0.0",
-    description="API completa para análise, previsão de dados de vitivinicultura e modelos de Machine Learning com autenticação JWT",
+    title="API de Vitivinicultura",
+    description="API para análise e previsão de dados relacionados à vitivinicultura",
+    version="1.0.0",
     docs_url="/docs",
     redoc_url="/redoc"
 )
 
-# [MERGE] 03/06/2025 - Configuração CORS (preservada)
+# Configuração CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Permitir todas as origens para facilitar testes
+    allow_origins=settings.CORS_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-logger.info("✅ API básica carregada - teste de deploy")
+# inclusão das rotas criadas à aplicação.
+app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
+app.include_router(main_router, tags=["Dados Vitivinicultura"])
 
-# [DEPLOY] 03/06/2025 - Rotas básicas para teste
+# Importar outras rotas se existirem
+try:
+    from .routes import vinhos
+    app.include_router(vinhos.router, prefix="/vinhos", tags=["Vinhos"])
+    logger.info("✅ Rotas de vinhos carregadas com sucesso")
+except ImportError:
+    logger.info("📋 Rotas de vinhos não encontradas (opcional)")
+
+try:
+    from .routes import predicoes
+    app.include_router(predicoes.router, prefix="/predicoes", tags=["Predições"])
+    logger.info("✅ Rotas de predições carregadas com sucesso")
+except ImportError:
+    logger.info("📋 Rotas de predições não encontradas (opcional)")
+
 @app.get("/", tags=["Root"])
+@app.head("/", tags=["Root"])  # [DEPLOY] 03/06/2025 - Suporte a health checks HEAD
 async def read_root():
     return {
-        "message": "Bem-vindo à API de Vitivinicultura com ML e Autenticação",
+        "message": "Bem-vindo à API de Vitivinicultura",
         "docs": "/docs",
         "redoc": "/redoc",
-        "version": "2.0.0",
-        "status": "deploy_test",
-        "features": [
-            "Dados de Vitivinicultura (1970-2024)",
-            "Modelos de Machine Learning",
-            "Clustering de países",
-            "Previsões de exportação",
-            "Autenticação JWT"
-        ]
+        "environment": settings.API_ENV,
+        "status": "online",
+        "version": "1.0.0"
     }
 
 @app.get("/health", tags=["Health Check"])
+@app.head("/health", tags=["Health Check"])  # [DEPLOY] 03/06/2025 - Suporte a health checks HEAD
 async def health_check():
     return {
         "status": "healthy",
-        "version": "2.0.0",
-        "deploy": "test_mode",
-        "services": {
-            "api": "online",
-            "ml_models": "loading", 
-            "authentication": "loading",
-            "data": "loading"
-        }
+        "version": "1.0.0",
+        "environment": settings.API_ENV,
+        "mongodb": "connected" if settings.MONGODB_URL else "not configured",
+        "redis": "configured" if settings.REDIS_URL else "not configured"
     }
-
-# [DEPLOY] 03/06/2025 - Teste básico de importação
-try:
-    # Import das rotas existentes (ML) - teste gradual
-    from app.routes.route import router
-    app.include_router(router, tags=["Dados Vitivinicultura"])
-    logger.info("✅ Rotas de dados carregadas")
-except ImportError as e:
-    logger.warning(f"⚠️ Rotas de dados não carregadas: {e}")
-
-try:
-    from app.routes.predict import models_router
-    app.include_router(models_router, tags=["Machine Learning"])
-    logger.info("✅ Rotas ML carregadas")
-except ImportError as e:
-    logger.warning(f"⚠️ Rotas ML não carregadas: {e}")
-
-try:
-    # [MERGE] 03/06/2025 - Import da autenticação JWT - teste
-    from app.routes.auth import router as auth_router
-    app.include_router(auth_router, prefix="/auth", tags=["Autenticação"])
-    logger.info("✅ Rotas de autenticação carregadas")
-except ImportError as e:
-    logger.warning(f"⚠️ Rotas de autenticação não carregadas: {e}")
-
-logger.info("🚀 API inicializada - verificar logs para status dos módulos")

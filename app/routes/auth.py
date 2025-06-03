@@ -8,41 +8,10 @@ from jose import JWTError, jwt
 from passlib.context import CryptContext
 from pydantic import BaseModel, Field, validator
 import re
-import sys
 
-# [MERGE] 03/06/2025 - Ajustar imports para nova estrutura
-sys.path.append('../projeto-api-vitivinicultura')
-
-# Imports locais ajustados
-try:
-    from config import settings
-except ImportError:
-    # Fallback para configurações básicas
-    class Settings:
-        JWT_SECRET_KEY = "fallback-secret-key-change-in-production"
-        JWT_ALGORITHM = "HS256"
-        ACCESS_TOKEN_EXPIRE_MINUTES = 30
-    settings = Settings()
-
-try:
-    from database import get_user_by_username, user_collection
-except ImportError:
-    try:
-        from app.database import get_user_by_username, user_collection
-    except ImportError:
-        # Mock para teste sem banco
-        async def get_user_by_username(username):
-            return None
-        user_collection = None
-
-try:
-    from config.models import User
-except ImportError:
-    # Modelo básico de User
-    class User:
-        def __init__(self, username, hashed_password):
-            self.username = username
-            self.hashed_password = hashed_password
+from app.config import settings
+from app.database import get_user_by_username, user_collection
+from config.models import User
 
 router = APIRouter()
 
@@ -179,12 +148,6 @@ async def create_user(user: UserCreate):
     - Username: 3-50 caracteres, apenas letras, números, _ ou -
     - Senha: mínimo 6 caracteres, deve conter pelo menos 1 letra e 1 número
     """
-    if not user_collection:
-        raise HTTPException(
-            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-            detail="Serviço de banco de dados não disponível"
-        )
-    
     # Verifica se o usuário já existe
     existing_user = await get_user_by_username(user.username)
     if existing_user:
