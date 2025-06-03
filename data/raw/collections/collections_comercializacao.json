@@ -1,0 +1,14150 @@
+[
+ {
+  "ano": 1970,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "98.327.606"
+   ],
+   [
+    "Tinto",
+    "83.300.735"
+   ],
+   [
+    "Rosado",
+    "107.681"
+   ],
+   [
+    "Branco",
+    "14.919.190"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "4.430.629"
+   ],
+   [
+    "Tinto",
+    "435.354"
+   ],
+   [
+    "Rosado",
+    "183.234"
+   ],
+   [
+    "Branco",
+    "3.812.041"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "466.480"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "7.325.789"
+   ],
+   [
+    "Tinto",
+    "4.730.346"
+   ],
+   [
+    "Rosado",
+    "1.229.564"
+   ],
+   [
+    "Branco",
+    "1.365.879"
+   ],
+   [
+    "ESPUMANTES",
+    "2.743.678"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "2.626.855"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "-"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "19.844.550"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "1.192.987"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "9.388.296"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "533.987"
+   ],
+   [
+    "Filtrado doce",
+    "346.403"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "178.350"
+   ],
+   [
+    "Mosto concentrado",
+    "44.971"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "401.030"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.359.297"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.386.173"
+   ],
+   [
+    "Vinho licoroso",
+    "3.013.056"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "135.765.587"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1971,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "114.399.031"
+   ],
+   [
+    "Tinto",
+    "98.522.869"
+   ],
+   [
+    "Rosado",
+    "542.274"
+   ],
+   [
+    "Branco",
+    "15.333.888"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "4.840.369"
+   ],
+   [
+    "Tinto",
+    "428.927"
+   ],
+   [
+    "Rosado",
+    "227.299"
+   ],
+   [
+    "Branco",
+    "4.184.143"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "358.116"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "7.824.931"
+   ],
+   [
+    "Tinto",
+    "4.802.828"
+   ],
+   [
+    "Rosado",
+    "1.662.821"
+   ],
+   [
+    "Branco",
+    "1.359.282"
+   ],
+   [
+    "ESPUMANTES",
+    "2.907.289"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "2.745.249"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "-"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "20.351.384"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "1.111.014"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "9.893.167"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.023.876"
+   ],
+   [
+    "Filtrado doce",
+    "432.991"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "81.510"
+   ],
+   [
+    "Mosto concentrado",
+    "20.502"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "410.850"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.256.068"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.645.774"
+   ],
+   [
+    "Vinho licoroso",
+    "2.475.632"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "153.426.369"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1972,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "118.377.367"
+   ],
+   [
+    "Tinto",
+    "101.167.932"
+   ],
+   [
+    "Rosado",
+    "7.770.851"
+   ],
+   [
+    "Branco",
+    "9.438.584"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "5.602.091"
+   ],
+   [
+    "Tinto",
+    "624.499"
+   ],
+   [
+    "Rosado",
+    "403.664"
+   ],
+   [
+    "Branco",
+    "4.573.928"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "356.340"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "8.737.605"
+   ],
+   [
+    "Tinto",
+    "4.347.706"
+   ],
+   [
+    "Rosado",
+    "1.901.801"
+   ],
+   [
+    "Branco",
+    "2.488.098"
+   ],
+   [
+    "ESPUMANTES",
+    "3.523.335"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.069.351"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "59.044"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "23.615.205"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "1.059.696"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "11.876.098"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.573.023"
+   ],
+   [
+    "Filtrado doce",
+    "670.626"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "133.865"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "447.600"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.524.908"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.921.573"
+   ],
+   [
+    "Vinho licoroso",
+    "2.407.816"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "164.340.338"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1973,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "116.617.910"
+   ],
+   [
+    "Tinto",
+    "98.196.747"
+   ],
+   [
+    "Rosado",
+    "8.425.617"
+   ],
+   [
+    "Branco",
+    "9.995.546"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "7.202.830"
+   ],
+   [
+    "Tinto",
+    "783.508"
+   ],
+   [
+    "Rosado",
+    "1.377.333"
+   ],
+   [
+    "Branco",
+    "5.041.989"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "327.865"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "9.693.953"
+   ],
+   [
+    "Tinto",
+    "5.017.487"
+   ],
+   [
+    "Rosado",
+    "2.062.011"
+   ],
+   [
+    "Branco",
+    "2.614.455"
+   ],
+   [
+    "ESPUMANTES",
+    "3.625.230"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.668.991"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "1.951.966"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "25.401.454"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "997.624"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "12.156.057"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.485.567"
+   ],
+   [
+    "Filtrado doce",
+    "837.970"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "160.470"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "1.724.244"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.426.737"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "4.168.841"
+   ],
+   [
+    "Vinho licoroso",
+    "2.443.944"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "170.490.199"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1974,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "94.173.324"
+   ],
+   [
+    "Tinto",
+    "77.167.303"
+   ],
+   [
+    "Rosado",
+    "8.891.367"
+   ],
+   [
+    "Branco",
+    "8.114.654"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "7.571.802"
+   ],
+   [
+    "Tinto",
+    "1.616.144"
+   ],
+   [
+    "Rosado",
+    "1.725.564"
+   ],
+   [
+    "Branco",
+    "4.230.094"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "270.641"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "7.638.484"
+   ],
+   [
+    "Tinto",
+    "3.763.509"
+   ],
+   [
+    "Rosado",
+    "1.989.341"
+   ],
+   [
+    "Branco",
+    "1.885.634"
+   ],
+   [
+    "ESPUMANTES",
+    "3.442.734"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.673.891"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "1.619.428"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "24.530.878"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "839.441"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "12.885.577"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.409.986"
+   ],
+   [
+    "Filtrado doce",
+    "1.039.110"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "45.878"
+   ],
+   [
+    "Mosto concentrado",
+    "761.417"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "239.200"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.717.666"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.670.736"
+   ],
+   [
+    "Vinho licoroso",
+    "1.921.867"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "143.921.182"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1975,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "108.031.792"
+   ],
+   [
+    "Tinto",
+    "91.528.090"
+   ],
+   [
+    "Rosado",
+    "7.261.777"
+   ],
+   [
+    "Branco",
+    "9.241.925"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "8.848.303"
+   ],
+   [
+    "Tinto",
+    "2.050.960"
+   ],
+   [
+    "Rosado",
+    "2.130.619"
+   ],
+   [
+    "Branco",
+    "4.666.724"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "301.293"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "10.260.445"
+   ],
+   [
+    "Tinto",
+    "4.815.235"
+   ],
+   [
+    "Rosado",
+    "2.885.972"
+   ],
+   [
+    "Branco",
+    "2.559.238"
+   ],
+   [
+    "ESPUMANTES",
+    "3.691.348"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.802.187"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "768.401"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "23.102.540"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "706.946"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "11.418.527"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.793.135"
+   ],
+   [
+    "Filtrado doce",
+    "1.353.194"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "272.141"
+   ],
+   [
+    "Mosto concentrado",
+    "251.197"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "34.300"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.574.960"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.493.104"
+   ],
+   [
+    "Vinho licoroso",
+    "2.205.036"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "160.806.309"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1976,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "139.238.614"
+   ],
+   [
+    "Tinto",
+    "116.407.222"
+   ],
+   [
+    "Rosado",
+    "11.748.047"
+   ],
+   [
+    "Branco",
+    "11.083.345"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "14.095.648"
+   ],
+   [
+    "Tinto",
+    "4.450.570"
+   ],
+   [
+    "Rosado",
+    "3.118.919"
+   ],
+   [
+    "Branco",
+    "6.526.159"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "248.456"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "12.392.725"
+   ],
+   [
+    "Tinto",
+    "4.819.463"
+   ],
+   [
+    "Rosado",
+    "4.231.765"
+   ],
+   [
+    "Branco",
+    "3.341.497"
+   ],
+   [
+    "ESPUMANTES",
+    "4.204.666"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.433.821"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "1.467.883"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "28.321.777"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "698.399"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "14.938.849"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.373.075"
+   ],
+   [
+    "Filtrado doce",
+    "1.792.832"
+   ],
+   [
+    "Jeropiga",
+    "48.203"
+   ],
+   [
+    "Mistelas",
+    "88.300"
+   ],
+   [
+    "Mosto concentrado",
+    "309.196"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "420.300"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "748.459"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "5.429.800"
+   ],
+   [
+    "Vinho licoroso",
+    "2.474.364"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "206.403.590"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1977,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "140.813.114"
+   ],
+   [
+    "Tinto",
+    "116.609.545"
+   ],
+   [
+    "Rosado",
+    "15.195.525"
+   ],
+   [
+    "Branco",
+    "9.008.044"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "14.975.330"
+   ],
+   [
+    "Tinto",
+    "4.504.303"
+   ],
+   [
+    "Rosado",
+    "3.248.565"
+   ],
+   [
+    "Branco",
+    "7.222.462"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "143.575"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "11.569.676"
+   ],
+   [
+    "Tinto",
+    "3.959.050"
+   ],
+   [
+    "Rosado",
+    "4.034.615"
+   ],
+   [
+    "Branco",
+    "3.576.011"
+   ],
+   [
+    "ESPUMANTES",
+    "4.150.746"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.814.893"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "2.444.089"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "27.333.925"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "595.137"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "12.858.163"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "780.548"
+   ],
+   [
+    "Filtrado doce",
+    "2.292.414"
+   ],
+   [
+    "Jeropiga",
+    "34.624"
+   ],
+   [
+    "Mistelas",
+    "195.060"
+   ],
+   [
+    "Mosto concentrado",
+    "84.058"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "746.326"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.549.579"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "5.170.582"
+   ],
+   [
+    "Vinho licoroso",
+    "3.027.434"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "208.245.348"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1978,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "141.293.379"
+   ],
+   [
+    "Tinto",
+    "117.203.914"
+   ],
+   [
+    "Rosado",
+    "14.612.454"
+   ],
+   [
+    "Branco",
+    "9.477.011"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "17.596.956"
+   ],
+   [
+    "Tinto",
+    "4.920.802"
+   ],
+   [
+    "Rosado",
+    "3.501.895"
+   ],
+   [
+    "Branco",
+    "9.174.259"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "13.915"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "10.247.572"
+   ],
+   [
+    "Tinto",
+    "4.083.073"
+   ],
+   [
+    "Rosado",
+    "4.177.476"
+   ],
+   [
+    "Branco",
+    "1.987.023"
+   ],
+   [
+    "ESPUMANTES",
+    "3.684.240"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.963.440"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "2.454.178"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.509.570"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "432.596"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "12.014.556"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "866.773"
+   ],
+   [
+    "Filtrado doce",
+    "2.396.689"
+   ],
+   [
+    "Jeropiga",
+    "56.372"
+   ],
+   [
+    "Mistelas",
+    "2.217.900"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "327.450"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.452.955"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "5.649.977"
+   ],
+   [
+    "Vinho licoroso",
+    "3.094.302"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "211.763.250"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1979,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "149.609.112"
+   ],
+   [
+    "Tinto",
+    "119.496.652"
+   ],
+   [
+    "Rosado",
+    "18.643.308"
+   ],
+   [
+    "Branco",
+    "11.469.152"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "21.695.829"
+   ],
+   [
+    "Tinto",
+    "6.360.276"
+   ],
+   [
+    "Rosado",
+    "4.119.615"
+   ],
+   [
+    "Branco",
+    "11.215.938"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "14.578"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "13.790.557"
+   ],
+   [
+    "Tinto",
+    "7.004.780"
+   ],
+   [
+    "Rosado",
+    "5.067.851"
+   ],
+   [
+    "Branco",
+    "1.717.926"
+   ],
+   [
+    "ESPUMANTES",
+    "3.246.929"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.096.784"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "2.751.886"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.719.709"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "812.433"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "9.991.254"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "3.062.750"
+   ],
+   [
+    "Filtrado doce",
+    "3.374.608"
+   ],
+   [
+    "Jeropiga",
+    "47.738"
+   ],
+   [
+    "Mistelas",
+    "6.293.317"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "485.800"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.144.256"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "976.174"
+   ],
+   [
+    "Vinho licoroso",
+    "2.531.379"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "226.925.384"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1980,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "122.825.298"
+   ],
+   [
+    "Tinto",
+    "99.646.124"
+   ],
+   [
+    "Rosado",
+    "14.746.625"
+   ],
+   [
+    "Branco",
+    "8.432.549"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "22.976.342"
+   ],
+   [
+    "Tinto",
+    "7.244.385"
+   ],
+   [
+    "Rosado",
+    "5.096.819"
+   ],
+   [
+    "Branco",
+    "10.635.138"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "9.303"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "11.056.774"
+   ],
+   [
+    "Tinto",
+    "4.608.059"
+   ],
+   [
+    "Rosado",
+    "4.312.513"
+   ],
+   [
+    "Branco",
+    "2.136.202"
+   ],
+   [
+    "ESPUMANTES",
+    "3.257.451"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.837.620"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "4.142.363"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "18.053.687"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "494.061"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.593.406"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.778.900"
+   ],
+   [
+    "Filtrado doce",
+    "4.414.074"
+   ],
+   [
+    "Jeropiga",
+    "25.352"
+   ],
+   [
+    "Mistelas",
+    "3.806.641"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "113.550"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.052.253"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "697.908"
+   ],
+   [
+    "Vinho licoroso",
+    "2.077.542"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "188.158.838"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1981,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "128.894.580"
+   ],
+   [
+    "Tinto",
+    "99.151.812"
+   ],
+   [
+    "Rosado",
+    "16.360.547"
+   ],
+   [
+    "Branco",
+    "13.382.221"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "21.607.857"
+   ],
+   [
+    "Tinto",
+    "7.403.644"
+   ],
+   [
+    "Rosado",
+    "2.738.962"
+   ],
+   [
+    "Branco",
+    "11.465.251"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "13.354"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "6.907.060"
+   ],
+   [
+    "Tinto",
+    "1.906.240"
+   ],
+   [
+    "Rosado",
+    "3.388.872"
+   ],
+   [
+    "Branco",
+    "1.611.948"
+   ],
+   [
+    "ESPUMANTES",
+    "2.301.421"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "3.994.038"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "3.064.156"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "19.698.180"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "1.770.895"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.637.947"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "2.728.959"
+   ],
+   [
+    "Filtrado doce",
+    "3.861.367"
+   ],
+   [
+    "Jeropiga",
+    "4.236"
+   ],
+   [
+    "Mistelas",
+    "4.518.098"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "360.180"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.296.456"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "579.372"
+   ],
+   [
+    "Vinho licoroso",
+    "1.940.670"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "186.480.646"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1982,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "166.861.772"
+   ],
+   [
+    "Tinto",
+    "131.957.890"
+   ],
+   [
+    "Rosado",
+    "15.786.964"
+   ],
+   [
+    "Branco",
+    "19.116.918"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "26.302.928"
+   ],
+   [
+    "Tinto",
+    "7.699.010"
+   ],
+   [
+    "Rosado",
+    "3.608.877"
+   ],
+   [
+    "Branco",
+    "14.995.041"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "176.692"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "5.011.009"
+   ],
+   [
+    "Tinto",
+    "939.619"
+   ],
+   [
+    "Rosado",
+    "2.418.770"
+   ],
+   [
+    "Branco",
+    "1.652.620"
+   ],
+   [
+    "ESPUMANTES",
+    "2.432.386"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.081.256"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "3.148.110"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "17.770.629"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "496.554"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.348.154"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "3.466.121"
+   ],
+   [
+    "Filtrado doce",
+    "4.261.912"
+   ],
+   [
+    "Jeropiga",
+    "30.410"
+   ],
+   [
+    "Mistelas",
+    "2.068.930"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "607.630"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.434.183"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "708.876"
+   ],
+   [
+    "Vinho licoroso",
+    "2.347.859"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "225.784.782"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1983,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "195.616.620"
+   ],
+   [
+    "Tinto",
+    "151.852.639"
+   ],
+   [
+    "Rosado",
+    "23.841.328"
+   ],
+   [
+    "Branco",
+    "19.922.653"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "32.690.119"
+   ],
+   [
+    "Tinto",
+    "9.811.525"
+   ],
+   [
+    "Rosado",
+    "3.548.807"
+   ],
+   [
+    "Branco",
+    "19.329.787"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "147.892"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "5.393.631"
+   ],
+   [
+    "Tinto",
+    "1.034.452"
+   ],
+   [
+    "Rosado",
+    "2.735.222"
+   ],
+   [
+    "Branco",
+    "1.623.957"
+   ],
+   [
+    "ESPUMANTES",
+    "2.601.590"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.625.317"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "3.447.837"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "13.706.809"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "339.085"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.212.182"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "2.029.714"
+   ],
+   [
+    "Filtrado doce",
+    "4.062.927"
+   ],
+   [
+    "Jeropiga",
+    "25.618"
+   ],
+   [
+    "Mistelas",
+    "872.156"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "215.868"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.490.691"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "657.957"
+   ],
+   [
+    "Vinho licoroso",
+    "1.800.611"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "258.229.815"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1984,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "171.619.507"
+   ],
+   [
+    "Tinto",
+    "129.249.097"
+   ],
+   [
+    "Rosado",
+    "21.724.540"
+   ],
+   [
+    "Branco",
+    "20.645.870"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "42.164.393"
+   ],
+   [
+    "Tinto",
+    "14.797.285"
+   ],
+   [
+    "Rosado",
+    "3.714.334"
+   ],
+   [
+    "Branco",
+    "23.652.774"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "-"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "5.535.657"
+   ],
+   [
+    "Tinto",
+    "1.043.073"
+   ],
+   [
+    "Rosado",
+    "2.308.400"
+   ],
+   [
+    "Branco",
+    "2.184.184"
+   ],
+   [
+    "ESPUMANTES",
+    "2.778.815"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.167.053"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "3.923.167"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "15.284.617"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "434.913"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.074.816"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.678.482"
+   ],
+   [
+    "Filtrado doce",
+    "4.994.248"
+   ],
+   [
+    "Jeropiga",
+    "36.717"
+   ],
+   [
+    "Mistelas",
+    "1.095.044"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "914.641"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.690.012"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "656.837"
+   ],
+   [
+    "Vinho licoroso",
+    "1.708.907"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "247.473.209"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1985,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "185.191.837"
+   ],
+   [
+    "Tinto",
+    "138.710.394"
+   ],
+   [
+    "Rosado",
+    "23.988.088"
+   ],
+   [
+    "Branco",
+    "22.493.355"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "44.599.207"
+   ],
+   [
+    "Tinto",
+    "13.133.683"
+   ],
+   [
+    "Rosado",
+    "3.510.330"
+   ],
+   [
+    "Branco",
+    "27.955.194"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "-"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "4.766.741"
+   ],
+   [
+    "Tinto",
+    "863.932"
+   ],
+   [
+    "Rosado",
+    "2.145.100"
+   ],
+   [
+    "Branco",
+    "1.757.709"
+   ],
+   [
+    "ESPUMANTES",
+    "3.238.436"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.711.949"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "5.736.808"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "15.655.775"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "289.415"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.551.097"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.460.361"
+   ],
+   [
+    "Filtrado doce",
+    "6.005.137"
+   ],
+   [
+    "Jeropiga",
+    "130.094"
+   ],
+   [
+    "Mistelas",
+    "83.792"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "57.717"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "3.397.749"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.081.646"
+   ],
+   [
+    "Vinho licoroso",
+    "1.598.767"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "263.900.753"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1986,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "203.130.018"
+   ],
+   [
+    "Tinto",
+    "153.357.217"
+   ],
+   [
+    "Rosado",
+    "28.544.630"
+   ],
+   [
+    "Branco",
+    "21.228.171"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "50.881.779"
+   ],
+   [
+    "Tinto",
+    "15.664.511"
+   ],
+   [
+    "Rosado",
+    "3.685.709"
+   ],
+   [
+    "Branco",
+    "31.531.559"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "-"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "4.636.751"
+   ],
+   [
+    "Tinto",
+    "749.197"
+   ],
+   [
+    "Rosado",
+    "2.057.888"
+   ],
+   [
+    "Branco",
+    "1.829.666"
+   ],
+   [
+    "ESPUMANTES",
+    "4.058.335"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.767.993"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "7.553.410"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "19.777.809"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "353.074"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.308.675"
+   ],
+   [
+    "Cooler",
+    "-"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "5.142.969"
+   ],
+   [
+    "Filtrado doce",
+    "5.065.559"
+   ],
+   [
+    "Jeropiga",
+    "86.296"
+   ],
+   [
+    "Mistelas",
+    "320.098"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "218.400"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.503.550"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "2.008.030"
+   ],
+   [
+    "Vinho licoroso",
+    "1.771.158"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "295.806.095"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1987,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "131.065.191"
+   ],
+   [
+    "Tinto",
+    "96.590.206"
+   ],
+   [
+    "Rosado",
+    "21.376.304"
+   ],
+   [
+    "Branco",
+    "13.098.681"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "34.335.860"
+   ],
+   [
+    "Tinto",
+    "10.144.561"
+   ],
+   [
+    "Rosado",
+    "2.328.264"
+   ],
+   [
+    "Branco",
+    "21.863.035"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "-"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "2.969.853"
+   ],
+   [
+    "Tinto",
+    "372.184"
+   ],
+   [
+    "Rosado",
+    "1.122.648"
+   ],
+   [
+    "Branco",
+    "1.475.021"
+   ],
+   [
+    "ESPUMANTES",
+    "3.006.097"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.932.369"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "5.969.562"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "25.522.173"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "236.724"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.553.986"
+   ],
+   [
+    "Cooler",
+    "9.062.619"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "2.601.744"
+   ],
+   [
+    "Filtrado doce",
+    "6.529.116"
+   ],
+   [
+    "Jeropiga",
+    "19.124"
+   ],
+   [
+    "Mistelas",
+    "188.048"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.156.496"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.803.640"
+   ],
+   [
+    "Vinho licoroso",
+    "1.370.676"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "207.801.105"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1988,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "150.678.647"
+   ],
+   [
+    "Tinto",
+    "114.100.716"
+   ],
+   [
+    "Rosado",
+    "17.329.181"
+   ],
+   [
+    "Branco",
+    "19.248.750"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "40.014.386"
+   ],
+   [
+    "Tinto",
+    "11.713.661"
+   ],
+   [
+    "Rosado",
+    "1.939.881"
+   ],
+   [
+    "Branco",
+    "26.360.844"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "248.840"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "2.328.150"
+   ],
+   [
+    "Tinto",
+    "525.229"
+   ],
+   [
+    "Rosado",
+    "887.025"
+   ],
+   [
+    "Branco",
+    "915.896"
+   ],
+   [
+    "ESPUMANTES",
+    "2.845.663"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.191.947"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "5.656.096"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "24.276.716"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "285.409"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.786.613"
+   ],
+   [
+    "Cooler",
+    "8.806.545"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "2.220.670"
+   ],
+   [
+    "Filtrado doce",
+    "5.574.201"
+   ],
+   [
+    "Jeropiga",
+    "59.251"
+   ],
+   [
+    "Mistelas",
+    "221.836"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.696.620"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.381.934"
+   ],
+   [
+    "Vinho licoroso",
+    "1.243.637"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "230.240.445"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1989,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "172.921.267"
+   ],
+   [
+    "Tinto",
+    "136.642.954"
+   ],
+   [
+    "Rosado",
+    "14.564.451"
+   ],
+   [
+    "Branco",
+    "21.713.862"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "50.390.262"
+   ],
+   [
+    "Tinto",
+    "14.737.896"
+   ],
+   [
+    "Rosado",
+    "2.596.587"
+   ],
+   [
+    "Branco",
+    "33.055.779"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "275.708"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.788.772"
+   ],
+   [
+    "Tinto",
+    "288.905"
+   ],
+   [
+    "Rosado",
+    "876.167"
+   ],
+   [
+    "Branco",
+    "623.700"
+   ],
+   [
+    "ESPUMANTES",
+    "3.766.581"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.642.831"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "6.716.197"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "19.148.275"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "202.478"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.232.781"
+   ],
+   [
+    "Cooler",
+    "4.474.031"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "1.382.427"
+   ],
+   [
+    "Filtrado doce",
+    "6.698.678"
+   ],
+   [
+    "Jeropiga",
+    "49.075"
+   ],
+   [
+    "Mistelas",
+    "8.265"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.067.310"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.754.501"
+   ],
+   [
+    "Vinho licoroso",
+    "1.278.729"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "259.649.893"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1990,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "164.725.646"
+   ],
+   [
+    "Tinto",
+    "120.889.721"
+   ],
+   [
+    "Rosado",
+    "16.482.188"
+   ],
+   [
+    "Branco",
+    "27.353.737"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "39.885.259"
+   ],
+   [
+    "Tinto",
+    "11.141.857"
+   ],
+   [
+    "Rosado",
+    "1.583.368"
+   ],
+   [
+    "Branco",
+    "27.160.034"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "310.524"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.371.223"
+   ],
+   [
+    "Tinto",
+    "266.887"
+   ],
+   [
+    "Rosado",
+    "595.973"
+   ],
+   [
+    "Branco",
+    "508.363"
+   ],
+   [
+    "ESPUMANTES",
+    "2.720.096"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.431.892"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "8.211.959"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "17.145.444"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "174.148"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.464.094"
+   ],
+   [
+    "Cooler",
+    "2.649.267"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "577.779"
+   ],
+   [
+    "Filtrado doce",
+    "7.009.725"
+   ],
+   [
+    "Jeropiga",
+    "47.536"
+   ],
+   [
+    "Mistelas",
+    "175.827"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "362.275"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.746.797"
+   ],
+   [
+    "Vinho licoroso",
+    "937.996"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "239.802.043"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1991,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "190.134.895"
+   ],
+   [
+    "Tinto",
+    "141.726.264"
+   ],
+   [
+    "Rosado",
+    "16.322.381"
+   ],
+   [
+    "Branco",
+    "32.086.250"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "37.526.111"
+   ],
+   [
+    "Tinto",
+    "9.015.204"
+   ],
+   [
+    "Rosado",
+    "1.342.140"
+   ],
+   [
+    "Branco",
+    "27.168.767"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "268.563"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.354.861"
+   ],
+   [
+    "Tinto",
+    "326.807"
+   ],
+   [
+    "Rosado",
+    "487.553"
+   ],
+   [
+    "Branco",
+    "540.501"
+   ],
+   [
+    "ESPUMANTES",
+    "2.442.072"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "7.630.442"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "7.311.205"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "18.701.133"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "149.352"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.627.961"
+   ],
+   [
+    "Cooler",
+    "3.190.379"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "181.500"
+   ],
+   [
+    "Filtrado doce",
+    "8.163.189"
+   ],
+   [
+    "Jeropiga",
+    "35.880"
+   ],
+   [
+    "Mistelas",
+    "-"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "544.002"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "3.842.243"
+   ],
+   [
+    "Vinho licoroso",
+    "966.627"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "265.369.282"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1992,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "180.230.431"
+   ],
+   [
+    "Tinto",
+    "138.190.489"
+   ],
+   [
+    "Rosado",
+    "12.822.511"
+   ],
+   [
+    "Branco",
+    "29.217.431"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "39.537.060"
+   ],
+   [
+    "Tinto",
+    "10.712.402"
+   ],
+   [
+    "Rosado",
+    "1.130.509"
+   ],
+   [
+    "Branco",
+    "27.694.149"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "161.507"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "882.564"
+   ],
+   [
+    "Tinto",
+    "217.945"
+   ],
+   [
+    "Rosado",
+    "304.897"
+   ],
+   [
+    "Branco",
+    "359.722"
+   ],
+   [
+    "ESPUMANTES",
+    "1.846.809"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "5.699.977"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "10.607.336"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "13.669.760"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "38.015"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.488.284"
+   ],
+   [
+    "Cooler",
+    "1.975.289"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "109.142"
+   ],
+   [
+    "Filtrado doce",
+    "7.140.569"
+   ],
+   [
+    "Jeropiga",
+    "25.440"
+   ],
+   [
+    "Mistelas",
+    "91.000"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.614.757"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "375.229"
+   ],
+   [
+    "Vinho licoroso",
+    "812.035"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "252.635.444"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1993,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "201.168.480"
+   ],
+   [
+    "Tinto",
+    "157.031.022"
+   ],
+   [
+    "Rosado",
+    "13.767.249"
+   ],
+   [
+    "Branco",
+    "30.370.209"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "49.916.112"
+   ],
+   [
+    "Tinto",
+    "11.988.665"
+   ],
+   [
+    "Rosado",
+    "1.639.949"
+   ],
+   [
+    "Branco",
+    "36.287.498"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "359.420"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.849.251"
+   ],
+   [
+    "Tinto",
+    "542.146"
+   ],
+   [
+    "Rosado",
+    "243.582"
+   ],
+   [
+    "Branco",
+    "1.063.523"
+   ],
+   [
+    "ESPUMANTES",
+    "2.183.871"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "7.605.488"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "12.178.160"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "17.047.905"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "53.928"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.278.706"
+   ],
+   [
+    "Cooler",
+    "2.756.302"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "71.000"
+   ],
+   [
+    "Filtrado doce",
+    "8.373.602"
+   ],
+   [
+    "Jeropiga",
+    "25.053"
+   ],
+   [
+    "Mistelas",
+    "1.229.584"
+   ],
+   [
+    "Mosto concentrado",
+    "42.000"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.521.123"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "884.622"
+   ],
+   [
+    "Vinho licoroso",
+    "811.985"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "292.308.687"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1994,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "180.295.366"
+   ],
+   [
+    "Tinto",
+    "140.192.480"
+   ],
+   [
+    "Rosado",
+    "13.762.956"
+   ],
+   [
+    "Branco",
+    "26.339.930"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "46.541.918"
+   ],
+   [
+    "Tinto",
+    "13.290.842"
+   ],
+   [
+    "Rosado",
+    "1.631.454"
+   ],
+   [
+    "Branco",
+    "31.619.622"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "183.160"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.423.645"
+   ],
+   [
+    "Tinto",
+    "589.529"
+   ],
+   [
+    "Rosado",
+    "104.886"
+   ],
+   [
+    "Branco",
+    "729.230"
+   ],
+   [
+    "ESPUMANTES",
+    "2.661.540"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.504.949"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "10.005.084"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "21.351.477"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "20.016"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.519.307"
+   ],
+   [
+    "Cooler",
+    "2.798.706"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "236.400"
+   ],
+   [
+    "Filtrado doce",
+    "12.190.120"
+   ],
+   [
+    "Jeropiga",
+    "36.612"
+   ],
+   [
+    "Mistelas",
+    "1.968.299"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.287.211"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "559.442"
+   ],
+   [
+    "Vinho licoroso",
+    "735.364"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "268.967.139"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1995,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "146.583.828"
+   ],
+   [
+    "Tinto",
+    "108.968.350"
+   ],
+   [
+    "Rosado",
+    "11.653.971"
+   ],
+   [
+    "Branco",
+    "25.961.507"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "40.195.501"
+   ],
+   [
+    "Tinto",
+    "12.299.213"
+   ],
+   [
+    "Rosado",
+    "1.540.910"
+   ],
+   [
+    "Branco",
+    "26.355.378"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "136.526"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.396.441"
+   ],
+   [
+    "Tinto",
+    "628.481"
+   ],
+   [
+    "Rosado",
+    "86.933"
+   ],
+   [
+    "Branco",
+    "681.027"
+   ],
+   [
+    "ESPUMANTES",
+    "2.276.321"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.865.675"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "11.029.248"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "21.348.586"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "39.232"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "1.846.401"
+   ],
+   [
+    "Cooler",
+    "2.664.342"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "135.045"
+   ],
+   [
+    "Filtrado doce",
+    "11.222.169"
+   ],
+   [
+    "Jeropiga",
+    "33.024"
+   ],
+   [
+    "Mistelas",
+    "986.673"
+   ],
+   [
+    "Mosto concentrado",
+    "54.120"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "4.982"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.921.137"
+   ],
+   [
+    "Vinho acetificado",
+    "-"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "645.253"
+   ],
+   [
+    "Vinho licoroso",
+    "796.208"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "227.832.126"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1996,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "165.831.436"
+   ],
+   [
+    "Tinto",
+    "122.549.540"
+   ],
+   [
+    "Rosado",
+    "13.374.874"
+   ],
+   [
+    "Branco",
+    "29.907.022"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "43.695.771"
+   ],
+   [
+    "Tinto",
+    "13.540.528"
+   ],
+   [
+    "Rosado",
+    "1.457.704"
+   ],
+   [
+    "Branco",
+    "28.697.539"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "260.638"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "1.261.662"
+   ],
+   [
+    "Tinto",
+    "264.304"
+   ],
+   [
+    "Rosado",
+    "70.536"
+   ],
+   [
+    "Branco",
+    "926.822"
+   ],
+   [
+    "ESPUMANTES",
+    "2.154.497"
+   ],
+   [
+    "Espumante  Moscatel",
+    "-"
+   ],
+   [
+    "Espumante",
+    "-"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.495.950"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "11.625.777"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "27.574.147"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "46.959"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.331.889"
+   ],
+   [
+    "Cooler",
+    "3.078.523"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "276.355"
+   ],
+   [
+    "Filtrado doce",
+    "8.890.818"
+   ],
+   [
+    "Jeropiga",
+    "85.560"
+   ],
+   [
+    "Mistelas",
+    "906.081"
+   ],
+   [
+    "Mosto concentrado",
+    "55.728"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "3.303.855"
+   ],
+   [
+    "Vinho acetificado",
+    "7.224.172"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "559.501"
+   ],
+   [
+    "Vinho licoroso",
+    "814.706"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "256.899.878"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1997,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "174.768.638"
+   ],
+   [
+    "Tinto",
+    "127.693.158"
+   ],
+   [
+    "Rosado",
+    "13.550.872"
+   ],
+   [
+    "Branco",
+    "33.524.608"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "46.442.209"
+   ],
+   [
+    "Tinto",
+    "18.303.579"
+   ],
+   [
+    "Rosado",
+    "1.997.373"
+   ],
+   [
+    "Branco",
+    "26.141.257"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "221.733"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "790.617"
+   ],
+   [
+    "Tinto",
+    "136.027"
+   ],
+   [
+    "Rosado",
+    "145.144"
+   ],
+   [
+    "Branco",
+    "509.446"
+   ],
+   [
+    "ESPUMANTES",
+    "3.054.624"
+   ],
+   [
+    "Espumante  Moscatel",
+    "19.222"
+   ],
+   [
+    "Espumante",
+    "3.035.402"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "4.996.959"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "16.724.519"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "31.437.414"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "33.549"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.201.034"
+   ],
+   [
+    "Cooler",
+    "4.571.501"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "368.631"
+   ],
+   [
+    "Filtrado doce",
+    "11.400.130"
+   ],
+   [
+    "Jeropiga",
+    "78.504"
+   ],
+   [
+    "Mistelas",
+    "420.127"
+   ],
+   [
+    "Mosto concentrado",
+    "124.870"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.472.555"
+   ],
+   [
+    "Vinho acetificado",
+    "8.162.500"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "847.456"
+   ],
+   [
+    "Vinho licoroso",
+    "756.557"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "278.436.713"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1998,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "181.576.649"
+   ],
+   [
+    "Tinto",
+    "133.479.291"
+   ],
+   [
+    "Rosado",
+    "12.980.172"
+   ],
+   [
+    "Branco",
+    "35.117.186"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "32.456.318"
+   ],
+   [
+    "Tinto",
+    "11.925.188"
+   ],
+   [
+    "Rosado",
+    "1.585.687"
+   ],
+   [
+    "Branco",
+    "18.945.443"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "15.370"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "194.075"
+   ],
+   [
+    "Tinto",
+    "50.870"
+   ],
+   [
+    "Rosado",
+    "2.074"
+   ],
+   [
+    "Branco",
+    "141.131"
+   ],
+   [
+    "ESPUMANTES",
+    "3.253.174"
+   ],
+   [
+    "Espumante  Moscatel",
+    "29.712"
+   ],
+   [
+    "Espumante",
+    "3.223.462"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "9.025.797"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "13.944.137"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.935.005"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "14.356"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.441.572"
+   ],
+   [
+    "Cooler",
+    "5.764.233"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "256.061"
+   ],
+   [
+    "Filtrado doce",
+    "11.506.197"
+   ],
+   [
+    "Jeropiga",
+    "49.339"
+   ],
+   [
+    "Mistelas",
+    "108.555"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.394.887"
+   ],
+   [
+    "Vinho acetificado",
+    "4.606.230"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.137.668"
+   ],
+   [
+    "Vinho licoroso",
+    "1.655.907"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "270.400.525"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 1999,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "200.578.746"
+   ],
+   [
+    "Tinto",
+    "150.857.434"
+   ],
+   [
+    "Rosado",
+    "13.221.934"
+   ],
+   [
+    "Branco",
+    "36.499.378"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "37.096.571"
+   ],
+   [
+    "Tinto",
+    "14.706.398"
+   ],
+   [
+    "Rosado",
+    "1.479.987"
+   ],
+   [
+    "Branco",
+    "20.910.186"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "12.861"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "234.696"
+   ],
+   [
+    "Tinto",
+    "56.589"
+   ],
+   [
+    "Rosado",
+    "112.392"
+   ],
+   [
+    "Branco",
+    "65.715"
+   ],
+   [
+    "ESPUMANTES",
+    "5.606.536"
+   ],
+   [
+    "Espumante  Moscatel",
+    "50.670"
+   ],
+   [
+    "Espumante",
+    "5.555.866"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "7.778.310"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "16.261.806"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "34.388.096"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "5.121"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.480.893"
+   ],
+   [
+    "Cooler",
+    "9.424.282"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "409.640"
+   ],
+   [
+    "Filtrado doce",
+    "14.457.195"
+   ],
+   [
+    "Jeropiga",
+    "71.800"
+   ],
+   [
+    "Mistelas",
+    "27.060"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "88.000"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.426.530"
+   ],
+   [
+    "Vinho acetificado",
+    "2.784.540"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.199.898"
+   ],
+   [
+    "Vinho licoroso",
+    "1.013.137"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "301.957.622"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2000,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "221.023.603"
+   ],
+   [
+    "Tinto",
+    "172.183.792"
+   ],
+   [
+    "Rosado",
+    "9.150.927"
+   ],
+   [
+    "Branco",
+    "39.688.884"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "34.195.829"
+   ],
+   [
+    "Tinto",
+    "15.119.076"
+   ],
+   [
+    "Rosado",
+    "1.021.310"
+   ],
+   [
+    "Branco",
+    "18.055.443"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "2.583"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "249.345"
+   ],
+   [
+    "Tinto",
+    "177.872"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "71.473"
+   ],
+   [
+    "ESPUMANTES",
+    "4.330.795"
+   ],
+   [
+    "Espumante  Moscatel",
+    "194.723"
+   ],
+   [
+    "Espumante",
+    "4.136.072"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "6.847.466"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "15.315.971"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "37.168.164"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "8.213"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.035.067"
+   ],
+   [
+    "Cooler",
+    "10.847.415"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "400.579"
+   ],
+   [
+    "Filtrado doce",
+    "11.065.803"
+   ],
+   [
+    "Jeropiga",
+    "66.197"
+   ],
+   [
+    "Mistelas",
+    "-"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "180.900"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "6.654.097"
+   ],
+   [
+    "Vinho acetificado",
+    "3.715.390"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.084.344"
+   ],
+   [
+    "Vinho licoroso",
+    "1.110.159"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "319.133.756"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2001,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "221.518.224"
+   ],
+   [
+    "Tinto",
+    "176.793.696"
+   ],
+   [
+    "Rosado",
+    "7.283.912"
+   ],
+   [
+    "Branco",
+    "37.440.616"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "28.701.658"
+   ],
+   [
+    "Tinto",
+    "12.112.495"
+   ],
+   [
+    "Rosado",
+    "790.176"
+   ],
+   [
+    "Branco",
+    "15.798.987"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "-"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "492.272"
+   ],
+   [
+    "Tinto",
+    "281.260"
+   ],
+   [
+    "Rosado",
+    "12.833"
+   ],
+   [
+    "Branco",
+    "198.179"
+   ],
+   [
+    "ESPUMANTES",
+    "4.494.015"
+   ],
+   [
+    "Espumante  Moscatel",
+    "474.162"
+   ],
+   [
+    "Espumante",
+    "4.019.853"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "11.498.893"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "14.704.091"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "30.853.863"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "13.881"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.018.918"
+   ],
+   [
+    "Cooler",
+    "10.994.658"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "208.570"
+   ],
+   [
+    "Filtrado doce",
+    "10.253.296"
+   ],
+   [
+    "Jeropiga",
+    "66.824"
+   ],
+   [
+    "Mistelas",
+    "6.619"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "369.070"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.767.848"
+   ],
+   [
+    "Vinho acetificado",
+    "3.920.000"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "276.791"
+   ],
+   [
+    "Vinho licoroso",
+    "957.388"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "312.263.016"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2002,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "227.447.392"
+   ],
+   [
+    "Tinto",
+    "181.274.195"
+   ],
+   [
+    "Rosado",
+    "8.434.812"
+   ],
+   [
+    "Branco",
+    "37.738.385"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "25.438.750"
+   ],
+   [
+    "Tinto",
+    "12.109.658"
+   ],
+   [
+    "Rosado",
+    "650.263"
+   ],
+   [
+    "Branco",
+    "12.678.829"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "5.003"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "270.364"
+   ],
+   [
+    "Tinto",
+    "258.412"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "11.952"
+   ],
+   [
+    "ESPUMANTES",
+    "4.267.544"
+   ],
+   [
+    "Espumante  Moscatel",
+    "525.996"
+   ],
+   [
+    "Espumante",
+    "3.741.548"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "9.140.897"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "16.499.202"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.950.775"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "23.901"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "-"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.030.651"
+   ],
+   [
+    "Cooler",
+    "10.423.992"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "169.986"
+   ],
+   [
+    "Filtrado doce",
+    "9.105.252"
+   ],
+   [
+    "Jeropiga",
+    "5.003"
+   ],
+   [
+    "Mistelas",
+    "650.136"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "2.080.050"
+   ],
+   [
+    "Nectar de uva",
+    "-"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "-"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "-"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "1.587.601"
+   ],
+   [
+    "Vinho acetificado",
+    "2.947.650"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "300"
+   ],
+   [
+    "Vinho licoroso",
+    "926.253"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "313.019.927"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2003,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "217.082.959"
+   ],
+   [
+    "Tinto",
+    "179.225.328"
+   ],
+   [
+    "Rosado",
+    "6.945.806"
+   ],
+   [
+    "Branco",
+    "30.911.825"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "23.293.171"
+   ],
+   [
+    "Tinto",
+    "12.559.693"
+   ],
+   [
+    "Rosado",
+    "579.724"
+   ],
+   [
+    "Branco",
+    "10.153.754"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "5.203"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "205.269"
+   ],
+   [
+    "Tinto",
+    "87.544"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "117.725"
+   ],
+   [
+    "ESPUMANTES",
+    "4.798.284"
+   ],
+   [
+    "Espumante  Moscatel",
+    "594.044"
+   ],
+   [
+    "Espumante",
+    "4.204.240"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "7.496.195"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "15.246.651"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.636.903"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "28.128"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "1.767.072"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.729.201"
+   ],
+   [
+    "Cooler",
+    "7.355.796"
+   ],
+   [
+    "Coquetel com vinho",
+    "-"
+   ],
+   [
+    "Destilado de vinho",
+    "169.245"
+   ],
+   [
+    "Filtrado doce",
+    "7.954.174"
+   ],
+   [
+    "Jeropiga",
+    "52.987"
+   ],
+   [
+    "Mistelas",
+    "10.435"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "1.085.422"
+   ],
+   [
+    "Outros produtos",
+    "-"
+   ],
+   [
+    "Polpa de uva",
+    "-"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "94.231"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "330.576"
+   ],
+   [
+    "Vinagre balsamico",
+    "-"
+   ],
+   [
+    "Vinagre duplo",
+    "-"
+   ],
+   [
+    "Vinagre simples",
+    "2.272.996"
+   ],
+   [
+    "Vinho acetificado",
+    "4.314.150"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "582.970"
+   ],
+   [
+    "Vinho licoroso",
+    "889.520"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "297.764.635"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2004,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "225.021.830"
+   ],
+   [
+    "Tinto",
+    "186.236.086"
+   ],
+   [
+    "Rosado",
+    "5.478.618"
+   ],
+   [
+    "Branco",
+    "33.307.126"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "19.884.366"
+   ],
+   [
+    "Tinto",
+    "10.859.722"
+   ],
+   [
+    "Rosado",
+    "390.371"
+   ],
+   [
+    "Branco",
+    "8.634.273"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "17.225"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "66.989"
+   ],
+   [
+    "Tinto",
+    "51.824"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "15.165"
+   ],
+   [
+    "ESPUMANTES",
+    "5.485.441"
+   ],
+   [
+    "Espumante  Moscatel",
+    "673.332"
+   ],
+   [
+    "Espumante",
+    "4.812.109"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "8.805.190"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "19.218.964"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "32.261.664"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "7.861.278"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "31.294"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "2.977.407"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.505.882"
+   ],
+   [
+    "Cooler",
+    "6.674.776"
+   ],
+   [
+    "Coquetel com vinho",
+    "1.428.500"
+   ],
+   [
+    "Destilado de vinho",
+    "171.335"
+   ],
+   [
+    "Filtrado doce",
+    "8.558.393"
+   ],
+   [
+    "Jeropiga",
+    "31.123"
+   ],
+   [
+    "Mistelas",
+    "3.741"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "717"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "451.845"
+   ],
+   [
+    "Outros produtos",
+    "1.491"
+   ],
+   [
+    "Polpa de uva",
+    "832.399"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "91.243"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "1.118.654"
+   ],
+   [
+    "Vinagre balsamico",
+    "7.059"
+   ],
+   [
+    "Vinagre duplo",
+    "277.450"
+   ],
+   [
+    "Vinagre simples",
+    "1.659.785"
+   ],
+   [
+    "Vinho acetificado",
+    "3.396.380"
+   ],
+   [
+    "Vinho base para espumantes",
+    "19.456"
+   ],
+   [
+    "Vinho composto",
+    "1.251.605"
+   ],
+   [
+    "Vinho licoroso",
+    "771.129"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "310.761.669"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2005,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "271.248.493"
+   ],
+   [
+    "Tinto",
+    "227.987.458"
+   ],
+   [
+    "Rosado",
+    "3.562.059"
+   ],
+   [
+    "Branco",
+    "39.698.976"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "22.306.004"
+   ],
+   [
+    "Tinto",
+    "13.335.767"
+   ],
+   [
+    "Rosado",
+    "472.971"
+   ],
+   [
+    "Branco",
+    "8.497.266"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "111.666"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "285.994"
+   ],
+   [
+    "Tinto",
+    "278.339"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "7.655"
+   ],
+   [
+    "ESPUMANTES",
+    "6.776.672"
+   ],
+   [
+    "Espumante  Moscatel",
+    "1.071.448"
+   ],
+   [
+    "Espumante",
+    "5.705.224"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "14.675.316"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "23.221.898"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "32.226.420"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "7.419.736"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "31.048"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "4.533.973"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "2.074.381"
+   ],
+   [
+    "Cooler",
+    "6.005.392"
+   ],
+   [
+    "Coquetel com vinho",
+    "1.286.524"
+   ],
+   [
+    "Destilado de vinho",
+    "167.878"
+   ],
+   [
+    "Filtrado doce",
+    "7.990.925"
+   ],
+   [
+    "Jeropiga",
+    "23.553"
+   ],
+   [
+    "Mistelas",
+    "5.009"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "233.420"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "362.230"
+   ],
+   [
+    "Outros produtos",
+    "1.579.563"
+   ],
+   [
+    "Polpa de uva",
+    "940.619"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "126.667"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "1.142.453"
+   ],
+   [
+    "Vinagre balsamico",
+    "9.338"
+   ],
+   [
+    "Vinagre duplo",
+    "93.100"
+   ],
+   [
+    "Vinagre simples",
+    "1.785.401"
+   ],
+   [
+    "Vinho acetificado",
+    "1.959.030"
+   ],
+   [
+    "Vinho base para espumantes",
+    "30.000"
+   ],
+   [
+    "Vinho composto",
+    "1.104.777"
+   ],
+   [
+    "Vinho licoroso",
+    "741.139"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "370.852.463"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2006,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "245.625.614"
+   ],
+   [
+    "Tinto",
+    "209.438.207"
+   ],
+   [
+    "Rosado",
+    "3.071.382"
+   ],
+   [
+    "Branco",
+    "33.116.025"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "22.767.358"
+   ],
+   [
+    "Tinto",
+    "13.920.655"
+   ],
+   [
+    "Rosado",
+    "307.189"
+   ],
+   [
+    "Branco",
+    "8.539.514"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "258.248"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "172.176"
+   ],
+   [
+    "Tinto",
+    "171.361"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "815"
+   ],
+   [
+    "ESPUMANTES",
+    "7.728.838"
+   ],
+   [
+    "Espumante  Moscatel",
+    "1.320.959"
+   ],
+   [
+    "Espumante",
+    "6.407.879"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "15.640.857"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "23.228.388"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "27.088.994"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "7.677.906"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "29.939"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "5.097.873"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.500"
+   ],
+   [
+    "Cooler",
+    "5.067.810"
+   ],
+   [
+    "Coquetel com vinho",
+    "932.979"
+   ],
+   [
+    "Destilado de vinho",
+    "194.434"
+   ],
+   [
+    "Filtrado doce",
+    "7.820.382"
+   ],
+   [
+    "Jeropiga",
+    "46.926"
+   ],
+   [
+    "Mistelas",
+    "4.500"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "7.740"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "358.963"
+   ],
+   [
+    "Outros produtos",
+    "5.934"
+   ],
+   [
+    "Polpa de uva",
+    "987.828"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "632.074"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "1.208.403"
+   ],
+   [
+    "Vinagre balsamico",
+    "9.344"
+   ],
+   [
+    "Vinagre duplo",
+    "125.312"
+   ],
+   [
+    "Vinagre simples",
+    "2.088.195"
+   ],
+   [
+    "Vinho acetificado",
+    "892.770"
+   ],
+   [
+    "Vinho base para espumantes",
+    "68"
+   ],
+   [
+    "Vinho composto",
+    "844.292"
+   ],
+   [
+    "Vinho licoroso",
+    "727.728"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "342.510.473"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2007,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "226.710.045"
+   ],
+   [
+    "Tinto",
+    "190.526.781"
+   ],
+   [
+    "Rosado",
+    "2.252.558"
+   ],
+   [
+    "Branco",
+    "29.122.090"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "21.485.699"
+   ],
+   [
+    "Tinto",
+    "13.872.339"
+   ],
+   [
+    "Rosado",
+    "416.285"
+   ],
+   [
+    "Branco",
+    "7.197.075"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "250.114"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "106.333"
+   ],
+   [
+    "Tinto",
+    "106.333"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "8.596.406"
+   ],
+   [
+    "Espumante  Moscatel",
+    "1.585.203"
+   ],
+   [
+    "Espumante",
+    "7.011.203"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "18.514.411"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "25.603.588"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "27.833.872"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "7.188.135"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "21.186"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "5.369.833"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "24.543"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.929"
+   ],
+   [
+    "Cooler",
+    "5.008.953"
+   ],
+   [
+    "Coquetel com vinho",
+    "798.624"
+   ],
+   [
+    "Destilado de vinho",
+    "139.410"
+   ],
+   [
+    "Filtrado doce",
+    "7.586.058"
+   ],
+   [
+    "Jeropiga",
+    "19.926"
+   ],
+   [
+    "Mistelas",
+    "3.430"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "2.000"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "541.685"
+   ],
+   [
+    "Outros produtos",
+    "597.586"
+   ],
+   [
+    "Polpa de uva",
+    "1.177.805"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "753.842"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "541.088"
+   ],
+   [
+    "Vinagre balsamico",
+    "17.384"
+   ],
+   [
+    "Vinagre duplo",
+    "479.747"
+   ],
+   [
+    "Vinagre simples",
+    "2.338.035"
+   ],
+   [
+    "Vinho acetificado",
+    "921.000"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "898.156"
+   ],
+   [
+    "Vinho licoroso",
+    "587.652"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "329.100.468"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2008,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "200.488.612"
+   ],
+   [
+    "Tinto",
+    "172.020.779"
+   ],
+   [
+    "Rosado",
+    "1.840.779"
+   ],
+   [
+    "Branco",
+    "26.627.054"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "23.167.738"
+   ],
+   [
+    "Tinto",
+    "13.920.224"
+   ],
+   [
+    "Rosado",
+    "313.513"
+   ],
+   [
+    "Branco",
+    "8.934.001"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "441.691"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "65"
+   ],
+   [
+    "Tinto",
+    "65"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "9.539.610"
+   ],
+   [
+    "Espumante  Moscatel",
+    "1.905.395"
+   ],
+   [
+    "Espumante",
+    "7.634.215"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "21.568.032"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "27.880.465"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "28.697.650"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "7.268.443"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "23.195"
+   ],
+   [
+    "Base champenoise champanha",
+    "69.800"
+   ],
+   [
+    "Base charmat champanha",
+    "56"
+   ],
+   [
+    "Base espumante moscatel",
+    "12.794"
+   ],
+   [
+    "Bebida de uva",
+    "3.888.187"
+   ],
+   [
+    "Borra l\u00edquida",
+    "-"
+   ],
+   [
+    "Borra seca",
+    "18.640"
+   ],
+   [
+    "Brandy (conhaque)",
+    "6.606"
+   ],
+   [
+    "Cooler",
+    "4.367.404"
+   ],
+   [
+    "Coquetel com vinho",
+    "791.532"
+   ],
+   [
+    "Destilado de vinho",
+    "32.281"
+   ],
+   [
+    "Filtrado doce",
+    "7.551.842"
+   ],
+   [
+    "Jeropiga",
+    "10.796"
+   ],
+   [
+    "Mistelas",
+    "3.340"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "2.019.104"
+   ],
+   [
+    "Outros produtos",
+    "743.367"
+   ],
+   [
+    "Polpa de uva",
+    "1.316.846"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "694.816"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "455.704"
+   ],
+   [
+    "Vinagre balsamico",
+    "20.395"
+   ],
+   [
+    "Vinagre duplo",
+    "687.430"
+   ],
+   [
+    "Vinagre simples",
+    "2.813.447"
+   ],
+   [
+    "Vinho acetificado",
+    "1.547.161"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "1.065.845"
+   ],
+   [
+    "Vinho licoroso",
+    "557.062"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "311.783.863"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2009,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "234.525.979"
+   ],
+   [
+    "Tinto",
+    "193.004.182"
+   ],
+   [
+    "Rosado",
+    "2.307.580"
+   ],
+   [
+    "Branco",
+    "39.214.217"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "33.080.270"
+   ],
+   [
+    "Tinto",
+    "19.576.295"
+   ],
+   [
+    "Rosado",
+    "213.835"
+   ],
+   [
+    "Branco",
+    "13.290.140"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.003.596"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "113"
+   ],
+   [
+    "Tinto",
+    "113"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "11.242.890"
+   ],
+   [
+    "Espumante  Moscatel",
+    "2.500.230"
+   ],
+   [
+    "Espumante",
+    "8.742.660"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "29.131.455"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "31.861.857"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "26.554.757"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "6.745.427"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "21.133"
+   ],
+   [
+    "Base champenoise champanha",
+    "-"
+   ],
+   [
+    "Base charmat champanha",
+    "-"
+   ],
+   [
+    "Base espumante moscatel",
+    "-"
+   ],
+   [
+    "Bebida de uva",
+    "1.279.586"
+   ],
+   [
+    "Borra l\u00edquida",
+    "12.000"
+   ],
+   [
+    "Borra seca",
+    "-"
+   ],
+   [
+    "Brandy (conhaque)",
+    "7.151"
+   ],
+   [
+    "Cooler",
+    "4.561.959"
+   ],
+   [
+    "Coquetel com vinho",
+    "1.354.734"
+   ],
+   [
+    "Destilado de vinho",
+    "100"
+   ],
+   [
+    "Filtrado doce",
+    "6.533.888"
+   ],
+   [
+    "Jeropiga",
+    "14.443"
+   ],
+   [
+    "Mistelas",
+    "7.034"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "-"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "4.933.019"
+   ],
+   [
+    "Outros produtos",
+    "418.132"
+   ],
+   [
+    "Polpa de uva",
+    "1.339.958"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "467.005"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "192.082"
+   ],
+   [
+    "Vinagre balsamico",
+    "36.937"
+   ],
+   [
+    "Vinagre duplo",
+    "426.804"
+   ],
+   [
+    "Vinagre simples",
+    "2.996.318"
+   ],
+   [
+    "Vinho acetificado",
+    "808.389"
+   ],
+   [
+    "Vinho base para espumantes",
+    "10.649"
+   ],
+   [
+    "Vinho composto",
+    "542.123"
+   ],
+   [
+    "Vinho licoroso",
+    "591.313"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "367.400.917"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2010,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "221.242.945"
+   ],
+   [
+    "Tinto",
+    "188.649.074"
+   ],
+   [
+    "Rosado",
+    "2.036.928"
+   ],
+   [
+    "Branco",
+    "30.556.943"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "21.390.159"
+   ],
+   [
+    "Tinto",
+    "15.184.398"
+   ],
+   [
+    "Rosado",
+    "236.802"
+   ],
+   [
+    "Branco",
+    "5.968.959"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.851.136"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "293"
+   ],
+   [
+    "Tinto",
+    "293"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "12.647.906"
+   ],
+   [
+    "Espumante  Moscatel",
+    "2.946.179"
+   ],
+   [
+    "Espumante",
+    "9.701.727"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "35.164.681"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "30.827.991"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.023.870"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "6.852.708"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "16.413"
+   ],
+   [
+    "Base champenoise champanha",
+    "11"
+   ],
+   [
+    "Base charmat champanha",
+    "42.847"
+   ],
+   [
+    "Base espumante moscatel",
+    "18.418"
+   ],
+   [
+    "Bebida de uva",
+    "763.368"
+   ],
+   [
+    "Borra l\u00edquida",
+    "13.000"
+   ],
+   [
+    "Borra seca",
+    "46.000"
+   ],
+   [
+    "Brandy (conhaque)",
+    "6.448"
+   ],
+   [
+    "Cooler",
+    "4.674.272"
+   ],
+   [
+    "Coquetel com vinho",
+    "977.962"
+   ],
+   [
+    "Destilado de vinho",
+    "31.814"
+   ],
+   [
+    "Filtrado doce",
+    "6.611.313"
+   ],
+   [
+    "Jeropiga",
+    "37.310"
+   ],
+   [
+    "Mistelas",
+    "26.577"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "12.438"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "5.397.459"
+   ],
+   [
+    "Outros produtos",
+    "284.824"
+   ],
+   [
+    "Polpa de uva",
+    "2.774.322"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "377.010"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "172.214"
+   ],
+   [
+    "Vinagre balsamico",
+    "67.502"
+   ],
+   [
+    "Vinagre duplo",
+    "912.242"
+   ],
+   [
+    "Vinagre simples",
+    "3.336.175"
+   ],
+   [
+    "Vinho acetificado",
+    "1.123.858"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "661.586"
+   ],
+   [
+    "Vinho licoroso",
+    "638.487"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "352.148.981"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2011,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "230.310.468"
+   ],
+   [
+    "Tinto",
+    "196.562.722"
+   ],
+   [
+    "Rosado",
+    "1.668.823"
+   ],
+   [
+    "Branco",
+    "32.078.923"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "19.967.310"
+   ],
+   [
+    "Tinto",
+    "14.876.896"
+   ],
+   [
+    "Rosado",
+    "211.484"
+   ],
+   [
+    "Branco",
+    "4.878.930"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.706.679"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "699"
+   ],
+   [
+    "Tinto",
+    "699"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "13.305.275"
+   ],
+   [
+    "Espumante  Moscatel",
+    "2.996.441"
+   ],
+   [
+    "Espumante",
+    "10.308.834"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "45.222.136"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "34.892.316"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "28.783.827"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "5.997.697"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "18.111"
+   ],
+   [
+    "Base champenoise champanha",
+    "41.134"
+   ],
+   [
+    "Base charmat champanha",
+    "66.220"
+   ],
+   [
+    "Base espumante moscatel",
+    "22.162"
+   ],
+   [
+    "Bebida de uva",
+    "532.821"
+   ],
+   [
+    "Borra l\u00edquida",
+    "22.016"
+   ],
+   [
+    "Borra seca",
+    "73.006"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.640"
+   ],
+   [
+    "Cooler",
+    "4.684.087"
+   ],
+   [
+    "Coquetel com vinho",
+    "805.235"
+   ],
+   [
+    "Destilado de vinho",
+    "90.364"
+   ],
+   [
+    "Filtrado doce",
+    "7.001.836"
+   ],
+   [
+    "Jeropiga",
+    "57.887"
+   ],
+   [
+    "Mistelas",
+    "983"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "291.399"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "5.703.340"
+   ],
+   [
+    "Outros produtos",
+    "385.029"
+   ],
+   [
+    "Polpa de uva",
+    "1.875.782"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "367.193"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "158.868"
+   ],
+   [
+    "Vinagre balsamico",
+    "78.540"
+   ],
+   [
+    "Vinagre duplo",
+    "875.720"
+   ],
+   [
+    "Vinagre simples",
+    "3.386.303"
+   ],
+   [
+    "Vinho acetificado",
+    "983.700"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "662.965"
+   ],
+   [
+    "Vinho licoroso",
+    "593.486"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "374.188.710"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2012,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "206.969.571"
+   ],
+   [
+    "Tinto",
+    "173.964.776"
+   ],
+   [
+    "Rosado",
+    "1.738.134"
+   ],
+   [
+    "Branco",
+    "31.266.661"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "22.469.950"
+   ],
+   [
+    "Tinto",
+    "15.443.016"
+   ],
+   [
+    "Rosado",
+    "150.806"
+   ],
+   [
+    "Branco",
+    "6.876.128"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.605.767"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "239"
+   ],
+   [
+    "Tinto",
+    "239"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "14.889.147"
+   ],
+   [
+    "Espumante  Moscatel",
+    "3.610.289"
+   ],
+   [
+    "Espumante",
+    "11.278.858"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "53.832.204"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "33.529.324"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "30.316.511"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "5.311.258"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "14.710"
+   ],
+   [
+    "Base champenoise champanha",
+    "42.671"
+   ],
+   [
+    "Base charmat champanha",
+    "46.518"
+   ],
+   [
+    "Base espumante moscatel",
+    "25.921"
+   ],
+   [
+    "Bebida de uva",
+    "261.223"
+   ],
+   [
+    "Borra l\u00edquida",
+    "21.980"
+   ],
+   [
+    "Borra seca",
+    "89.000"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.495"
+   ],
+   [
+    "Cooler",
+    "4.258.333"
+   ],
+   [
+    "Coquetel com vinho",
+    "907.199"
+   ],
+   [
+    "Destilado de vinho",
+    "30.000"
+   ],
+   [
+    "Filtrado doce",
+    "7.108.554"
+   ],
+   [
+    "Jeropiga",
+    "55.050"
+   ],
+   [
+    "Mistelas",
+    "5.097"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "29.304"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "5.644.055"
+   ],
+   [
+    "Outros produtos",
+    "484.205"
+   ],
+   [
+    "Polpa de uva",
+    "1.995.839"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "613.313"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "73.590"
+   ],
+   [
+    "Vinagre balsamico",
+    "102.259"
+   ],
+   [
+    "Vinagre duplo",
+    "1.208.132"
+   ],
+   [
+    "Vinagre simples",
+    "4.027.358"
+   ],
+   [
+    "Vinho acetificado",
+    "2.110.450"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "510.914"
+   ],
+   [
+    "Vinho licoroso",
+    "645.341"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "363.612.713"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2013,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "221.590.810"
+   ],
+   [
+    "Tinto",
+    "188.033.494"
+   ],
+   [
+    "Rosado",
+    "1.777.648"
+   ],
+   [
+    "Branco",
+    "31.779.668"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "27.912.934"
+   ],
+   [
+    "Tinto",
+    "19.121.750"
+   ],
+   [
+    "Rosado",
+    "214.269"
+   ],
+   [
+    "Branco",
+    "8.576.915"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.764.851"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "2.257"
+   ],
+   [
+    "Tinto",
+    "2.257"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "15.978.504"
+   ],
+   [
+    "Espumante  Moscatel",
+    "3.783.531"
+   ],
+   [
+    "Espumante",
+    "12.194.973"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "75.973.297"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "38.369.914"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "36.841.561"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "56.936"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "17.075"
+   ],
+   [
+    "Base champenoise champanha",
+    "27.078"
+   ],
+   [
+    "Base charmat champanha",
+    "97.260"
+   ],
+   [
+    "Base espumante moscatel",
+    "26.483"
+   ],
+   [
+    "Bebida de uva",
+    "291.188"
+   ],
+   [
+    "Borra l\u00edquida",
+    "22.000"
+   ],
+   [
+    "Borra seca",
+    "62.825"
+   ],
+   [
+    "Brandy (conhaque)",
+    "6.276"
+   ],
+   [
+    "Cooler",
+    "4.028.017"
+   ],
+   [
+    "Coquetel com vinho",
+    "806.955"
+   ],
+   [
+    "Destilado de vinho",
+    "24.838"
+   ],
+   [
+    "Filtrado doce",
+    "6.685.648"
+   ],
+   [
+    "Jeropiga",
+    "94.860"
+   ],
+   [
+    "Mistelas",
+    "1.655"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "325.562"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "5.347.775"
+   ],
+   [
+    "Outros produtos",
+    "529.274"
+   ],
+   [
+    "Polpa de uva",
+    "1.981.851"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "623.481"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "76.039"
+   ],
+   [
+    "Vinagre balsamico",
+    "122.749"
+   ],
+   [
+    "Vinagre duplo",
+    "3.233.270"
+   ],
+   [
+    "Vinagre simples",
+    "8.049.936"
+   ],
+   [
+    "Vinho acetificado",
+    "3.154.800"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "595.513"
+   ],
+   [
+    "Vinho licoroso",
+    "609.153"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "418.434.128"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2014,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "206.404.427"
+   ],
+   [
+    "Tinto",
+    "178.250.072"
+   ],
+   [
+    "Rosado",
+    "1.419.855"
+   ],
+   [
+    "Branco",
+    "26.734.500"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "20.424.983"
+   ],
+   [
+    "Tinto",
+    "15.354.938"
+   ],
+   [
+    "Rosado",
+    "164.219"
+   ],
+   [
+    "Branco",
+    "4.905.826"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.893.469"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "7.231"
+   ],
+   [
+    "Tinto",
+    "7.231"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "17.191.075"
+   ],
+   [
+    "Espumante  Moscatel",
+    "4.588.465"
+   ],
+   [
+    "Espumante",
+    "12.602.610"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "88.013.377"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "39.359.935"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "34.963.296"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "14.472"
+   ],
+   [
+    "Base champenoise champanha",
+    "46.476"
+   ],
+   [
+    "Base charmat champanha",
+    "75.067"
+   ],
+   [
+    "Base espumante moscatel",
+    "37.395"
+   ],
+   [
+    "Bebida de uva",
+    "70.999"
+   ],
+   [
+    "Borra l\u00edquida",
+    "33.381"
+   ],
+   [
+    "Borra seca",
+    "106.400"
+   ],
+   [
+    "Brandy (conhaque)",
+    "6.625"
+   ],
+   [
+    "Cooler",
+    "4.045.218"
+   ],
+   [
+    "Coquetel com vinho",
+    "736.496"
+   ],
+   [
+    "Destilado de vinho",
+    "150"
+   ],
+   [
+    "Filtrado doce",
+    "6.267.047"
+   ],
+   [
+    "Jeropiga",
+    "64.937"
+   ],
+   [
+    "Mistelas",
+    "948"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "1.818.425"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.488.907"
+   ],
+   [
+    "Outros produtos",
+    "639.191"
+   ],
+   [
+    "Polpa de uva",
+    "2.358.125"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "259.320"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "86.279"
+   ],
+   [
+    "Vinagre balsamico",
+    "124.379"
+   ],
+   [
+    "Vinagre duplo",
+    "969.702"
+   ],
+   [
+    "Vinagre simples",
+    "8.180.657"
+   ],
+   [
+    "Vinho acetificado",
+    "4.465.675"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "450.121"
+   ],
+   [
+    "Vinho licoroso",
+    "616.904"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "408.257.793"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2015,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "209.198.468"
+   ],
+   [
+    "Tinto",
+    "182.028.785"
+   ],
+   [
+    "Rosado",
+    "1.409.002"
+   ],
+   [
+    "Branco",
+    "25.760.681"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "20.141.631"
+   ],
+   [
+    "Tinto",
+    "15.572.632"
+   ],
+   [
+    "Rosado",
+    "169.185"
+   ],
+   [
+    "Branco",
+    "4.399.814"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.836.167"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "593"
+   ],
+   [
+    "Tinto",
+    "593"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "18.897.144"
+   ],
+   [
+    "Espumante  Moscatel",
+    "5.010.704"
+   ],
+   [
+    "Espumante",
+    "13.886.440"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "115.288.072"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "34.923.477"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "31.922.948"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "5"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "16.268"
+   ],
+   [
+    "Base champenoise champanha",
+    "72.774"
+   ],
+   [
+    "Base charmat champanha",
+    "117.404"
+   ],
+   [
+    "Base espumante moscatel",
+    "77.054"
+   ],
+   [
+    "Bebida de uva",
+    "2.801"
+   ],
+   [
+    "Borra l\u00edquida",
+    "24.091"
+   ],
+   [
+    "Borra seca",
+    "128.754"
+   ],
+   [
+    "Brandy (conhaque)",
+    "8.118"
+   ],
+   [
+    "Cooler",
+    "3.297.202"
+   ],
+   [
+    "Coquetel com vinho",
+    "611.787"
+   ],
+   [
+    "Destilado de vinho",
+    "-"
+   ],
+   [
+    "Filtrado doce",
+    "6.001.714"
+   ],
+   [
+    "Jeropiga",
+    "58.860"
+   ],
+   [
+    "Mistelas",
+    "1.144"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "335.966"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.959.884"
+   ],
+   [
+    "Outros produtos",
+    "660.042"
+   ],
+   [
+    "Polpa de uva",
+    "2.500.025"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "160.245"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "131.599"
+   ],
+   [
+    "Vinagre balsamico",
+    "120.677"
+   ],
+   [
+    "Vinagre duplo",
+    "1.164.527"
+   ],
+   [
+    "Vinagre simples",
+    "8.188.031"
+   ],
+   [
+    "Vinho acetificado",
+    "3.359.266"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "413.735"
+   ],
+   [
+    "Vinho licoroso",
+    "510.975"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "432.208.500"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2016,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "166.769.622"
+   ],
+   [
+    "Tinto",
+    "146.646.365"
+   ],
+   [
+    "Rosado",
+    "1.391.942"
+   ],
+   [
+    "Branco",
+    "18.731.315"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "19.630.158"
+   ],
+   [
+    "Tinto",
+    "15.228.514"
+   ],
+   [
+    "Rosado",
+    "172.351"
+   ],
+   [
+    "Branco",
+    "4.229.293"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.727.386"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "331"
+   ],
+   [
+    "Tinto",
+    "331"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "16.945.710"
+   ],
+   [
+    "Espumante  Moscatel",
+    "4.507.467"
+   ],
+   [
+    "Espumante",
+    "12.438.243"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "92.290.851"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "28.859.784"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "27.120.309"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "6.315"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "9.301"
+   ],
+   [
+    "Base champenoise champanha",
+    "74.805"
+   ],
+   [
+    "Base charmat champanha",
+    "122.356"
+   ],
+   [
+    "Base espumante moscatel",
+    "131.739"
+   ],
+   [
+    "Bebida de uva",
+    "1.483"
+   ],
+   [
+    "Borra l\u00edquida",
+    "15.000"
+   ],
+   [
+    "Borra seca",
+    "57.292"
+   ],
+   [
+    "Brandy (conhaque)",
+    "8.253"
+   ],
+   [
+    "Cooler",
+    "2.450.732"
+   ],
+   [
+    "Coquetel com vinho",
+    "506.532"
+   ],
+   [
+    "Destilado de vinho",
+    "6.700"
+   ],
+   [
+    "Filtrado doce",
+    "4.225.414"
+   ],
+   [
+    "Jeropiga",
+    "14.429"
+   ],
+   [
+    "Mistelas",
+    "835"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "9.458"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.288.046"
+   ],
+   [
+    "Outros produtos",
+    "763.041"
+   ],
+   [
+    "Polpa de uva",
+    "1.924.093"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "33.684"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "77.070"
+   ],
+   [
+    "Vinagre balsamico",
+    "101.991"
+   ],
+   [
+    "Vinagre duplo",
+    "1.083.539"
+   ],
+   [
+    "Vinagre simples",
+    "8.186.761"
+   ],
+   [
+    "Vinho acetificado",
+    "3.097.566"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "377.685"
+   ],
+   [
+    "Vinho licoroso",
+    "546.189"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "353.344.151"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2017,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "176.059.959"
+   ],
+   [
+    "Tinto",
+    "154.309.442"
+   ],
+   [
+    "Rosado",
+    "1.097.426"
+   ],
+   [
+    "Branco",
+    "20.653.091"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "15.874.354"
+   ],
+   [
+    "Tinto",
+    "12.021.684"
+   ],
+   [
+    "Rosado",
+    "182.080"
+   ],
+   [
+    "Branco",
+    "3.670.590"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.586.985"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "17.583.283"
+   ],
+   [
+    "Espumante  Moscatel",
+    "5.561.181"
+   ],
+   [
+    "Espumante",
+    "12.022.102"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "107.243.326"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "26.815.645"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "28.027.052"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "-"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "49.662"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "9.257"
+   ],
+   [
+    "Base champenoise champanha",
+    "48.866"
+   ],
+   [
+    "Base charmat champanha",
+    "298.836"
+   ],
+   [
+    "Base espumante moscatel",
+    "139.070"
+   ],
+   [
+    "Bebida de uva",
+    "10.297"
+   ],
+   [
+    "Borra l\u00edquida",
+    "20.795"
+   ],
+   [
+    "Borra seca",
+    "4.970"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.089"
+   ],
+   [
+    "Cooler",
+    "2.471.612"
+   ],
+   [
+    "Coquetel com vinho",
+    "418.433"
+   ],
+   [
+    "Destilado de vinho",
+    "-"
+   ],
+   [
+    "Filtrado doce",
+    "4.208.753"
+   ],
+   [
+    "Jeropiga",
+    "508"
+   ],
+   [
+    "Mistelas",
+    "1.194"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "63.971"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "4.727.294"
+   ],
+   [
+    "Outros produtos",
+    "1.082.923"
+   ],
+   [
+    "Polpa de uva",
+    "1.876.212"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "30.519"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "-"
+   ],
+   [
+    "Sangria",
+    "62.272"
+   ],
+   [
+    "Vinagre balsamico",
+    "81.944"
+   ],
+   [
+    "Vinagre duplo",
+    "975.992"
+   ],
+   [
+    "Vinagre simples",
+    "7.686.691"
+   ],
+   [
+    "Vinho acetificado",
+    "2.769.202"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "485.944"
+   ],
+   [
+    "Vinho licoroso",
+    "496.746"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "-"
+   ],
+   [
+    "Total",
+    "373.190.604"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2018,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "177.186.273"
+   ],
+   [
+    "Tinto",
+    "155.115.499"
+   ],
+   [
+    "Rosado",
+    "1.972.944"
+   ],
+   [
+    "Branco",
+    "20.097.830"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "14.826.143"
+   ],
+   [
+    "Tinto",
+    "11.150.517"
+   ],
+   [
+    "Rosado",
+    "262.430"
+   ],
+   [
+    "Branco",
+    "3.413.196"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.638.337"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "-"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "18.218.375"
+   ],
+   [
+    "Espumante  Moscatel",
+    "6.526.075"
+   ],
+   [
+    "Espumante",
+    "11.692.300"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS",
+    "140.472.108"
+   ],
+   [
+    "Suco Natural Integral",
+    "-"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "-"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "-"
+   ],
+   [
+    "Outros sucos de uvas",
+    "-"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "23.572.263"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "31.246.158"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "3.734.763"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "21.575"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "6.929"
+   ],
+   [
+    "Base champenoise champanha",
+    "74.941"
+   ],
+   [
+    "Base charmat champanha",
+    "287.361"
+   ],
+   [
+    "Base espumante moscatel",
+    "109.200"
+   ],
+   [
+    "Bebida de uva",
+    "10.330"
+   ],
+   [
+    "Borra l\u00edquida",
+    "11.600"
+   ],
+   [
+    "Borra seca",
+    "721.280"
+   ],
+   [
+    "Brandy (conhaque)",
+    "4.652"
+   ],
+   [
+    "Cooler",
+    "3.091.682"
+   ],
+   [
+    "Coquetel com vinho",
+    "349.836"
+   ],
+   [
+    "Destilado de vinho",
+    "82"
+   ],
+   [
+    "Filtrado doce",
+    "3.867.645"
+   ],
+   [
+    "Jeropiga",
+    "173"
+   ],
+   [
+    "Mistelas",
+    "1.902"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "715.708"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.517.417"
+   ],
+   [
+    "Outros produtos",
+    "1.773.526"
+   ],
+   [
+    "Polpa de uva",
+    "1.853.162"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "76.888"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "40.574"
+   ],
+   [
+    "Sangria",
+    "58.498"
+   ],
+   [
+    "Vinagre balsamico",
+    "133.714"
+   ],
+   [
+    "Vinagre duplo",
+    "888.589"
+   ],
+   [
+    "Vinagre simples",
+    "6.994.467"
+   ],
+   [
+    "Vinho acetificado",
+    "2.158.993"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "249.165"
+   ],
+   [
+    "Vinho licoroso",
+    "491.165"
+   ],
+   [
+    "Vinho leve",
+    "198"
+   ],
+   [
+    "Vinho gaseificado",
+    "143"
+   ],
+   [
+    "Total",
+    "407.159.657"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2019,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "180.446.489"
+   ],
+   [
+    "Tinto",
+    "158.519.218"
+   ],
+   [
+    "Rosado",
+    "1.265.435"
+   ],
+   [
+    "Branco",
+    "20.661.836"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "15.684.588"
+   ],
+   [
+    "Tinto",
+    "11.433.702"
+   ],
+   [
+    "Rosado",
+    "503.524"
+   ],
+   [
+    "Branco",
+    "3.747.362"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "1.826.433"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "2.554"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "22.759.859"
+   ],
+   [
+    "Espumante  Moscatel",
+    "8.997.187"
+   ],
+   [
+    "Espumante",
+    "13.762.361"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "311"
+   ],
+   [
+    "SUCO DE UVAS",
+    "147.907.617"
+   ],
+   [
+    "Suco Natural Integral",
+    "131.628.685"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "7.759.932"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "416.849"
+   ],
+   [
+    "Outros sucos de uvas",
+    "8.102.151"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "28.721.470"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "34.794.651"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "310.886"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "8.746"
+   ],
+   [
+    "Base champenoise champanha",
+    "65.692"
+   ],
+   [
+    "Base charmat champanha",
+    "271.714"
+   ],
+   [
+    "Base espumante moscatel",
+    "115.468"
+   ],
+   [
+    "Bebida de uva",
+    "498.512"
+   ],
+   [
+    "Borra l\u00edquida",
+    "17.398"
+   ],
+   [
+    "Borra seca",
+    "153.770"
+   ],
+   [
+    "Brandy (conhaque)",
+    "5.015"
+   ],
+   [
+    "Cooler",
+    "3.782.516"
+   ],
+   [
+    "Coquetel com vinho",
+    "269.701"
+   ],
+   [
+    "Destilado de vinho",
+    "309"
+   ],
+   [
+    "Filtrado doce",
+    "4.076.204"
+   ],
+   [
+    "Jeropiga",
+    "-"
+   ],
+   [
+    "Mistelas",
+    "3.765"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "5.736.852"
+   ],
+   [
+    "Mosto sulfitado",
+    "94.000"
+   ],
+   [
+    "Nectar de uva",
+    "4.006.608"
+   ],
+   [
+    "Outros produtos",
+    "2.294.581"
+   ],
+   [
+    "Polpa de uva",
+    "1.838.395"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "52.567"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "110.648"
+   ],
+   [
+    "Sangria",
+    "67.279"
+   ],
+   [
+    "Vinagre balsamico",
+    "211.653"
+   ],
+   [
+    "Vinagre duplo",
+    "1.130.092"
+   ],
+   [
+    "Vinagre simples",
+    "6.246.945"
+   ],
+   [
+    "Vinho acetificado",
+    "2.592.380"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "366.549"
+   ],
+   [
+    "Vinho licoroso",
+    "465.964"
+   ],
+   [
+    "Vinho leve",
+    "306"
+   ],
+   [
+    "Vinho gaseificado",
+    "136"
+   ],
+   [
+    "Total",
+    "432.143.661"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2020,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "215.557.931"
+   ],
+   [
+    "Tinto",
+    "189.573.423"
+   ],
+   [
+    "Rosado",
+    "1.394.901"
+   ],
+   [
+    "Branco",
+    "24.589.607"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "24.310.834"
+   ],
+   [
+    "Tinto",
+    "18.202.453"
+   ],
+   [
+    "Rosado",
+    "993.248"
+   ],
+   [
+    "Branco",
+    "5.115.133"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "2.557.585"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "10.718"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "22.610.762"
+   ],
+   [
+    "Espumante  Moscatel",
+    "9.298.571"
+   ],
+   [
+    "Espumante",
+    "13.311.450"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "742"
+   ],
+   [
+    "SUCO DE UVAS",
+    "144.889.668"
+   ],
+   [
+    "Suco Natural Integral",
+    "114.453.657"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "22.066.742"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "553.391"
+   ],
+   [
+    "Outros sucos de uvas",
+    "7.815.879"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "22.422.414"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "26.547.242"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "192.057"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "866"
+   ],
+   [
+    "Alcool vinico",
+    "6.640"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "7.610"
+   ],
+   [
+    "Base champenoise champanha",
+    "8.772"
+   ],
+   [
+    "Base charmat champanha",
+    "123"
+   ],
+   [
+    "Base espumante moscatel",
+    "23.703"
+   ],
+   [
+    "Bebida de uva",
+    "354.511"
+   ],
+   [
+    "Borra l\u00edquida",
+    "22.975"
+   ],
+   [
+    "Borra seca",
+    "146.260"
+   ],
+   [
+    "Brandy (conhaque)",
+    "7.966"
+   ],
+   [
+    "Cooler",
+    "6.260.381"
+   ],
+   [
+    "Coquetel com vinho",
+    "205.664"
+   ],
+   [
+    "Destilado de vinho",
+    "200"
+   ],
+   [
+    "Filtrado doce",
+    "2.415.338"
+   ],
+   [
+    "Jeropiga",
+    "1.267"
+   ],
+   [
+    "Mistelas",
+    "1.201"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "48.044"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.319.597"
+   ],
+   [
+    "Outros produtos",
+    "2.543.754"
+   ],
+   [
+    "Polpa de uva",
+    "1.129.453"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "11.366"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "144.945"
+   ],
+   [
+    "Sangria",
+    "11.017"
+   ],
+   [
+    "Vinagre balsamico",
+    "248.771"
+   ],
+   [
+    "Vinagre duplo",
+    "1.075.579"
+   ],
+   [
+    "Vinagre simples",
+    "6.049.584"
+   ],
+   [
+    "Vinho acetificado",
+    "1.879.227"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "63.625"
+   ],
+   [
+    "Vinho licoroso",
+    "362.340"
+   ],
+   [
+    "Vinho leve",
+    "396"
+   ],
+   [
+    "Vinho gaseificado",
+    "4.012"
+   ],
+   [
+    "Total",
+    "458.907.154"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2021,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "210.012.238"
+   ],
+   [
+    "Tinto",
+    "185.653.678"
+   ],
+   [
+    "Rosado",
+    "1.931.606"
+   ],
+   [
+    "Branco",
+    "22.426.954"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "27.080.445"
+   ],
+   [
+    "Tinto",
+    "19.337.862"
+   ],
+   [
+    "Rosado",
+    "1.603.537"
+   ],
+   [
+    "Branco",
+    "6.139.046"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "3.696.762"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "18.686"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "31.242.697"
+   ],
+   [
+    "Espumante  Moscatel",
+    "12.240.059"
+   ],
+   [
+    "Espumante",
+    "19.001.999"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "639"
+   ],
+   [
+    "SUCO DE UVAS",
+    "147.753.321"
+   ],
+   [
+    "Suco Natural Integral",
+    "115.173.833"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "26.136.089"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "902.299"
+   ],
+   [
+    "Outros sucos de uvas",
+    "5.541.100"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "26.730.942"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "26.657.930"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "17.618"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "7.676"
+   ],
+   [
+    "Base champenoise champanha",
+    "9.580"
+   ],
+   [
+    "Base charmat champanha",
+    "4.230"
+   ],
+   [
+    "Base espumante moscatel",
+    "49.734"
+   ],
+   [
+    "Bebida de uva",
+    "324.298"
+   ],
+   [
+    "Borra l\u00edquida",
+    "935"
+   ],
+   [
+    "Borra seca",
+    "414.100"
+   ],
+   [
+    "Brandy (conhaque)",
+    "7.311"
+   ],
+   [
+    "Cooler",
+    "6.107.943"
+   ],
+   [
+    "Coquetel com vinho",
+    "244.184"
+   ],
+   [
+    "Destilado de vinho",
+    "175"
+   ],
+   [
+    "Filtrado doce",
+    "2.430.821"
+   ],
+   [
+    "Jeropiga",
+    "1.763"
+   ],
+   [
+    "Mistelas",
+    "9.075"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "803.171"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "4.021.229"
+   ],
+   [
+    "Outros produtos",
+    "2.105.686"
+   ],
+   [
+    "Polpa de uva",
+    "1.002.033"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "23.455"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "175.954"
+   ],
+   [
+    "Sangria",
+    "17.222"
+   ],
+   [
+    "Vinagre balsamico",
+    "332.217"
+   ],
+   [
+    "Vinagre duplo",
+    "795.060"
+   ],
+   [
+    "Vinagre simples",
+    "5.647.166"
+   ],
+   [
+    "Vinho acetificado",
+    "1.448.086"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "227.116"
+   ],
+   [
+    "Vinho licoroso",
+    "376.597"
+   ],
+   [
+    "Vinho leve",
+    "-"
+   ],
+   [
+    "Vinho gaseificado",
+    "53.495"
+   ],
+   [
+    "Total",
+    "473.193.021"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2022,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "187.939.996"
+   ],
+   [
+    "Tinto",
+    "165.067.340"
+   ],
+   [
+    "Rosado",
+    "2.213.723"
+   ],
+   [
+    "Branco",
+    "20.658.933"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "21.533.487"
+   ],
+   [
+    "Tinto",
+    "15.258.778"
+   ],
+   [
+    "Rosado",
+    "1.318.396"
+   ],
+   [
+    "Branco",
+    "4.956.314"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "2.875.864"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "14.947"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "29.525.942"
+   ],
+   [
+    "Espumante  Moscatel",
+    "12.204.315"
+   ],
+   [
+    "Espumante",
+    "17.321.031"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "597"
+   ],
+   [
+    "SUCO DE UVAS",
+    "157.125.036"
+   ],
+   [
+    "Suco Natural Integral",
+    "115.394.795"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "-"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "35.139.154"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "1.002.685"
+   ],
+   [
+    "Outros sucos de uvas",
+    "5.588.403"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "33.632.834"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "31.704.382"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "8.812"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "-"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "5.594"
+   ],
+   [
+    "Base champenoise champanha",
+    "60.958"
+   ],
+   [
+    "Base charmat champanha",
+    "226.901"
+   ],
+   [
+    "Base espumante moscatel",
+    "720.603"
+   ],
+   [
+    "Bebida de uva",
+    "139.943"
+   ],
+   [
+    "Borra l\u00edquida",
+    "49.840"
+   ],
+   [
+    "Borra seca",
+    "122.525"
+   ],
+   [
+    "Brandy (conhaque)",
+    "4.407"
+   ],
+   [
+    "Cooler",
+    "4.505.384"
+   ],
+   [
+    "Coquetel com vinho",
+    "292.420"
+   ],
+   [
+    "Destilado de vinho",
+    "33"
+   ],
+   [
+    "Filtrado doce",
+    "2.339.403"
+   ],
+   [
+    "Jeropiga",
+    "1.392"
+   ],
+   [
+    "Mistelas",
+    "4.080"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "1.579.638"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "4.719.055"
+   ],
+   [
+    "Outros produtos",
+    "7.406.812"
+   ],
+   [
+    "Polpa de uva",
+    "1.058.011"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "19.711"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "265.026"
+   ],
+   [
+    "Sangria",
+    "95.605"
+   ],
+   [
+    "Vinagre balsamico",
+    "296.664"
+   ],
+   [
+    "Vinagre duplo",
+    "987.142"
+   ],
+   [
+    "Vinagre simples",
+    "5.309.881"
+   ],
+   [
+    "Vinho acetificado",
+    "1.052.563"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "32.000"
+   ],
+   [
+    "Vinho licoroso",
+    "385.006"
+   ],
+   [
+    "Vinho leve",
+    "27"
+   ],
+   [
+    "Vinho gaseificado",
+    "14.947"
+   ],
+   [
+    "Total",
+    "464.352.488"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ },
+ {
+  "ano": 2023,
+  "data": [
+   [
+    "VINHO DE MESA",
+    "187.016.848"
+   ],
+   [
+    "Tinto",
+    "165.097.539"
+   ],
+   [
+    "Rosado",
+    "2.520.748"
+   ],
+   [
+    "Branco",
+    "19.398.561"
+   ],
+   [
+    "VINHO FINO DE MESA",
+    "18.589.310"
+   ],
+   [
+    "Tinto",
+    "12.450.606"
+   ],
+   [
+    "Rosado",
+    "1.214.583"
+   ],
+   [
+    "Branco",
+    "4.924.121"
+   ],
+   [
+    "VINHO FRIZANTE",
+    "2.843.600"
+   ],
+   [
+    "VINHO ORG\u00c2NICO",
+    "9.123"
+   ],
+   [
+    "VINHO ESPECIAL",
+    "-"
+   ],
+   [
+    "Tinto",
+    "-"
+   ],
+   [
+    "Rosado",
+    "-"
+   ],
+   [
+    "Branco",
+    "-"
+   ],
+   [
+    "ESPUMANTES",
+    "29.381.635"
+   ],
+   [
+    "Espumante  Moscatel",
+    "9.771.698"
+   ],
+   [
+    "Espumante",
+    "19.609.379"
+   ],
+   [
+    "Espumante Org\u00e2nico",
+    "558"
+   ],
+   [
+    "SUCO DE UVAS",
+    "166.708.720"
+   ],
+   [
+    "Suco Natural Integral",
+    "129.419.407"
+   ],
+   [
+    "Suco Ado\u00e7ado",
+    "128.599"
+   ],
+   [
+    "Suco Reprocessado/reconstituido",
+    "34.402.925"
+   ],
+   [
+    "Suco Org\u00e2nico",
+    "932.154"
+   ],
+   [
+    "Outros sucos de uvas",
+    "1.825.635"
+   ],
+   [
+    "SUCO DE UVAS CONCENTRADO",
+    "37.852.507"
+   ],
+   [
+    "OUTROS PRODUTOS COMERCIALIZADOS",
+    "29.889.342"
+   ],
+   [
+    "Outros vinhos (sem informa\u00e7\u00e3o detalhada)",
+    "8.152"
+   ],
+   [
+    "Agrin (fermentado, acetico misto)",
+    "-"
+   ],
+   [
+    "Aguardente de vinho 50\u00b0gl",
+    "111"
+   ],
+   [
+    "Alcool vinico",
+    "-"
+   ],
+   [
+    "Bagaceira (graspa)",
+    "-"
+   ],
+   [
+    "Base champenoise champanha",
+    "66.290"
+   ],
+   [
+    "Base charmat champanha",
+    "184.040"
+   ],
+   [
+    "Base espumante moscatel",
+    "722.984"
+   ],
+   [
+    "Bebida de uva",
+    "16.780"
+   ],
+   [
+    "Borra l\u00edquida",
+    "72.600"
+   ],
+   [
+    "Borra seca",
+    "53.220"
+   ],
+   [
+    "Brandy (conhaque)",
+    "4.506"
+   ],
+   [
+    "Cooler",
+    "4.321.881"
+   ],
+   [
+    "Coquetel com vinho",
+    "397.156"
+   ],
+   [
+    "Destilado de vinho",
+    "245"
+   ],
+   [
+    "Filtrado doce",
+    "2.366.601"
+   ],
+   [
+    "Jeropiga",
+    "346"
+   ],
+   [
+    "Mistelas",
+    "1.668"
+   ],
+   [
+    "Mosto concentrado",
+    "-"
+   ],
+   [
+    "Mosto de uva",
+    "359.626"
+   ],
+   [
+    "Mosto sulfitado",
+    "-"
+   ],
+   [
+    "Nectar de uva",
+    "3.604.413"
+   ],
+   [
+    "Outros produtos",
+    "7.459.271"
+   ],
+   [
+    "Polpa de uva",
+    "1.331.651"
+   ],
+   [
+    "Preparado l\u00edquido para refresco",
+    "17.178"
+   ],
+   [
+    "Refrigerante +50% suco",
+    "501.876"
+   ],
+   [
+    "Sangria",
+    "84.157"
+   ],
+   [
+    "Vinagre balsamico",
+    "338.926"
+   ],
+   [
+    "Vinagre duplo",
+    "1.769.130"
+   ],
+   [
+    "Vinagre simples",
+    "5.047.280"
+   ],
+   [
+    "Vinho acetificado",
+    "194.020"
+   ],
+   [
+    "Vinho base para espumantes",
+    "-"
+   ],
+   [
+    "Vinho composto",
+    "981"
+   ],
+   [
+    "Vinho licoroso",
+    "421.974"
+   ],
+   [
+    "Vinho leve",
+    "132.064"
+   ],
+   [
+    "Vinho gaseificado",
+    "410.215"
+   ],
+   [
+    "Total",
+    "472.291.085"
+   ]
+  ],
+  "labels": [
+   "Produto",
+   "Quantidade (L.)"
+  ],
+  "processo": "Comercializa\u00e7\u00e3o"
+ }
+]
