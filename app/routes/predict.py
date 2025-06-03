@@ -7,11 +7,11 @@ sys.path.append('../projeto-api-vitivinicultura')
 
 
 # construção do objeto APIRouter.
-models_router = APIRouter()
+ml_router = APIRouter()
 
 
 # construção de uma rota post para categorização dos países
-@models_router.post("/clustering", status_code=201, 
+@ml_router.post("/clustering", status_code=201, 
                     description='Informe o número de categorias que deseja criar para os dados:<br>'  
                     '**Retorno**: tabela com dados de transação e indicadores socioeconômicos dos países.',tags=['modelo_ML'])
 async def criar_categorias(categorias: int):
