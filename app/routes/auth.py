@@ -1,8 +1,8 @@
 """Rotas de autenticação"""
 # [AUTH] 30/05/2025 - Módulo criado para implementar autenticação JWT com FastAPI
 from datetime import datetime, timedelta
-from typing import Annotated
-from fastapi import APIRouter, Depends, HTTPException, status
+from typing import Annotated, Optional
+from fastapi import APIRouter, Depends, HTTPException, status, Form
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from jose import JWTError, jwt
 from passlib.context import CryptContext
@@ -25,6 +25,10 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/token")
 class Token(BaseModel):
     access_token: str
     token_type: str
+
+class TokenRequest(BaseModel):
+    username: str
+    password: str
 
 class UserCreate(BaseModel):
     username: str = Field(..., min_length=3, max_length=50, description="Nome de usuário (3-50 caracteres)")
@@ -85,23 +89,49 @@ async def get_current_user(token: Annotated[str, Depends(oauth2_scheme)]):
         raise credentials_exception
     return user
 
-# [AUTH] 30/05/2025 - Rota de login usando OAuth2 password flow
+# [DEPLOY] 03/06/2025 - Rota de login melhorada para compatibilidade com Swagger
 @router.post("/token", response_model=Token, summary="Login - Obter Token JWT")
-async def login(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
+async def login(
+    username: str = Form(...),
+    password: str = Form(...),
+    grant_type: Optional[str] = Form(default="password"),
+    scope: str = Form(default=""),
+    client_id: Optional[str] = Form(default=None),
+    client_secret: Optional[str] = Form(default=None)
+):
     """
     Faz login e retorna um token JWT.
     
     Envie username e password via form-data.
     O token retornado deve ser usado no header: Authorization: Bearer {token}
     """
-    user = await get_user_by_username(form_data.username.lower())
-    if not user or not pwd_context.verify(form_data.password, user.hashed_password):
+    user = await get_user_by_username(username.lower())
+    if not user or not pwd_context.verify(password, user.hashed_password):
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Username ou senha incorretos",
             headers={"WWW-Authenticate": "Bearer"},
         )
-    
+
+    access_token_expires = timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.username}, expires_delta=access_token_expires
+    )
+    return {"access_token": access_token, "token_type": "bearer"}
+
+# [DEPLOY] 03/06/2025 - Endpoint adicional de login usando JSON para testes diretos
+@router.post("/login", response_model=Token, summary="Login Alternativo - JSON")
+async def login_json(request: TokenRequest):
+    """
+    Login alternativo usando JSON (para testes com curl/Postman)
+    """
+    user = await get_user_by_username(request.username.lower())
+    if not user or not pwd_context.verify(request.password, user.hashed_password):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Username ou senha incorretos",
+        )
+
     access_token_expires = timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)
     access_token = create_access_token(
         data={"sub": user.username}, expires_delta=access_token_expires
