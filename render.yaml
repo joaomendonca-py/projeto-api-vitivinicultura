@@ -21,4 +21,6 @@ services:
         value: HS256
       - key: ACCESS_TOKEN_EXPIRE_MINUTES
         value: 60
+      # [SECURITY] 03/06/2025 - Redis configurado no painel do Render
+      # As credenciais Redis são configuradas diretamente no painel do Render por segurança
     healthCheckPath: /health 
