@@ -5,6 +5,11 @@ from .config import settings
 from .routes import auth
 from .routes.route import router as main_router
 import os
+import logging
+
+# Configurar logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # construção do objeto app
 app = FastAPI(
@@ -32,25 +37,31 @@ app.include_router(main_router, tags=["Dados Vitivinicultura"])
 try:
     from .routes import vinhos
     app.include_router(vinhos.router, prefix="/vinhos", tags=["Vinhos"])
+    logger.info("✅ Rotas de vinhos carregadas com sucesso")
 except ImportError:
-    print("Rotas de vinhos não encontradas")
+    logger.info("📋 Rotas de vinhos não encontradas (opcional)")
 
 try:
     from .routes import predicoes
     app.include_router(predicoes.router, prefix="/predicoes", tags=["Predições"])
+    logger.info("✅ Rotas de predições carregadas com sucesso")
 except ImportError:
-    print("Rotas de predições não encontradas")
+    logger.info("📋 Rotas de predições não encontradas (opcional)")
 
 @app.get("/", tags=["Root"])
+@app.head("/", tags=["Root"])  # [DEPLOY] 03/06/2025 - Suporte a health checks HEAD
 async def read_root():
     return {
         "message": "Bem-vindo à API de Vitivinicultura",
         "docs": "/docs",
         "redoc": "/redoc",
-        "environment": settings.API_ENV
+        "environment": settings.API_ENV,
+        "status": "online",
+        "version": "1.0.0"
     }
 
 @app.get("/health", tags=["Health Check"])
+@app.head("/health", tags=["Health Check"])  # [DEPLOY] 03/06/2025 - Suporte a health checks HEAD
 async def health_check():
     return {
         "status": "healthy",

@@ -11,4 +11,14 @@ services:
         value: production
       - key: DEBUG
         value: false
+      # [DEPLOY] 03/06/2025 - MongoDB Atlas Configuration
+      - key: MONGODB_URL
+        value: mongodb+srv://projeto5mlet:projetofiap@apiembrapa.wcmp3fv.mongodb.net/?retryWrites=true&w=majority&appName=apiEmbrapa
+      # [DEPLOY] 03/06/2025 - JWT Configuration
+      - key: JWT_SECRET_KEY
+        value: vitivinicultura-api-secret-key-render-2025
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: ACCESS_TOKEN_EXPIRE_MINUTES
+        value: 60
     healthCheckPath: /health 
