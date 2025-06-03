@@ -33,7 +33,6 @@ pydantic_core==2.33.1
 Pygments==2.19.1
 pymongo==4.12.0
 python-dateutil==2.9.0.post0
-pywin32==310
 pyzmq==26.4.0
 redis==6.0.0
 requests==2.32.3
@@ -49,3 +48,8 @@ typing_extensions==4.13.2
 urllib3==2.4.0
 uvicorn==0.34.2
 wcwidth==0.2.13
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
+pydantic-settings
