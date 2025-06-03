@@ -2,8 +2,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .config import settings
-from .routes import auth
-from .routes.route import router as main_router
+from .routes import auth, vinhos, predicoes
 
 # construção do objeto app
 app = FastAPI(
@@ -24,8 +23,9 @@ app.add_middleware(
 )
 
 # inclusão das rotas criadas à aplicação.
-app.include_router(auth.router, prefix="/auth")
-app.include_router(main_router, tags=["Dados Vitivinicultura"])
+app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
+app.include_router(vinhos.router, prefix="/vinhos", tags=["Vinhos"])
+app.include_router(predicoes.router, prefix="/predicoes", tags=["Predições"])
 
 @app.get("/", tags=["Root"])
 async def read_root():

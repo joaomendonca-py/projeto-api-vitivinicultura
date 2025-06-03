@@ -2,9 +2,8 @@ services:
   - type: web
     name: vitivinicultura-api
     env: python
-    runtime: python3
     buildCommand: pip install -r requirements.txt
-    startCommand: ./start.sh
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.9.0
