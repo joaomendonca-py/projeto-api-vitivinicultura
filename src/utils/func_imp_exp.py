@@ -52,7 +52,7 @@ def obter_dados_import_export(ano:int, derivado:str, processo:str, tag_page:str)
 
 
 # função para salvamento do arquivo
-def obter_dados_pagina_import_export(ano:int, processo:str, tag_page):
+def obter_dados_pagina_import_export(ano:int, processo:str, tag_page:str):
     ''' Função que executa o scrapping de dados da página Processamento.'''
 
     # verificação do processo para definir quantidade de botões na lista

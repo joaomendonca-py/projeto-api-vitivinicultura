@@ -1,0 +1,9142 @@
+[
+ [
+  {
+   "ano": 2010,
+   "data": [
+    [
+     "TINTAS",
+     "23.633.831"
+    ],
+    [
+     "Alicante Bouschet",
+     "849.263"
+    ],
+    [
+     "Ancelota",
+     "853.718"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "35.790"
+    ],
+    [
+     "Aspirant Bouschet",
+     "-"
+    ],
+    [
+     "Barbera",
+     "26.044"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "2.125.997"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "6.617.553"
+    ],
+    [
+     "Caladoc",
+     "-"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "85.264"
+    ],
+    [
+     "Castel\u00e3o",
+     "16.230"
+    ],
+    [
+     "Corvina",
+     "100"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "845.205"
+    ],
+    [
+     "Ekigaina",
+     "-"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "9.310"
+    ],
+    [
+     "Freisa",
+     "-"
+    ],
+    [
+     "Gamay St Romain",
+     "44.153"
+    ],
+    [
+     "Gamay Beaujolais",
+     "84.074"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "5.670"
+    ],
+    [
+     "Lambrusco",
+     "68.480"
+    ],
+    [
+     "Malbec",
+     "318.059"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "6.179.006"
+    ],
+    [
+     "Marselan",
+     "200.025"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "100"
+    ],
+    [
+     "Montepulciano",
+     "17.959"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "-"
+    ],
+    [
+     "Nebbiolo",
+     "11.986"
+    ],
+    [
+     "Petit Verdot",
+     "109.942"
+    ],
+    [
+     "Petite Sirah",
+     "29.457"
+    ],
+    [
+     "Pinotage",
+     "644.072"
+    ],
+    [
+     "Pinot Noir",
+     "1.309.849"
+    ],
+    [
+     "Pinot Saint George",
+     "-"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "1.650"
+    ],
+    [
+     "Refosco",
+     "9.466"
+    ],
+    [
+     "Rondinella",
+     "100"
+    ],
+    [
+     "Ruby Cabernet",
+     "379.720"
+    ],
+    [
+     "Sangiovese",
+     "258.484"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "2.266.985"
+    ],
+    [
+     "Tempranillo",
+     "63.526"
+    ],
+    [
+     "Teroldego",
+     "68.593"
+    ],
+    [
+     "Torrontes",
+     "-"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "97.629"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "372"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "22.104.122"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "1.088"
+    ],
+    [
+     "Arriloba",
+     "33.750"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "3.836.555"
+    ],
+    [
+     "Chasselas",
+     "47.099"
+    ],
+    [
+     "Chenin Blanc",
+     "73.720"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "479.201"
+    ],
+    [
+     "Flora",
+     "35.860"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "105.186"
+    ],
+    [
+     "Gouveio",
+     "4.358"
+    ],
+    [
+     "Gros Manseng",
+     "4.430"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "2.230"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "251.587"
+    ],
+    [
+     "Malvasia Bianca",
+     "49.176"
+    ],
+    [
+     "Malvasia Chianti",
+     "2.142"
+    ],
+    [
+     "Malvasia Verde",
+     "83.565"
+    ],
+    [
+     "Malvasia di Candia",
+     "649.194"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "8.595.609"
+    ],
+    [
+     "Moscato Canelli",
+     "55.811"
+    ],
+    [
+     "Moscato Giallo",
+     "1.151.570"
+    ],
+    [
+     "Moscato Nazareno",
+     "690.210"
+    ],
+    [
+     "Moscato Bianco R2",
+     "317.404"
+    ],
+    [
+     "Moscato de Alexandria",
+     "41.426"
+    ],
+    [
+     "Moscato Rosado",
+     "2.396"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "4.045"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "28.945"
+    ],
+    [
+     "Pinot Blanc",
+     "16.940"
+    ],
+    [
+     "Pinot Gris",
+     "36.036"
+    ],
+    [
+     "Prosecco",
+     "1.345.161"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "2.120.405"
+    ],
+    [
+     "Riesling Renano",
+     "96.828"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "350.866"
+    ],
+    [
+     "Sauvignon Gris",
+     "3.629"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "165.518"
+    ],
+    [
+     "Schonburger",
+     "-"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "1.338.957"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "560"
+    ],
+    [
+     "Vernaccia",
+     "6.520"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "76.145"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "45.737.953"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2010,
+   "data": [
+    [
+     "TINTAS",
+     "409.514.092"
+    ],
+    [
+     "Bacarina",
+     "7.850"
+    ],
+    [
+     "Bailey",
+     "604.895"
+    ],
+    [
+     "Bordo",
+     "89.066.377"
+    ],
+    [
+     "Bourdin (S)",
+     "26.990"
+    ],
+    [
+     "BRS Carmen",
+     "2.296"
+    ],
+    [
+     "BRS Cora",
+     "1.178.530"
+    ],
+    [
+     "BRS Magna",
+     "-"
+    ],
+    [
+     "BRS Margot",
+     "-"
+    ],
+    [
+     "BRS Morena",
+     "12.114"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "876.076"
+    ],
+    [
+     "BRS Violeta",
+     "979.695"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "6.000"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "11.624"
+    ],
+    [
+     "Concord",
+     "41.446.763"
+    ],
+    [
+     "Concord clone 30",
+     "942.685"
+    ],
+    [
+     "Couderc",
+     "24.092.319"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.151.540"
+    ],
+    [
+     "Herbemont",
+     "7.598.565"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "198.927.893"
+    ],
+    [
+     "Isabel Precoce",
+     "5.427.981"
+    ],
+    [
+     "Jacquez",
+     "26.557.467"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "7.085"
+    ],
+    [
+     "Seibel",
+     "6.274.394"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "3.062.997"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.251.956"
+    ],
+    [
+     "V\u00eanus",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "71.589.617"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "-"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "3.560"
+    ],
+    [
+     "BRS Lorena",
+     "4.804.262"
+    ],
+    [
+     "Couderc 13",
+     "8.001.944"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "35.708"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "473.521"
+    ],
+    [
+     "IAC",
+     "650"
+    ],
+    [
+     "Juliana",
+     "1.500"
+    ],
+    [
+     "Martha",
+     "11.329"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "8.594.684"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "35.971.072"
+    ],
+    [
+     "Niagara Rosada",
+     "12.553.768"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "873.170"
+    ],
+    [
+     "Seyve Villard 5276",
+     "242.528"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "21.921"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "481.103.709"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2010,
+   "data": [
+    [
+     "TINTAS",
+     "31.771"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "31.771"
+    ],
+    [
+     "BRANCAS",
+     "11.575"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "10.375"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "1.200"
+    ],
+    [
+     "Total",
+     "43.346"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2010,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2011,
+   "data": [
+    [
+     "TINTAS",
+     "44.473.588"
+    ],
+    [
+     "Alicante Bouschet",
+     "2.130.579"
+    ],
+    [
+     "Ancelota",
+     "1.346.552"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "4.320"
+    ],
+    [
+     "Arinarnoa",
+     "49.376"
+    ],
+    [
+     "Aspirant Bouschet",
+     "2.258"
+    ],
+    [
+     "Barbera",
+     "76.397"
+    ],
+    [
+     "Bonarda",
+     "250"
+    ],
+    [
+     "Cabernet Franc",
+     "2.741.150"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "13.039.126"
+    ],
+    [
+     "Caladoc",
+     "-"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "50.125"
+    ],
+    [
+     "Castel\u00e3o",
+     "26.790"
+    ],
+    [
+     "Corvina",
+     "1.110"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "1.544.746"
+    ],
+    [
+     "Ekigaina",
+     "1.350"
+    ],
+    [
+     "Festival (Sugraone)",
+     "18.007"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "-"
+    ],
+    [
+     "Gamay St Romain",
+     "20.830"
+    ],
+    [
+     "Gamay Beaujolais",
+     "164.201"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "1.180"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "3.288"
+    ],
+    [
+     "Lambrusco",
+     "94.480"
+    ],
+    [
+     "Malbec",
+     "636.608"
+    ],
+    [
+     "Marzemina",
+     "5.460"
+    ],
+    [
+     "Merlot",
+     "12.510.489"
+    ],
+    [
+     "Marselan",
+     "339.023"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.080"
+    ],
+    [
+     "Montepulciano",
+     "21.115"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "31.410"
+    ],
+    [
+     "Nebbiolo",
+     "21.342"
+    ],
+    [
+     "Petit Verdot",
+     "127.549"
+    ],
+    [
+     "Petite Sirah",
+     "98.861"
+    ],
+    [
+     "Pinotage",
+     "1.075.863"
+    ],
+    [
+     "Pinot Noir",
+     "2.513.274"
+    ],
+    [
+     "Pinot Saint George",
+     "7.600"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "27.620"
+    ],
+    [
+     "Refosco",
+     "18.705"
+    ],
+    [
+     "Rondinella",
+     "1.150"
+    ],
+    [
+     "Ruby Cabernet",
+     "582.497"
+    ],
+    [
+     "Sangiovese",
+     "359.833"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "4.152.135"
+    ],
+    [
+     "Tempranillo",
+     "256.836"
+    ],
+    [
+     "Teroldego",
+     "179.095"
+    ],
+    [
+     "Torrontes",
+     "-"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "189.928"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "37.931.015"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "2.640"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "6.668"
+    ],
+    [
+     "Arriloba",
+     "38.390"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "4.916.344"
+    ],
+    [
+     "Chasselas",
+     "29.543"
+    ],
+    [
+     "Chenin Blanc",
+     "212.900"
+    ],
+    [
+     "Clairette(1)",
+     "949"
+    ],
+    [
+     "Colombard",
+     "445.104"
+    ],
+    [
+     "Flora",
+     "37.620"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "206.833"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "7.220"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "6.405"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "107.015"
+    ],
+    [
+     "Malvasia Bianca",
+     "138.608"
+    ],
+    [
+     "Malvasia Chianti",
+     "-"
+    ],
+    [
+     "Malvasia Verde",
+     "60.776"
+    ],
+    [
+     "Malvasia di Candia",
+     "1.727.224"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "16.871.284"
+    ],
+    [
+     "Moscato Canelli",
+     "92.887"
+    ],
+    [
+     "Moscato Giallo",
+     "1.949.920"
+    ],
+    [
+     "Moscato Nazareno",
+     "882.104"
+    ],
+    [
+     "Moscato Bianco R2",
+     "808.748"
+    ],
+    [
+     "Moscato de Alexandria",
+     "105.384"
+    ],
+    [
+     "Moscato Rosado",
+     "7.617"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "64.218"
+    ],
+    [
+     "Pinot Blanc",
+     "26.307"
+    ],
+    [
+     "Pinot Gris",
+     "158.788"
+    ],
+    [
+     "Prosecco",
+     "2.720.048"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "2.618.429"
+    ],
+    [
+     "Riesling Renano",
+     "125.166"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "612.060"
+    ],
+    [
+     "Sauvignon Gris",
+     "8.513"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "312.204"
+    ],
+    [
+     "Schonburger",
+     "14.538"
+    ],
+    [
+     "Sylvaner",
+     "1.435"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "2.439.317"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "12.420"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "5.480"
+    ],
+    [
+     "Vernaccia",
+     "4.930"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "144.979"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "82.404.603"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2011,
+   "data": [
+    [
+     "TINTAS",
+     "532.937.101"
+    ],
+    [
+     "Bacarina",
+     "12.930"
+    ],
+    [
+     "Bailey",
+     "769.140"
+    ],
+    [
+     "Bordo",
+     "139.754.250"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "48.450"
+    ],
+    [
+     "BRS Cora",
+     "2.844.280"
+    ],
+    [
+     "BRS Magna",
+     "-"
+    ],
+    [
+     "BRS Margot",
+     "-"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "1.333.903"
+    ],
+    [
+     "BRS Violeta",
+     "2.404.076"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "4.351"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "33.408"
+    ],
+    [
+     "Concord",
+     "44.201.322"
+    ],
+    [
+     "Concord clone 30",
+     "1.720.732"
+    ],
+    [
+     "Couderc",
+     "35.686.727"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.249.033"
+    ],
+    [
+     "Herbemont",
+     "8.954.135"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "244.626.313"
+    ],
+    [
+     "Isabel Precoce",
+     "7.687.712"
+    ],
+    [
+     "Jacquez",
+     "30.223.434"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "5.885"
+    ],
+    [
+     "Seibel",
+     "6.922.384"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "2.839.703"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.602.693"
+    ],
+    [
+     "V\u00eanus",
+     "12.240"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "94.137.074"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "32.810"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "4.820"
+    ],
+    [
+     "BRS Lorena",
+     "7.776.413"
+    ],
+    [
+     "Couderc 13",
+     "10.982.813"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "29.190"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "414.977"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "3.060"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.200.409"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "47.581.756"
+    ],
+    [
+     "Niagara Rosada",
+     "14.831.369"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "2.022"
+    ],
+    [
+     "Seyve Villard",
+     "1.007.735"
+    ],
+    [
+     "Seyve Villard 5276",
+     "242.415"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "27.285"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "627.074.175"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2011,
+   "data": [
+    [
+     "TINTAS",
+     "89.305"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "89.305"
+    ],
+    [
+     "BRANCAS",
+     "19.458"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "5.575"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "13.883"
+    ],
+    [
+     "Total",
+     "108.763"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2011,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2012,
+   "data": [
+    [
+     "TINTAS",
+     "39.303.313"
+    ],
+    [
+     "Alicante Bouschet",
+     "2.098.824"
+    ],
+    [
+     "Ancelota",
+     "1.274.677"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "81.026"
+    ],
+    [
+     "Aspirant Bouschet",
+     "7.448"
+    ],
+    [
+     "Barbera",
+     "47.549"
+    ],
+    [
+     "Bonarda",
+     "1.114"
+    ],
+    [
+     "Cabernet Franc",
+     "2.594.675"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "11.355.820"
+    ],
+    [
+     "Caladoc",
+     "-"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "48.990"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "1.200"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "992.241"
+    ],
+    [
+     "Ekigaina",
+     "2.630"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "-"
+    ],
+    [
+     "Gamay St Romain",
+     "10.995"
+    ],
+    [
+     "Gamay Beaujolais",
+     "163.664"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "800"
+    ],
+    [
+     "Lambrusco",
+     "52.740"
+    ],
+    [
+     "Malbec",
+     "629.019"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "9.645.204"
+    ],
+    [
+     "Marselan",
+     "261.314"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "990"
+    ],
+    [
+     "Montepulciano",
+     "27.678"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "86.650"
+    ],
+    [
+     "Nebbiolo",
+     "37.530"
+    ],
+    [
+     "Petit Verdot",
+     "102.402"
+    ],
+    [
+     "Petite Sirah",
+     "149.196"
+    ],
+    [
+     "Pinotage",
+     "863.296"
+    ],
+    [
+     "Pinot Noir",
+     "2.799.071"
+    ],
+    [
+     "Pinot Saint George",
+     "20.920"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "16.440"
+    ],
+    [
+     "Refosco",
+     "12.120"
+    ],
+    [
+     "Rondinella",
+     "1.020"
+    ],
+    [
+     "Ruby Cabernet",
+     "470.683"
+    ],
+    [
+     "Sangiovese",
+     "280.756"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "4.585.214"
+    ],
+    [
+     "Tempranillo",
+     "283.929"
+    ],
+    [
+     "Teroldego",
+     "157.368"
+    ],
+    [
+     "Torrontes",
+     "4.300"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "133.820"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "36.519.724"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "5.081"
+    ],
+    [
+     "Arriloba",
+     "40.000"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "6.347.044"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "257.090"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "773.273"
+    ],
+    [
+     "Flora",
+     "68.260"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "327.678"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "-"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "61.799"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "115.147"
+    ],
+    [
+     "Malvasia Bianca",
+     "119.122"
+    ],
+    [
+     "Malvasia Chianti",
+     "-"
+    ],
+    [
+     "Malvasia Verde",
+     "10.979"
+    ],
+    [
+     "Malvasia di Candia",
+     "1.825.193"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "13.322.429"
+    ],
+    [
+     "Moscato Canelli",
+     "123.255"
+    ],
+    [
+     "Moscato Giallo",
+     "1.641.498"
+    ],
+    [
+     "Moscato Nazareno",
+     "633.606"
+    ],
+    [
+     "Moscato Bianco R2",
+     "618.266"
+    ],
+    [
+     "Moscato de Alexandria",
+     "184.748"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "43.656"
+    ],
+    [
+     "Pinot Blanc",
+     "10.174"
+    ],
+    [
+     "Pinot Gris",
+     "187.685"
+    ],
+    [
+     "Prosecco",
+     "2.420.715"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "3.172.992"
+    ],
+    [
+     "Riesling Renano",
+     "195.120"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "855.045"
+    ],
+    [
+     "Sauvignon Gris",
+     "2.854"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "336.252"
+    ],
+    [
+     "Schonburger",
+     "21.348"
+    ],
+    [
+     "Sylvaner",
+     "144"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "2.576.020"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "14.339"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "4.844"
+    ],
+    [
+     "Vernaccia",
+     "3.780"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "200.288"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "75.823.037"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2012,
+   "data": [
+    [
+     "TINTAS",
+     "527.332.818"
+    ],
+    [
+     "Bacarina",
+     "3.820"
+    ],
+    [
+     "Bailey",
+     "912.286"
+    ],
+    [
+     "Bordo",
+     "127.378.006"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "278.602"
+    ],
+    [
+     "BRS Cora",
+     "3.098.082"
+    ],
+    [
+     "BRS Magna",
+     "-"
+    ],
+    [
+     "BRS Margot",
+     "-"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "1.332.139"
+    ],
+    [
+     "BRS Violeta",
+     "4.009.589"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "3.138"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "39.806"
+    ],
+    [
+     "Concord",
+     "44.395.218"
+    ],
+    [
+     "Concord clone 30",
+     "2.745.160"
+    ],
+    [
+     "Couderc",
+     "27.237.702"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.492.979"
+    ],
+    [
+     "Herbemont",
+     "7.246.411"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "262.942.020"
+    ],
+    [
+     "Isabel Precoce",
+     "11.743.388"
+    ],
+    [
+     "Jacquez",
+     "24.572.149"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "3.015"
+    ],
+    [
+     "Seibel",
+     "4.056.234"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "2.491.824"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.330.096"
+    ],
+    [
+     "V\u00eanus",
+     "21.154"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "93.549.583"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "56.250"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "4.120"
+    ],
+    [
+     "BRS Lorena",
+     "8.792.381"
+    ],
+    [
+     "Couderc 13",
+     "10.185.486"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "23.770"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "776.322"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "22.321"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.303.572"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "47.325.170"
+    ],
+    [
+     "Niagara Rosada",
+     "14.040.879"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "839.003"
+    ],
+    [
+     "Seyve Villard 5276",
+     "151.456"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "28.853"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "620.882.401"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2012,
+   "data": [
+    [
+     "TINTAS",
+     "145.132"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "145.132"
+    ],
+    [
+     "BRANCAS",
+     "62.564"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "9.695"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "52.869"
+    ],
+    [
+     "Total",
+     "207.696"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2012,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2013,
+   "data": [
+    [
+     "TINTAS",
+     "36.855.419"
+    ],
+    [
+     "Alicante Bouschet",
+     "1.524.728"
+    ],
+    [
+     "Ancelota",
+     "1.137.943"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "65.001"
+    ],
+    [
+     "Aspirant Bouschet",
+     "3.650"
+    ],
+    [
+     "Barbera",
+     "40.630"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "2.452.229"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "10.651.084"
+    ],
+    [
+     "Caladoc",
+     "2.480"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "44.414"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "1.382"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "1.059.250"
+    ],
+    [
+     "Ekigaina",
+     "1.720"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "-"
+    ],
+    [
+     "Gamay St Romain",
+     "11.615"
+    ],
+    [
+     "Gamay Beaujolais",
+     "135.405"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "15.300"
+    ],
+    [
+     "Lambrusco",
+     "56.120"
+    ],
+    [
+     "Malbec",
+     "590.041"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "10.179.782"
+    ],
+    [
+     "Marselan",
+     "345.504"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.009"
+    ],
+    [
+     "Montepulciano",
+     "41.888"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "55.550"
+    ],
+    [
+     "Nebbiolo",
+     "9.327"
+    ],
+    [
+     "Petit Verdot",
+     "167.522"
+    ],
+    [
+     "Petite Sirah",
+     "105.934"
+    ],
+    [
+     "Pinotage",
+     "816.883"
+    ],
+    [
+     "Pinot Noir",
+     "2.392.357"
+    ],
+    [
+     "Pinot Saint George",
+     "14.120"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "19.780"
+    ],
+    [
+     "Refosco",
+     "12.080"
+    ],
+    [
+     "Rondinella",
+     "1.089"
+    ],
+    [
+     "Ruby Cabernet",
+     "526.124"
+    ],
+    [
+     "Sangiovese",
+     "277.679"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "3.612.439"
+    ],
+    [
+     "Tempranillo",
+     "219.163"
+    ],
+    [
+     "Teroldego",
+     "124.542"
+    ],
+    [
+     "Torrontes",
+     "3.090"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "136.565"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "36.958.341"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "12.413"
+    ],
+    [
+     "Arriloba",
+     "28.829"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "6.174.156"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "264.090"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "673.158"
+    ],
+    [
+     "Flora",
+     "72.410"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "239.469"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "4.640"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "5.671"
+    ],
+    [
+     "Maccabeo",
+     "3.558"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "519.959"
+    ],
+    [
+     "Malvasia Bianca",
+     "184.949"
+    ],
+    [
+     "Malvasia Chianti",
+     "5.061"
+    ],
+    [
+     "Malvasia Verde",
+     "18.690"
+    ],
+    [
+     "Malvasia di Candia",
+     "1.692.882"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "13.136.399"
+    ],
+    [
+     "Moscato Canelli",
+     "64.800"
+    ],
+    [
+     "Moscato Giallo",
+     "1.813.522"
+    ],
+    [
+     "Moscato Nazareno",
+     "831.206"
+    ],
+    [
+     "Moscato Bianco R2",
+     "678.267"
+    ],
+    [
+     "Moscato de Alexandria",
+     "211.532"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "44.137"
+    ],
+    [
+     "Pinot Blanc",
+     "8.720"
+    ],
+    [
+     "Pinot Gris",
+     "126.844"
+    ],
+    [
+     "Prosecco",
+     "2.852.648"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "3.069.854"
+    ],
+    [
+     "Riesling Renano",
+     "99.230"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "633.633"
+    ],
+    [
+     "Sauvignon Gris",
+     "3.737"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "335.323"
+    ],
+    [
+     "Schonburger",
+     "14.087"
+    ],
+    [
+     "Sylvaner",
+     "155"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "2.876.041"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "3.220"
+    ],
+    [
+     "Vernaccia",
+     "7.970"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "247.081"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "73.813.760"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2013,
+   "data": [
+    [
+     "TINTAS",
+     "460.738.996"
+    ],
+    [
+     "Bacarina",
+     "2.990"
+    ],
+    [
+     "Bailey",
+     "756.000"
+    ],
+    [
+     "Bordo",
+     "102.788.361"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "605.728"
+    ],
+    [
+     "BRS Cora",
+     "3.697.942"
+    ],
+    [
+     "BRS Magna",
+     "-"
+    ],
+    [
+     "BRS Margot",
+     "-"
+    ],
+    [
+     "BRS Morena",
+     "2.600"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "1.478.269"
+    ],
+    [
+     "BRS Violeta",
+     "3.561.414"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "106"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "34.072"
+    ],
+    [
+     "Concord",
+     "34.237.661"
+    ],
+    [
+     "Concord clone 30",
+     "2.326.774"
+    ],
+    [
+     "Couderc",
+     "26.722.044"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.290.743"
+    ],
+    [
+     "Herbemont",
+     "6.142.005"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "232.518.530"
+    ],
+    [
+     "Isabel Precoce",
+     "11.467.561"
+    ],
+    [
+     "Jacquez",
+     "24.997.428"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "3.575"
+    ],
+    [
+     "Seibel",
+     "6.727.381"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "275.998"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.087.889"
+    ],
+    [
+     "V\u00eanus",
+     "13.925"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "77.174.438"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "57.680"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "81.130"
+    ],
+    [
+     "BRS Lorena",
+     "7.354.725"
+    ],
+    [
+     "Couderc 13",
+     "8.564.745"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "15.330"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "469.138"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "5.642"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.763.335"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "37.574.776"
+    ],
+    [
+     "Niagara Rosada",
+     "10.312.310"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "781.787"
+    ],
+    [
+     "Seyve Villard 5276",
+     "180.410"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "13.430"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "537.913.434"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2013,
+   "data": [
+    [
+     "TINTAS",
+     "75.362"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "75.362"
+    ],
+    [
+     "BRANCAS",
+     "4.412"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "3.378"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "1.034"
+    ],
+    [
+     "Total",
+     "79.774"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2013,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2014,
+   "data": [
+    [
+     "TINTAS",
+     "29.810.706"
+    ],
+    [
+     "Alicante Bouschet",
+     "1.456.305"
+    ],
+    [
+     "Ancelota",
+     "937.844"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "56.666"
+    ],
+    [
+     "Aspirant Bouschet",
+     "7.091"
+    ],
+    [
+     "Barbera",
+     "19.514"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "1.894.496"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "8.556.337"
+    ],
+    [
+     "Caladoc",
+     "3.300"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "66.632"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "1.406"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "911.280"
+    ],
+    [
+     "Ekigaina",
+     "600"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "41.403"
+    ],
+    [
+     "Gamay St Romain",
+     "11.180"
+    ],
+    [
+     "Gamay Beaujolais",
+     "113.038"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "750"
+    ],
+    [
+     "Lambrusco",
+     "29.890"
+    ],
+    [
+     "Malbec",
+     "616.160"
+    ],
+    [
+     "Marzemina",
+     "4.180"
+    ],
+    [
+     "Merlot",
+     "7.846.034"
+    ],
+    [
+     "Marselan",
+     "404.323"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.023"
+    ],
+    [
+     "Montepulciano",
+     "26.280"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "16.380"
+    ],
+    [
+     "Nebbiolo",
+     "7.223"
+    ],
+    [
+     "Petit Verdot",
+     "75.010"
+    ],
+    [
+     "Petite Sirah",
+     "47.834"
+    ],
+    [
+     "Pinotage",
+     "479.202"
+    ],
+    [
+     "Pinot Noir",
+     "2.592.701"
+    ],
+    [
+     "Pinot Saint George",
+     "2.480"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "13.420"
+    ],
+    [
+     "Refosco",
+     "13.240"
+    ],
+    [
+     "Rondinella",
+     "1.053"
+    ],
+    [
+     "Ruby Cabernet",
+     "486.527"
+    ],
+    [
+     "Sangiovese",
+     "122.632"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "2.644.014"
+    ],
+    [
+     "Tempranillo",
+     "119.398"
+    ],
+    [
+     "Teroldego",
+     "87.820"
+    ],
+    [
+     "Torrontes",
+     "9.580"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "86.460"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "35.769.155"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "16.147"
+    ],
+    [
+     "Arriloba",
+     "31.140"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "5.821.514"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "146.760"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "563.589"
+    ],
+    [
+     "Flora",
+     "45.240"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "162.083"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "4.830"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "40.230"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "149.663"
+    ],
+    [
+     "Malvasia Bianca",
+     "414.603"
+    ],
+    [
+     "Malvasia Chianti",
+     "7.632"
+    ],
+    [
+     "Malvasia Verde",
+     "8.825"
+    ],
+    [
+     "Malvasia di Candia",
+     "1.888.539"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "12.669.980"
+    ],
+    [
+     "Moscato Canelli",
+     "85.785"
+    ],
+    [
+     "Moscato Giallo",
+     "1.742.605"
+    ],
+    [
+     "Moscato Nazareno",
+     "886.808"
+    ],
+    [
+     "Moscato Bianco R2",
+     "770.265"
+    ],
+    [
+     "Moscato de Alexandria",
+     "160.290"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "28.452"
+    ],
+    [
+     "Pinot Blanc",
+     "5.980"
+    ],
+    [
+     "Pinot Gris",
+     "118.123"
+    ],
+    [
+     "Prosecco",
+     "3.030.347"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "2.705.224"
+    ],
+    [
+     "Riesling Renano",
+     "94.276"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "515.939"
+    ],
+    [
+     "Sauvignon Gris",
+     "921"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "149.939"
+    ],
+    [
+     "Schonburger",
+     "5.194"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "3.342.859"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "1.890"
+    ],
+    [
+     "Vernaccia",
+     "4.150"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "149.333"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "65.579.861"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2014,
+   "data": [
+    [
+     "TINTAS",
+     "471.555.903"
+    ],
+    [
+     "Bacarina",
+     "3.900"
+    ],
+    [
+     "Bailey",
+     "991.449"
+    ],
+    [
+     "Bordo",
+     "113.008.320"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "1.553.111"
+    ],
+    [
+     "BRS Cora",
+     "4.721.454"
+    ],
+    [
+     "BRS Magna",
+     "600"
+    ],
+    [
+     "BRS Margot",
+     "3.679"
+    ],
+    [
+     "BRS Morena",
+     "6.500"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "1.731.895"
+    ],
+    [
+     "BRS Violeta",
+     "6.489.062"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "980"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "47.882"
+    ],
+    [
+     "Concord",
+     "30.755.828"
+    ],
+    [
+     "Concord clone 30",
+     "2.923.699"
+    ],
+    [
+     "Couderc",
+     "30.181.906"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.490.695"
+    ],
+    [
+     "Herbemont",
+     "4.045.612"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "228.517.859"
+    ],
+    [
+     "Isabel Precoce",
+     "12.806.674"
+    ],
+    [
+     "Jacquez",
+     "24.345.429"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "930"
+    ],
+    [
+     "Seibel",
+     "6.367.679"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "201.931"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.344.919"
+    ],
+    [
+     "V\u00eanus",
+     "13.910"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "68.847.961"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "79.390"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "-"
+    ],
+    [
+     "BRS Lorena",
+     "9.165.164"
+    ],
+    [
+     "Couderc 13",
+     "8.990.377"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "12.325"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "346.269"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "3.050"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.902.554"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "27.973.518"
+    ],
+    [
+     "Niagara Rosada",
+     "9.552.430"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "700.473"
+    ],
+    [
+     "Seyve Villard 5276",
+     "107.521"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "14.890"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "540.403.864"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2014,
+   "data": [
+    [
+     "TINTAS",
+     "65.850"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "65.850"
+    ],
+    [
+     "BRANCAS",
+     "30.600"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "850"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "29.750"
+    ],
+    [
+     "Total",
+     "96.450"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2014,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2015,
+   "data": [
+    [
+     "TINTAS",
+     "29.935.627"
+    ],
+    [
+     "Alicante Bouschet",
+     "1.519.576"
+    ],
+    [
+     "Ancelota",
+     "773.526"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "61.817"
+    ],
+    [
+     "Aspirant Bouschet",
+     "8.859"
+    ],
+    [
+     "Barbera",
+     "19.980"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "1.981.004"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "7.426.634"
+    ],
+    [
+     "Caladoc",
+     "4.000"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "134.180"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "1.397"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "1.053.654"
+    ],
+    [
+     "Ekigaina",
+     "1.090"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "24.452"
+    ],
+    [
+     "Gamay St Romain",
+     "31.935"
+    ],
+    [
+     "Gamay Beaujolais",
+     "121.516"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "1.400"
+    ],
+    [
+     "Lambrusco",
+     "39.990"
+    ],
+    [
+     "Malbec",
+     "624.096"
+    ],
+    [
+     "Marzemina",
+     "750"
+    ],
+    [
+     "Merlot",
+     "8.030.882"
+    ],
+    [
+     "Marselan",
+     "411.105"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.080"
+    ],
+    [
+     "Montepulciano",
+     "25.640"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "8.970"
+    ],
+    [
+     "Nebbiolo",
+     "12.754"
+    ],
+    [
+     "Petit Verdot",
+     "135.770"
+    ],
+    [
+     "Petite Sirah",
+     "48.483"
+    ],
+    [
+     "Pinotage",
+     "560.195"
+    ],
+    [
+     "Pinot Noir",
+     "3.125.882"
+    ],
+    [
+     "Pinot Saint George",
+     "-"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "22.290"
+    ],
+    [
+     "Refosco",
+     "9.310"
+    ],
+    [
+     "Rondinella",
+     "1.110"
+    ],
+    [
+     "Ruby Cabernet",
+     "388.019"
+    ],
+    [
+     "Sangiovese",
+     "135.962"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "2.761.604"
+    ],
+    [
+     "Tempranillo",
+     "182.579"
+    ],
+    [
+     "Teroldego",
+     "97.455"
+    ],
+    [
+     "Torrontes",
+     "10.070"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "136.611"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "40.130.577"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "9.860"
+    ],
+    [
+     "Arriloba",
+     "34.120"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "7.253.167"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "173.321"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "512.199"
+    ],
+    [
+     "Flora",
+     "25.090"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "207.303"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "7.410"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "37.820"
+    ],
+    [
+     "Maccabeo",
+     "17.670"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "119.930"
+    ],
+    [
+     "Malvasia Bianca",
+     "602.081"
+    ],
+    [
+     "Malvasia Chianti",
+     "-"
+    ],
+    [
+     "Malvasia Verde",
+     "5.108"
+    ],
+    [
+     "Malvasia di Candia",
+     "2.512.864"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "12.788.740"
+    ],
+    [
+     "Moscato Canelli",
+     "72.462"
+    ],
+    [
+     "Moscato Giallo",
+     "1.785.956"
+    ],
+    [
+     "Moscato Nazareno",
+     "886.075"
+    ],
+    [
+     "Moscato Bianco R2",
+     "863.910"
+    ],
+    [
+     "Moscato de Alexandria",
+     "192.945"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "40.719"
+    ],
+    [
+     "Pinot Blanc",
+     "7.218"
+    ],
+    [
+     "Pinot Gris",
+     "118.118"
+    ],
+    [
+     "Prosecco",
+     "3.319.779"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "3.468.606"
+    ],
+    [
+     "Riesling Renano",
+     "153.605"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "614.222"
+    ],
+    [
+     "Sauvignon Gris",
+     "1.504"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "177.672"
+    ],
+    [
+     "Schonburger",
+     "-"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "3.830.336"
+    ],
+    [
+     "Trebbiano Toscano",
+     "-"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "790"
+    ],
+    [
+     "Vernaccia",
+     "4.760"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "285.217"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "70.066.204"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2015,
+   "data": [
+    [
+     "TINTAS",
+     "537.592.720"
+    ],
+    [
+     "Bacarina",
+     "-"
+    ],
+    [
+     "Bailey",
+     "963.159"
+    ],
+    [
+     "Bordo",
+     "137.467.196"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "2.891.792"
+    ],
+    [
+     "BRS Cora",
+     "5.733.518"
+    ],
+    [
+     "BRS Magna",
+     "28.560"
+    ],
+    [
+     "BRS Margot",
+     "15.052"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "2.034.788"
+    ],
+    [
+     "BRS Violeta",
+     "8.295.873"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "-"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "44.847"
+    ],
+    [
+     "Concord",
+     "39.180.980"
+    ],
+    [
+     "Concord clone 30",
+     "4.293.636"
+    ],
+    [
+     "Couderc",
+     "27.693.447"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.596.711"
+    ],
+    [
+     "Herbemont",
+     "3.282.683"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "256.440.505"
+    ],
+    [
+     "Isabel Precoce",
+     "15.254.220"
+    ],
+    [
+     "Jacquez",
+     "24.330.422"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "2.890"
+    ],
+    [
+     "Seibel",
+     "6.075.113"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "732.685"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.166.954"
+    ],
+    [
+     "V\u00eanus",
+     "67.689"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "95.439.129"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "84.430"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "-"
+    ],
+    [
+     "BRS Lorena",
+     "9.168.814"
+    ],
+    [
+     "Couderc 13",
+     "7.605.648"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "34.170"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "481.443"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "12.334"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.248.259"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "50.329.681"
+    ],
+    [
+     "Niagara Rosada",
+     "15.706.093"
+    ],
+    [
+     "Poloske",
+     "-"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "1.500"
+    ],
+    [
+     "Seyve Villard",
+     "657.086"
+    ],
+    [
+     "Seyve Villard 5276",
+     "91.960"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "17.711"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "633.031.849"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2015,
+   "data": [
+    [
+     "TINTAS",
+     "108.797"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "108.797"
+    ],
+    [
+     "BRANCAS",
+     "64.540"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "3.280"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "61.260"
+    ],
+    [
+     "Total",
+     "173.337"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2015,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2016,
+   "data": [
+    [
+     "TINTAS",
+     "13.370.866"
+    ],
+    [
+     "Alicante Bouschet",
+     "908.841"
+    ],
+    [
+     "Ancelota",
+     "179.028"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "17.691"
+    ],
+    [
+     "Aspirant Bouschet",
+     "12.901"
+    ],
+    [
+     "Barbera",
+     "14.738"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "820.996"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "3.877.852"
+    ],
+    [
+     "Caladoc",
+     "2.180"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "87.402"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "419"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "519.874"
+    ],
+    [
+     "Ekigaina",
+     "-"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "-"
+    ],
+    [
+     "Gamay St Romain",
+     "-"
+    ],
+    [
+     "Gamay Beaujolais",
+     "45.952"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "-"
+    ],
+    [
+     "Lambrusco",
+     "19.784"
+    ],
+    [
+     "Malbec",
+     "267.885"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "3.286.035"
+    ],
+    [
+     "Marselan",
+     "205.095"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "324"
+    ],
+    [
+     "Montepulciano",
+     "13.330"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "-"
+    ],
+    [
+     "Nebbiolo",
+     "3.117"
+    ],
+    [
+     "Petit Verdot",
+     "116.266"
+    ],
+    [
+     "Petite Sirah",
+     "24.564"
+    ],
+    [
+     "Pinotage",
+     "119.773"
+    ],
+    [
+     "Pinot Noir",
+     "1.279.105"
+    ],
+    [
+     "Pinot Saint George",
+     "-"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "12.470"
+    ],
+    [
+     "Refosco",
+     "3.260"
+    ],
+    [
+     "Rondinella",
+     "333"
+    ],
+    [
+     "Ruby Cabernet",
+     "220.231"
+    ],
+    [
+     "Sangiovese",
+     "26.601"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "985.207"
+    ],
+    [
+     "Tempranillo",
+     "210.551"
+    ],
+    [
+     "Teroldego",
+     "34.019"
+    ],
+    [
+     "Torrontes",
+     "1.490"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "53.552"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "18.769.366"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "16.369"
+    ],
+    [
+     "Arriloba",
+     "17.070"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "3.070.142"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "60.580"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "201.659"
+    ],
+    [
+     "Flora",
+     "1.050"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "85.385"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "-"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "-"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "10.100"
+    ],
+    [
+     "Malvasia Bianca",
+     "217.177"
+    ],
+    [
+     "Malvasia Chianti",
+     "1.314"
+    ],
+    [
+     "Malvasia Verde",
+     "2.460"
+    ],
+    [
+     "Malvasia di Candia",
+     "1.268.750"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "6.068.181"
+    ],
+    [
+     "Moscato Canelli",
+     "30.378"
+    ],
+    [
+     "Moscato Giallo",
+     "813.952"
+    ],
+    [
+     "Moscato Nazareno",
+     "361.638"
+    ],
+    [
+     "Moscato Bianco R2",
+     "257.647"
+    ],
+    [
+     "Moscato de Alexandria",
+     "53.037"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "5.557"
+    ],
+    [
+     "Pinot Blanc",
+     "-"
+    ],
+    [
+     "Pinot Gris",
+     "67.394"
+    ],
+    [
+     "Prosecco",
+     "1.873.735"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "1.697.248"
+    ],
+    [
+     "Riesling Renano",
+     "53.550"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "295.942"
+    ],
+    [
+     "Sauvignon Gris",
+     "-"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "57.635"
+    ],
+    [
+     "Schonburger",
+     "-"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "2.083.491"
+    ],
+    [
+     "Trebbiano Toscano",
+     "2.694"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "-"
+    ],
+    [
+     "Vernaccia",
+     "-"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "95.231"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "32.140.232"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2016,
+   "data": [
+    [
+     "TINTAS",
+     "235.356.261"
+    ],
+    [
+     "Bacarina",
+     "-"
+    ],
+    [
+     "Bailey",
+     "442.784"
+    ],
+    [
+     "Bordo",
+     "60.976.531"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "2.964.574"
+    ],
+    [
+     "BRS Cora",
+     "5.155.752"
+    ],
+    [
+     "BRS Magna",
+     "275.616"
+    ],
+    [
+     "BRS Margot",
+     "14.835"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "1.637.818"
+    ],
+    [
+     "BRS Violeta",
+     "5.749.538"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "-"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Concord",
+     "15.254.862"
+    ],
+    [
+     "Concord clone 30",
+     "1.770.853"
+    ],
+    [
+     "Couderc",
+     "17.522.126"
+    ],
+    [
+     "Cynthiana(1)",
+     "694.778"
+    ],
+    [
+     "Herbemont",
+     "1.013.198"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "98.302.381"
+    ],
+    [
+     "Isabel Precoce",
+     "7.167.904"
+    ],
+    [
+     "Jacquez",
+     "11.518.368"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "-"
+    ],
+    [
+     "Seibel",
+     "2.933.430"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "1.387.425"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "571.180"
+    ],
+    [
+     "V\u00eanus",
+     "2.308"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "32.747.787"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "37.890"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "390"
+    ],
+    [
+     "BRS Lorena",
+     "4.520.872"
+    ],
+    [
+     "Couderc 13",
+     "4.286.807"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "7.890"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "179.216"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "6.173.966"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "12.925.747"
+    ],
+    [
+     "Niagara Rosada",
+     "4.236.495"
+    ],
+    [
+     "Poloske",
+     "2.250"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "312.824"
+    ],
+    [
+     "Seyve Villard 5276",
+     "60.000"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "3.440"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "268.104.048"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2016,
+   "data": [
+    [
+     "TINTAS",
+     "51.310"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "51.310"
+    ],
+    [
+     "BRANCAS",
+     "3.260"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "290"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "2.970"
+    ],
+    [
+     "Total",
+     "54.570"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2016,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2017,
+   "data": [
+    [
+     "TINTAS",
+     "32.850.915"
+    ],
+    [
+     "Alicante Bouschet",
+     "2.040.198"
+    ],
+    [
+     "Ancelota",
+     "733.907"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "69.757"
+    ],
+    [
+     "Aspirant Bouschet",
+     "18.086"
+    ],
+    [
+     "Barbera",
+     "24.218"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "2.116.893"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "7.242.258"
+    ],
+    [
+     "Caladoc",
+     "8.500"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "69.275"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "1.890"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "3.430"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "1.567.341"
+    ],
+    [
+     "Ekigaina",
+     "1.340"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "22.610"
+    ],
+    [
+     "Gamay St Romain",
+     "12.835"
+    ],
+    [
+     "Gamay Beaujolais",
+     "150.331"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "1.430"
+    ],
+    [
+     "Lambrusco",
+     "61.779"
+    ],
+    [
+     "Malbec",
+     "740.327"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "8.309.646"
+    ],
+    [
+     "Marselan",
+     "385.945"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.480"
+    ],
+    [
+     "Montepulciano",
+     "28.008"
+    ],
+    [
+     "Moscato Bailey",
+     "-"
+    ],
+    [
+     "Napa Gamay",
+     "-"
+    ],
+    [
+     "Nebbiolo",
+     "5.494"
+    ],
+    [
+     "Petit Verdot",
+     "230.640"
+    ],
+    [
+     "Petite Sirah",
+     "92.818"
+    ],
+    [
+     "Pinotage",
+     "474.105"
+    ],
+    [
+     "Pinot Noir",
+     "3.676.000"
+    ],
+    [
+     "Pinot Saint George",
+     "-"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "44.440"
+    ],
+    [
+     "Refosco",
+     "5.240"
+    ],
+    [
+     "Rondinella",
+     "1.899"
+    ],
+    [
+     "Ruby Cabernet",
+     "382.994"
+    ],
+    [
+     "Sangiovese",
+     "89.404"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "3.668.851"
+    ],
+    [
+     "Tempranillo",
+     "357.637"
+    ],
+    [
+     "Teroldego",
+     "87.034"
+    ],
+    [
+     "Torrontes",
+     "14.630"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "108.245"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "44.058.213"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "41.225"
+    ],
+    [
+     "Arriloba",
+     "5.280"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "7.856.910"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "266.524"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "535.573"
+    ],
+    [
+     "Flora",
+     "5.810"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "223.350"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "5.680"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "180"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "44.445"
+    ],
+    [
+     "Malvasia Bianca",
+     "629.101"
+    ],
+    [
+     "Malvasia Chianti",
+     "-"
+    ],
+    [
+     "Malvasia Verde",
+     "10.457"
+    ],
+    [
+     "Malvasia di Candia",
+     "2.785.543"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "14.475.142"
+    ],
+    [
+     "Moscato Canelli",
+     "57.083"
+    ],
+    [
+     "Moscato Giallo",
+     "2.091.933"
+    ],
+    [
+     "Moscato Nazareno",
+     "890.655"
+    ],
+    [
+     "Moscato Bianco R2",
+     "868.260"
+    ],
+    [
+     "Moscato de Alexandria",
+     "115.910"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "-"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "-"
+    ],
+    [
+     "Peverella",
+     "16.350"
+    ],
+    [
+     "Pinot Blanc",
+     "-"
+    ],
+    [
+     "Pinot Gris",
+     "165.697"
+    ],
+    [
+     "Prosecco",
+     "3.342.655"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "4.283.929"
+    ],
+    [
+     "Riesling Renano",
+     "105.100"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "677.028"
+    ],
+    [
+     "Sauvignon Gris",
+     "-"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "188.211"
+    ],
+    [
+     "Schonburger",
+     "7.454"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "3.892.478"
+    ],
+    [
+     "Trebbiano Toscano",
+     "100.047"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "-"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "-"
+    ],
+    [
+     "Vernaccia",
+     "5.100"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "365.103"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "76.909.128"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2017,
+   "data": [
+    [
+     "TINTAS",
+     "600.605.876"
+    ],
+    [
+     "Bacarina",
+     "-"
+    ],
+    [
+     "Bailey",
+     "1.370.092"
+    ],
+    [
+     "Bordo",
+     "160.146.475"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "6.771.269"
+    ],
+    [
+     "BRS Cora",
+     "10.085.982"
+    ],
+    [
+     "BRS Magna",
+     "1.605.458"
+    ],
+    [
+     "BRS Margot",
+     "42.600"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "2.529.215"
+    ],
+    [
+     "BRS Violeta",
+     "14.432.937"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "4.640"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "4.324"
+    ],
+    [
+     "Concord",
+     "36.172.976"
+    ],
+    [
+     "Concord clone 30",
+     "4.676.208"
+    ],
+    [
+     "Couderc",
+     "31.791.586"
+    ],
+    [
+     "Cynthiana(1)",
+     "2.083.008"
+    ],
+    [
+     "Herbemont",
+     "3.642.399"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "262.423.174"
+    ],
+    [
+     "Isabel Precoce",
+     "20.028.520"
+    ],
+    [
+     "Jacquez",
+     "31.404.577"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "1.300"
+    ],
+    [
+     "Seibel",
+     "7.812.493"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "2.476.079"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "1.098.564"
+    ],
+    [
+     "V\u00eanus",
+     "2.000"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "74.888.637"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "105.130"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "-"
+    ],
+    [
+     "BRS Lorena",
+     "11.704.478"
+    ],
+    [
+     "Couderc 13",
+     "7.955.879"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "19.110"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "248.470"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "6.150"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "11.771.138"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "30.802.497"
+    ],
+    [
+     "Niagara Rosada",
+     "11.464.265"
+    ],
+    [
+     "Poloske",
+     "12.100"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "586.955"
+    ],
+    [
+     "Seyve Villard 5276",
+     "206.295"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "6.170"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "675.494.513"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2017,
+   "data": [
+    [
+     "TINTAS",
+     "85.510"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "85.510"
+    ],
+    [
+     "BRANCAS",
+     "5.900"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "180"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "5.720"
+    ],
+    [
+     "Total",
+     "91.410"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2017,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2018,
+   "data": [
+    [
+     "TINTAS",
+     "26.868.514"
+    ],
+    [
+     "Alicante Bouschet",
+     "2.103.844"
+    ],
+    [
+     "Ancelota",
+     "492.106"
+    ],
+    [
+     "Aramon",
+     "-"
+    ],
+    [
+     "Alfrocheiro",
+     "-"
+    ],
+    [
+     "Arinarnoa",
+     "44.775"
+    ],
+    [
+     "Aspirant Bouschet",
+     "12.830"
+    ],
+    [
+     "Barbera",
+     "21.863"
+    ],
+    [
+     "Bonarda",
+     "-"
+    ],
+    [
+     "Cabernet Franc",
+     "1.524.191"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "6.004.627"
+    ],
+    [
+     "Caladoc",
+     "4.740"
+    ],
+    [
+     "Campanario",
+     "-"
+    ],
+    [
+     "Canaiolo",
+     "-"
+    ],
+    [
+     "Carignan",
+     "-"
+    ],
+    [
+     "Carmenere",
+     "241.808"
+    ],
+    [
+     "Castel\u00e3o",
+     "-"
+    ],
+    [
+     "Corvina",
+     "-"
+    ],
+    [
+     "Croatina",
+     "-"
+    ],
+    [
+     "Cinsaut",
+     "-"
+    ],
+    [
+     "Dom Felder",
+     "-"
+    ],
+    [
+     "Dolcetto",
+     "-"
+    ],
+    [
+     "Durif",
+     "-"
+    ],
+    [
+     "Egiodola",
+     "1.047.960"
+    ],
+    [
+     "Ekigaina",
+     "2.070"
+    ],
+    [
+     "Festival (Sugraone)",
+     "-"
+    ],
+    [
+     "Franconia",
+     "-"
+    ],
+    [
+     "Freisa",
+     "14.020"
+    ],
+    [
+     "Gamay St Romain",
+     "12.675"
+    ],
+    [
+     "Gamay Beaujolais",
+     "152.384"
+    ],
+    [
+     "Grand Noir",
+     "-"
+    ],
+    [
+     "Grenache",
+     "-"
+    ],
+    [
+     "Jaen",
+     "-"
+    ],
+    [
+     "Lagrein",
+     "2.700"
+    ],
+    [
+     "Lambrusco",
+     "44.511"
+    ],
+    [
+     "Malbec",
+     "628.780"
+    ],
+    [
+     "Marzemina",
+     "-"
+    ],
+    [
+     "Merlot",
+     "6.257.492"
+    ],
+    [
+     "Marselan",
+     "384.278"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "-"
+    ],
+    [
+     "Molinera",
+     "1.900"
+    ],
+    [
+     "Montepulciano",
+     "23.306"
+    ],
+    [
+     "Moscato Bailey",
+     "152.136"
+    ],
+    [
+     "Napa Gamay",
+     "-"
+    ],
+    [
+     "Nebbiolo",
+     "9.236"
+    ],
+    [
+     "Petit Verdot",
+     "83.552"
+    ],
+    [
+     "Petite Sirah",
+     "110.361"
+    ],
+    [
+     "Pinotage",
+     "398.794"
+    ],
+    [
+     "Pinot Noir",
+     "3.240.209"
+    ],
+    [
+     "Pinot Saint George",
+     "-"
+    ],
+    [
+     "Piriquita",
+     "-"
+    ],
+    [
+     "Primitivo",
+     "-"
+    ],
+    [
+     "Rebo",
+     "94.480"
+    ],
+    [
+     "Refosco",
+     "7.320"
+    ],
+    [
+     "Rondinella",
+     "1.990"
+    ],
+    [
+     "Ruby Cabernet",
+     "248.992"
+    ],
+    [
+     "Sangiovese",
+     "63.832"
+    ],
+    [
+     "Saperavi",
+     "-"
+    ],
+    [
+     "Sira (falsa)",
+     "-"
+    ],
+    [
+     "Tannat",
+     "2.940.306"
+    ],
+    [
+     "Tempranillo",
+     "278.456"
+    ],
+    [
+     "Teroldego",
+     "77.625"
+    ],
+    [
+     "Torrontes",
+     "16.350"
+    ],
+    [
+     "Tinta Barroca",
+     "-"
+    ],
+    [
+     "Tinta Roriz",
+     "-"
+    ],
+    [
+     "Touriga Francesa",
+     "-"
+    ],
+    [
+     "Touriga Nacional",
+     "122.015"
+    ],
+    [
+     "Tinta Madeira",
+     "-"
+    ],
+    [
+     "Tintoria",
+     "-"
+    ],
+    [
+     "Trincdeira",
+     "-"
+    ],
+    [
+     "Trousseau",
+     "-"
+    ],
+    [
+     "Zinfandel",
+     "-"
+    ],
+    [
+     "Outras1",
+     "-"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "38.722.156"
+    ],
+    [
+     "Aliatico",
+     "-"
+    ],
+    [
+     "Aligote",
+     "-"
+    ],
+    [
+     "Altesse",
+     "-"
+    ],
+    [
+     "Alvarinho",
+     "32.647"
+    ],
+    [
+     "Arriloba",
+     "2.580"
+    ],
+    [
+     "Auxerrois",
+     "-"
+    ],
+    [
+     "Burger",
+     "-"
+    ],
+    [
+     "Chardonnay",
+     "6.068.902"
+    ],
+    [
+     "Chasselas",
+     "-"
+    ],
+    [
+     "Chenin Blanc",
+     "387.360"
+    ],
+    [
+     "Clairette(1)",
+     "-"
+    ],
+    [
+     "Colombard",
+     "522.866"
+    ],
+    [
+     "Flora",
+     "2.060"
+    ],
+    [
+     "Garganega",
+     "-"
+    ],
+    [
+     "Gewurztraminer",
+     "208.171"
+    ],
+    [
+     "Gouveio",
+     "-"
+    ],
+    [
+     "Gros Manseng",
+     "2.430"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "2.942"
+    ],
+    [
+     "Maccabeo",
+     "-"
+    ],
+    [
+     "Malvasia",
+     "-"
+    ],
+    [
+     "Malvasia Amarela",
+     "52.936"
+    ],
+    [
+     "Malvasia Bianca",
+     "574.521"
+    ],
+    [
+     "Malvasia Chianti",
+     "-"
+    ],
+    [
+     "Malvasia Verde",
+     "15.220"
+    ],
+    [
+     "Malvasia di Candia",
+     "2.557.871"
+    ],
+    [
+     "Malvasia Istriana",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "-"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "-"
+    ],
+    [
+     "Moscato Branco",
+     "11.202.231"
+    ],
+    [
+     "Moscato Canelli",
+     "121.008"
+    ],
+    [
+     "Moscato Giallo",
+     "1.590.531"
+    ],
+    [
+     "Moscato Nazareno",
+     "639.810"
+    ],
+    [
+     "Moscato Bianco R2",
+     "867.445"
+    ],
+    [
+     "Moscato de Alexandria",
+     "95.647"
+    ],
+    [
+     "Moscato Rosado",
+     "-"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "3.000"
+    ],
+    [
+     "Muller Thurgau",
+     "-"
+    ],
+    [
+     "Muscadelle",
+     "-"
+    ],
+    [
+     "Ora",
+     "-"
+    ],
+    [
+     "Palomino",
+     "-"
+    ],
+    [
+     "Petit Manseng",
+     "1.430"
+    ],
+    [
+     "Peverella",
+     "33.439"
+    ],
+    [
+     "Pinot Blanc",
+     "17.028"
+    ],
+    [
+     "Pinot Gris",
+     "98.728"
+    ],
+    [
+     "Prosecco",
+     "4.018.371"
+    ],
+    [
+     "Red Veltliner",
+     "-"
+    ],
+    [
+     "Riesling Italico",
+     "3.724.926"
+    ],
+    [
+     "Riesling Renano",
+     "121.020"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "517.760"
+    ],
+    [
+     "Sauvignon Gris",
+     "-"
+    ],
+    [
+     "Seara Nova",
+     "-"
+    ],
+    [
+     "Semillon",
+     "225.952"
+    ],
+    [
+     "Schonburger",
+     "14.354"
+    ],
+    [
+     "Sylvaner",
+     "-"
+    ],
+    [
+     "Tocai Friulano",
+     "-"
+    ],
+    [
+     "Trebbiano",
+     "4.504.485"
+    ],
+    [
+     "Trebbiano Toscano",
+     "18.110"
+    ],
+    [
+     "Verdea",
+     "-"
+    ],
+    [
+     "Verdelho",
+     "1.800"
+    ],
+    [
+     "Verdiso",
+     "-"
+    ],
+    [
+     "Vermentino",
+     "-"
+    ],
+    [
+     "Vernaccia",
+     "4.020"
+    ],
+    [
+     "Viogner",
+     "-"
+    ],
+    [
+     "Viognier",
+     "470.555"
+    ],
+    [
+     "Outras(3)",
+     "-"
+    ],
+    [
+     "Total",
+     "65.590.670"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2018,
+   "data": [
+    [
+     "TINTAS",
+     "519.506.589"
+    ],
+    [
+     "Bacarina",
+     "-"
+    ],
+    [
+     "Bailey",
+     "539.742"
+    ],
+    [
+     "Bordo",
+     "158.405.972"
+    ],
+    [
+     "Bourdin (S)",
+     "-"
+    ],
+    [
+     "BRS Carmen",
+     "7.472.984"
+    ],
+    [
+     "BRS Cora",
+     "8.691.122"
+    ],
+    [
+     "BRS Magna",
+     "2.292.084"
+    ],
+    [
+     "BRS Margot",
+     "44.328"
+    ],
+    [
+     "BRS Morena",
+     "-"
+    ],
+    [
+     "BRS N\u00fabia",
+     "-"
+    ],
+    [
+     "BRS R\u00fabea",
+     "2.658.828"
+    ],
+    [
+     "BRS Violeta",
+     "13.645.751"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "-"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "-"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "1.140"
+    ],
+    [
+     "Concord",
+     "31.971.535"
+    ],
+    [
+     "Concord clone 30",
+     "4.809.154"
+    ],
+    [
+     "Couderc",
+     "25.797.806"
+    ],
+    [
+     "Cynthiana(1)",
+     "1.200.824"
+    ],
+    [
+     "Herbemont",
+     "1.325.593"
+    ],
+    [
+     "IAC 138022",
+     "-"
+    ],
+    [
+     "Isabel",
+     "216.921.065"
+    ],
+    [
+     "Isabel Precoce",
+     "17.435.326"
+    ],
+    [
+     "Jacquez",
+     "18.221.292"
+    ],
+    [
+     "Kyoko",
+     "-"
+    ],
+    [
+     "Landot",
+     "-"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "-"
+    ],
+    [
+     "Oberlin",
+     "-"
+    ],
+    [
+     "Othello",
+     "-"
+    ],
+    [
+     "Paco",
+     "-"
+    ],
+    [
+     "Patricia",
+     "1.401"
+    ],
+    [
+     "Seibel",
+     "5.293.981"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "1.967.808"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "802.673"
+    ],
+    [
+     "V\u00eanus",
+     "6.180"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "79.044.471"
+    ],
+    [
+     "Baco",
+     "-"
+    ],
+    [
+     "Bokay",
+     "80.470"
+    ],
+    [
+     "BRS Bibiana",
+     "-"
+    ],
+    [
+     "BRS Clara",
+     "-"
+    ],
+    [
+     "BRS Lorena",
+     "7.529.654"
+    ],
+    [
+     "Couderc 13",
+     "5.524.997"
+    ],
+    [
+     "Delaware",
+     "-"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "15.370"
+    ],
+    [
+     "Dut Chess",
+     "-"
+    ],
+    [
+     "Goethe",
+     "475.568"
+    ],
+    [
+     "IAC",
+     "-"
+    ],
+    [
+     "Juliana",
+     "-"
+    ],
+    [
+     "Martha",
+     "7.040"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "-"
+    ],
+    [
+     "Moscato Embrapa",
+     "9.535.525"
+    ],
+    [
+     "Niagara",
+     "-"
+    ],
+    [
+     "Niagara Branca",
+     "42.948.315"
+    ],
+    [
+     "Niagara Rosada",
+     "12.308.714"
+    ],
+    [
+     "Poloske",
+     "11.180"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "-"
+    ],
+    [
+     "Seyve Villard",
+     "462.683"
+    ],
+    [
+     "Seyve Villard 5276",
+     "139.575"
+    ],
+    [
+     "Seyve Villard 12375",
+     "-"
+    ],
+    [
+     "Tardia de Caxias",
+     "5.380"
+    ],
+    [
+     "Outras(2)",
+     "-"
+    ],
+    [
+     "Total",
+     "598.551.060"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2018,
+   "data": [
+    [
+     "TINTAS",
+     "62.567"
+    ],
+    [
+     "Alphonse Lavallee",
+     "-"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "62.567"
+    ],
+    [
+     "BRANCAS",
+     "730"
+    ],
+    [
+     "Cardinal",
+     "-"
+    ],
+    [
+     "Golden Queen",
+     "-"
+    ],
+    [
+     "Patr\u00edcia",
+     "-"
+    ],
+    [
+     "Perlona",
+     "730"
+    ],
+    [
+     "Italia",
+     "-"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "-"
+    ],
+    [
+     "Total",
+     "63.297"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2018,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "-"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ],
+ [
+  {
+   "ano": 2019,
+   "data": [
+    [
+     "TINTAS",
+     "nd"
+    ],
+    [
+     "Alicante Bouschet",
+     "nd"
+    ],
+    [
+     "Ancelota",
+     "nd"
+    ],
+    [
+     "Aramon",
+     "nd"
+    ],
+    [
+     "Alfrocheiro",
+     "nd"
+    ],
+    [
+     "Arinarnoa",
+     "nd"
+    ],
+    [
+     "Aspirant Bouschet",
+     "nd"
+    ],
+    [
+     "Barbera",
+     "nd"
+    ],
+    [
+     "Bonarda",
+     "nd"
+    ],
+    [
+     "Cabernet Franc",
+     "nd"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "nd"
+    ],
+    [
+     "Caladoc",
+     "nd"
+    ],
+    [
+     "Campanario",
+     "nd"
+    ],
+    [
+     "Canaiolo",
+     "nd"
+    ],
+    [
+     "Carignan",
+     "nd"
+    ],
+    [
+     "Carmenere",
+     "nd"
+    ],
+    [
+     "Castel\u00e3o",
+     "nd"
+    ],
+    [
+     "Corvina",
+     "nd"
+    ],
+    [
+     "Croatina",
+     "nd"
+    ],
+    [
+     "Cinsaut",
+     "nd"
+    ],
+    [
+     "Dom Felder",
+     "nd"
+    ],
+    [
+     "Dolcetto",
+     "nd"
+    ],
+    [
+     "Durif",
+     "nd"
+    ],
+    [
+     "Egiodola",
+     "nd"
+    ],
+    [
+     "Ekigaina",
+     "nd"
+    ],
+    [
+     "Festival (Sugraone)",
+     "nd"
+    ],
+    [
+     "Franconia",
+     "nd"
+    ],
+    [
+     "Freisa",
+     "nd"
+    ],
+    [
+     "Gamay St Romain",
+     "nd"
+    ],
+    [
+     "Gamay Beaujolais",
+     "nd"
+    ],
+    [
+     "Grand Noir",
+     "nd"
+    ],
+    [
+     "Grenache",
+     "nd"
+    ],
+    [
+     "Jaen",
+     "nd"
+    ],
+    [
+     "Lagrein",
+     "nd"
+    ],
+    [
+     "Lambrusco",
+     "nd"
+    ],
+    [
+     "Malbec",
+     "nd"
+    ],
+    [
+     "Marzemina",
+     "nd"
+    ],
+    [
+     "Merlot",
+     "nd"
+    ],
+    [
+     "Marselan",
+     "nd"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas tinto",
+     "nd"
+    ],
+    [
+     "Molinera",
+     "nd"
+    ],
+    [
+     "Montepulciano",
+     "nd"
+    ],
+    [
+     "Moscato Bailey",
+     "nd"
+    ],
+    [
+     "Napa Gamay",
+     "nd"
+    ],
+    [
+     "Nebbiolo",
+     "nd"
+    ],
+    [
+     "Petit Verdot",
+     "nd"
+    ],
+    [
+     "Petite Sirah",
+     "nd"
+    ],
+    [
+     "Pinotage",
+     "nd"
+    ],
+    [
+     "Pinot Noir",
+     "nd"
+    ],
+    [
+     "Pinot Saint George",
+     "nd"
+    ],
+    [
+     "Piriquita",
+     "nd"
+    ],
+    [
+     "Primitivo",
+     "nd"
+    ],
+    [
+     "Rebo",
+     "nd"
+    ],
+    [
+     "Refosco",
+     "nd"
+    ],
+    [
+     "Rondinella",
+     "nd"
+    ],
+    [
+     "Ruby Cabernet",
+     "nd"
+    ],
+    [
+     "Sangiovese",
+     "nd"
+    ],
+    [
+     "Saperavi",
+     "nd"
+    ],
+    [
+     "Sira (falsa)",
+     "nd"
+    ],
+    [
+     "Tannat",
+     "nd"
+    ],
+    [
+     "Tempranillo",
+     "nd"
+    ],
+    [
+     "Teroldego",
+     "nd"
+    ],
+    [
+     "Torrontes",
+     "nd"
+    ],
+    [
+     "Tinta Barroca",
+     "nd"
+    ],
+    [
+     "Tinta Roriz",
+     "nd"
+    ],
+    [
+     "Touriga Francesa",
+     "nd"
+    ],
+    [
+     "Touriga Nacional",
+     "nd"
+    ],
+    [
+     "Tinta Madeira",
+     "nd"
+    ],
+    [
+     "Tintoria",
+     "nd"
+    ],
+    [
+     "Trincdeira",
+     "nd"
+    ],
+    [
+     "Trousseau",
+     "nd"
+    ],
+    [
+     "Zinfandel",
+     "nd"
+    ],
+    [
+     "Outras1",
+     "nd"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "nd"
+    ],
+    [
+     "Aliatico",
+     "nd"
+    ],
+    [
+     "Aligote",
+     "nd"
+    ],
+    [
+     "Altesse",
+     "nd"
+    ],
+    [
+     "Alvarinho",
+     "nd"
+    ],
+    [
+     "Arriloba",
+     "nd"
+    ],
+    [
+     "Auxerrois",
+     "nd"
+    ],
+    [
+     "Burger",
+     "nd"
+    ],
+    [
+     "Chardonnay",
+     "nd"
+    ],
+    [
+     "Chasselas",
+     "nd"
+    ],
+    [
+     "Chenin Blanc",
+     "nd"
+    ],
+    [
+     "Clairette(1)",
+     "nd"
+    ],
+    [
+     "Colombard",
+     "nd"
+    ],
+    [
+     "Flora",
+     "nd"
+    ],
+    [
+     "Garganega",
+     "nd"
+    ],
+    [
+     "Gewurztraminer",
+     "nd"
+    ],
+    [
+     "Gouveio",
+     "nd"
+    ],
+    [
+     "Gros Manseng",
+     "nd"
+    ],
+    [
+     "Italia (Pirovano 65) (PE)",
+     "nd"
+    ],
+    [
+     "Maccabeo",
+     "nd"
+    ],
+    [
+     "Malvasia",
+     "nd"
+    ],
+    [
+     "Malvasia Amarela",
+     "nd"
+    ],
+    [
+     "Malvasia Bianca",
+     "nd"
+    ],
+    [
+     "Malvasia Chianti",
+     "nd"
+    ],
+    [
+     "Malvasia Verde",
+     "nd"
+    ],
+    [
+     "Malvasia di Candia",
+     "nd"
+    ],
+    [
+     "Malvasia Istriana",
+     "nd"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas branco",
+     "nd"
+    ],
+    [
+     "Mistura de uvas vin\u00edferas rosado",
+     "nd"
+    ],
+    [
+     "Moscato Branco",
+     "nd"
+    ],
+    [
+     "Moscato Canelli",
+     "nd"
+    ],
+    [
+     "Moscato Giallo",
+     "nd"
+    ],
+    [
+     "Moscato Nazareno",
+     "nd"
+    ],
+    [
+     "Moscato Bianco R2",
+     "nd"
+    ],
+    [
+     "Moscato de Alexandria",
+     "nd"
+    ],
+    [
+     "Moscato Rosado",
+     "nd"
+    ],
+    [
+     "Muscat \u00e0 Petits Grains",
+     "nd"
+    ],
+    [
+     "Muller Thurgau",
+     "nd"
+    ],
+    [
+     "Muscadelle",
+     "nd"
+    ],
+    [
+     "Ora",
+     "nd"
+    ],
+    [
+     "Palomino",
+     "nd"
+    ],
+    [
+     "Petit Manseng",
+     "nd"
+    ],
+    [
+     "Peverella",
+     "nd"
+    ],
+    [
+     "Pinot Blanc",
+     "nd"
+    ],
+    [
+     "Pinot Gris",
+     "nd"
+    ],
+    [
+     "Prosecco",
+     "nd"
+    ],
+    [
+     "Red Veltliner",
+     "nd"
+    ],
+    [
+     "Riesling Italico",
+     "nd"
+    ],
+    [
+     "Riesling Renano",
+     "nd"
+    ],
+    [
+     "Sauvignon Blanc(2)",
+     "nd"
+    ],
+    [
+     "Sauvignon Gris",
+     "nd"
+    ],
+    [
+     "Seara Nova",
+     "nd"
+    ],
+    [
+     "Semillon",
+     "nd"
+    ],
+    [
+     "Schonburger",
+     "nd"
+    ],
+    [
+     "Sylvaner",
+     "nd"
+    ],
+    [
+     "Tocai Friulano",
+     "nd"
+    ],
+    [
+     "Trebbiano",
+     "nd"
+    ],
+    [
+     "Trebbiano Toscano",
+     "nd"
+    ],
+    [
+     "Verdea",
+     "nd"
+    ],
+    [
+     "Verdelho",
+     "nd"
+    ],
+    [
+     "Verdiso",
+     "nd"
+    ],
+    [
+     "Vermentino",
+     "nd"
+    ],
+    [
+     "Vernaccia",
+     "nd"
+    ],
+    [
+     "Viogner",
+     "nd"
+    ],
+    [
+     "Viognier",
+     "nd"
+    ],
+    [
+     "Outras(3)",
+     "nd"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "01",
+   "tipo_uva_texto": "Vin\u00edferas"
+  },
+  {
+   "ano": 2019,
+   "data": [
+    [
+     "TINTAS",
+     "nd"
+    ],
+    [
+     "Bacarina",
+     "nd"
+    ],
+    [
+     "Bailey",
+     "nd"
+    ],
+    [
+     "Bordo",
+     "nd"
+    ],
+    [
+     "Bourdin (S)",
+     "nd"
+    ],
+    [
+     "BRS Carmen",
+     "nd"
+    ],
+    [
+     "BRS Cora",
+     "nd"
+    ],
+    [
+     "BRS Magna",
+     "nd"
+    ],
+    [
+     "BRS Margot",
+     "nd"
+    ],
+    [
+     "BRS Morena",
+     "nd"
+    ],
+    [
+     "BRS N\u00fabia",
+     "nd"
+    ],
+    [
+     "BRS R\u00fabea",
+     "nd"
+    ],
+    [
+     "BRS Violeta",
+     "nd"
+    ],
+    [
+     "BRS Vit\u00f3ria",
+     "nd"
+    ],
+    [
+     "Champagnon (Champanheta)",
+     "nd"
+    ],
+    [
+     "Cole\u00e7\u00f5es",
+     "nd"
+    ],
+    [
+     "Concord",
+     "nd"
+    ],
+    [
+     "Concord clone 30",
+     "nd"
+    ],
+    [
+     "Couderc",
+     "nd"
+    ],
+    [
+     "Cynthiana(1)",
+     "nd"
+    ],
+    [
+     "Herbemont",
+     "nd"
+    ],
+    [
+     "IAC 138022",
+     "nd"
+    ],
+    [
+     "Isabel",
+     "nd"
+    ],
+    [
+     "Isabel Precoce",
+     "nd"
+    ],
+    [
+     "Jacquez",
+     "nd"
+    ],
+    [
+     "Kyoko",
+     "nd"
+    ],
+    [
+     "Landot",
+     "nd"
+    ],
+    [
+     "Mistura de uvas americanas tinto",
+     "nd"
+    ],
+    [
+     "Oberlin",
+     "nd"
+    ],
+    [
+     "Othello",
+     "nd"
+    ],
+    [
+     "Paco",
+     "nd"
+    ],
+    [
+     "Patricia",
+     "nd"
+    ],
+    [
+     "Seibel",
+     "nd"
+    ],
+    [
+     "Seibel 2 (seibeleto)",
+     "nd"
+    ],
+    [
+     "Seyve Willard (Tinta)",
+     "nd"
+    ],
+    [
+     "V\u00eanus",
+     "nd"
+    ],
+    [
+     "BRANCAS E ROSADAS",
+     "nd"
+    ],
+    [
+     "Baco",
+     "nd"
+    ],
+    [
+     "Bokay",
+     "nd"
+    ],
+    [
+     "BRS Bibiana",
+     "nd"
+    ],
+    [
+     "BRS Clara",
+     "nd"
+    ],
+    [
+     "BRS Lorena",
+     "nd"
+    ],
+    [
+     "Couderc 13",
+     "nd"
+    ],
+    [
+     "Delaware",
+     "nd"
+    ],
+    [
+     "Dona Zill\u00e1",
+     "nd"
+    ],
+    [
+     "Dut Chess",
+     "nd"
+    ],
+    [
+     "Goethe",
+     "nd"
+    ],
+    [
+     "IAC",
+     "nd"
+    ],
+    [
+     "Juliana",
+     "nd"
+    ],
+    [
+     "Martha",
+     "nd"
+    ],
+    [
+     "Mistura de uvas americanas",
+     "nd"
+    ],
+    [
+     "Moscato Embrapa",
+     "nd"
+    ],
+    [
+     "Niagara",
+     "nd"
+    ],
+    [
+     "Niagara Branca",
+     "nd"
+    ],
+    [
+     "Niagara Rosada",
+     "nd"
+    ],
+    [
+     "Poloske",
+     "nd"
+    ],
+    [
+     "Sele\u00e7\u00f5es",
+     "nd"
+    ],
+    [
+     "Seyve Villard",
+     "nd"
+    ],
+    [
+     "Seyve Villard 5276",
+     "nd"
+    ],
+    [
+     "Seyve Villard 12375",
+     "nd"
+    ],
+    [
+     "Tardia de Caxias",
+     "nd"
+    ],
+    [
+     "Outras(2)",
+     "nd"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "02",
+   "tipo_uva_texto": "Americanas e h\u00edbridas"
+  },
+  {
+   "ano": 2019,
+   "data": [
+    [
+     "TINTAS",
+     "nd"
+    ],
+    [
+     "Alphonse Lavallee",
+     "nd"
+    ],
+    [
+     "Moscato de Hamburgo",
+     "nd"
+    ],
+    [
+     "BRANCAS",
+     "nd"
+    ],
+    [
+     "Cardinal",
+     "nd"
+    ],
+    [
+     "Golden Queen",
+     "nd"
+    ],
+    [
+     "Patr\u00edcia",
+     "nd"
+    ],
+    [
+     "Perlona",
+     "nd"
+    ],
+    [
+     "Italia",
+     "nd"
+    ],
+    [
+     "Rubi (It\u00e1lia, It\u00e1lia Ro)",
+     "nd"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Cultivar",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "03",
+   "tipo_uva_texto": "Uvas de mesa"
+  },
+  {
+   "ano": 2019,
+   "data": [
+    [
+     "Sem classifica\u00e7\u00e3o",
+     "nd"
+    ],
+    [
+     "Total",
+     "0"
+    ]
+   ],
+   "labels": [
+    "Sem defini\u00e7\u00e3o",
+    "Quantidade (Kg)"
+   ],
+   "processo": "Processamento",
+   "tipo_uva": "04",
+   "tipo_uva_texto": "Sem classifica\u00e7\u00e3o"
+  }
+ ]
+]
