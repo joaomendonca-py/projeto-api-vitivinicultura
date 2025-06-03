@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from yellowbrick.cluster import silhouette_visualizer
 from sklearn.cluster import KMeans
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import PowerTransformer, OneHotEncoder
+from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import PowerTransformer
 def montar_formula(target, features):
     """

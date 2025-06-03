@@ -2,19 +2,25 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-from sklearn.preprocessing import power_transform, PowerTransformer, OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import power_transform
 from scipy import stats
 from scipy.stats import shapiro
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 import regex as re
 
-
 def contagem_nulos(df=pd.DataFrame):
     """Função que conta a quantidade de nulos"""
     return df.isna().sum()
+
+
+def tratamento_depara(df_depara, df_correcao):
+    """Função que substitui os valores da coluna pais para o nome padrão."""
+
+    depara = df_depara.set_index(df_depara['Pais'])['pais_corrigido'].to_dict()
+    df_correcao['pais'] = df_correcao['pais'].replace(depara)
+    return df_correcao['pais']
+
+
 
 
 def gerar_grafico_valores_nulos(df=pd.DataFrame, dados_nulos=pd.Series):
@@ -241,36 +247,6 @@ def teste_shapiro_wilk_norm(df=pd.DataFrame, scale=False, metodo_scale='box-cox'
         df_resultado = pd.DataFrame(results)
     return df_resultado
 
-
-def transformacao_colunas(df: pd.DataFrame):
-    """Função que aplica a transformação de colunas simples para os tipos de colunas."""
-
-    # separação por tipo de colunas
-    var_cat = df.select_dtypes(exclude='number').columns
-    var_num = df.select_dtypes(include='number').columns
-
-    # cria o objeto Column Transformer com as etapas de transformação
-    transformer = ColumnTransformer([
-        ('var_cat', OneHotEncoder(drop='if_binary', sparse_output=False), var_cat),
-        ('var_num', Pipeline([('imputer', SimpleImputer(strategy='constant', fill_value=0)),
-                              ('transformer', PowerTransformer(method='yeo-johnson'))]), var_num)])
-
-    # ajuste dos dados
-
-    lista_transformada = transformer.fit_transform(df)
-
-    # limpeza do nome das colunas para retorno no dataset
-    colunas = transformer.get_feature_names_out()
-    colunas_sem_prefixo = [
-        re.sub(r'^var_(cat|num)__', '', nome) for nome in colunas]
-
-    # retorna o objeto com os columnas transformadas
-    df_output = pd.DataFrame(
-        lista_transformada, columns=colunas_sem_prefixo, index=df.index)
-
-    # tratamento de valores
-    # df_output = df_output.fillna(0)
-    return df_output
 
 
 def vif_analise(df):

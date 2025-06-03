@@ -1,6 +1,15 @@
 """Arquivo gerador de schema de dados do banco de dados"""
-from config.models import Processamento, ImportacaoExportacao
+from config.models import Processamento, ImportacaoExportacao, ProducaoComercializacao
 
+
+def obter_item_prod_com_db(data) -> dict:
+    """ Função que retorna os dados do banco de dados."""
+    produto = ProducaoComercializacao(ano=data["ano"],
+                            processo=data["processo"],
+                            labels=data["labels"],
+                            data=data["data"]
+                            )
+    return produto
 
 def obter_item_processamento_db(data) -> dict:
     """ Função que retorna os dados do banco de dados."""
