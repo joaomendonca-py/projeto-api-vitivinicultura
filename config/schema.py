@@ -3,7 +3,7 @@ from config.models import Processamento, ImportacaoExportacao, ProducaoComercial
 
 
 def obter_item_prod_com_db(data) -> dict:
-    """ Função que retorna os dados do banco de dados."""
+    """ Função que retorna os dados de produção e comercialização do banco de dados."""
     produto = ProducaoComercializacao(ano=data["ano"],
                             processo=data["processo"],
                             labels=data["labels"],
@@ -12,7 +12,7 @@ def obter_item_prod_com_db(data) -> dict:
     return produto
 
 def obter_item_processamento_db(data) -> dict:
-    """ Função que retorna os dados do banco de dados."""
+    """ Função que retorna os dados de processamento do banco de dados."""
     produto = Processamento(ano=data["ano"],
                             processo=data["processo"],
                             tipo_uva=data["tipo_uva"],
@@ -24,7 +24,7 @@ def obter_item_processamento_db(data) -> dict:
 
 
 def obter_item_import_export_db(data) -> dict:
-    """ Função que retorna os dados do banco de dados."""
+    """ Função que retorna os dados de importação e exportação do banco de dados."""
     produto = ImportacaoExportacao(
                                     ano=data["ano"],
                                    processo=data["processo"],
