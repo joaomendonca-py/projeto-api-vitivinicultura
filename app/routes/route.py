@@ -1,22 +1,23 @@
 """"Modularização Rotas API"""
 import json
 import sys
+import os
 from fastapi import APIRouter, HTTPException, Depends
 from typing import Annotated
-sys.path.append('../projeto-api-vitivinicultura')
-from config.models import ProducaoComercializacao, Processamento, ImportacaoExportacao
+
+# Adicionar o diretório raiz do projeto ao path para imports
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
+# Imports dos módulos do projeto
+from config.models import ProducaoComercializacao, Processamento, ImportacaoExportacao, User
 from config.database import redis, data_collection
-from config.schema import obter_item_processamento_db, obter_item_prod_com_db,obter_item_import_export_db
-from src.utils.func_proces import obter_dados_processamento
+from config.schema import obter_item_processamento_db, obter_item_prod_com_db, obter_item_import_export_db
+from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
 from src.utils.func_prod_com import obter_dados_prod_com
 from src.utils.func_imp_exp import obter_dados_import_export
-from src.utils.func_prod_com import obter_dados_prod_com
-from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
-from config.schema import obter_item_processamento_db
-from config.database import redis, data_collection
-# [AUTH] 30/05/2025 - Importações adicionadas para proteger rotas com autenticação
 from app.routes.auth import get_current_user
-from config.models import User
 
 # construção do objeto APIRouter.
 router = APIRouter()
