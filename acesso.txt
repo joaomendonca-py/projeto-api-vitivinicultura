@@ -1,0 +1,13 @@
+arquivo .env
+
+DB_URI = "mongodb+srv://projeto5mlet:projetofiap@apiembrapa.wcmp3fv.mongodb.net/?retryWrites=true&w=majority&appName=apiEmbrapa"
+
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
+REDIS_DB=0
+
+email acesso mongo db
+
+https://account.mongodb.com/account/login
+usuario: projeto5mlet@gmail.com
+senha: projetofiap
