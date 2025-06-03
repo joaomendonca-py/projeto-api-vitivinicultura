@@ -14,7 +14,8 @@ ml_router = APIRouter()
 # construção de uma rota post para categorização dos países
 @ml_router.post("/clustering", status_code=201, 
                     description='Informe o número de categorias que deseja criar para os dados:<br>'  
-                    '**Retorno**: tabela com dados de transação e indicadores socioeconômicos dos países.',tags=['modelo_ML'])
+                    '**Retorno**: tabela com dados de transação e indicadores socioeconômicos dos países.',
+                    tags=['modelo_ML'])
 async def criar_categorias(categorias: int):
     """Função para gerar categorias de países a partir dos dados de exportação."""
     

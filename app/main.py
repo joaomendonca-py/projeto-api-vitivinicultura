@@ -45,11 +45,11 @@ app.add_middleware(
 
 # inclusão das rotas criadas à aplicação.
 app.include_router(auth.router, prefix="/auth", tags=["Autenticação"])
-app.include_router(main_router, tags=["Dados Vitivinicultura"])
+app.include_router(main_router)
 
 # Incluir rotas de ML se disponíveis
 if ML_ROUTES_AVAILABLE:
-    app.include_router(ml_router, tags=["Machine Learning"])
+    app.include_router(ml_router)
     logger.info("✅ Rotas de ML incluídas com sucesso")
 
 # Importar outras rotas se existirem

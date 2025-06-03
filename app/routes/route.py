@@ -17,15 +17,16 @@ from config.schema import obter_item_processamento_db, obter_item_prod_com_db, o
 from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
 from src.utils.func_prod_com import obter_dados_prod_com
 from src.utils.func_imp_exp import obter_dados_import_export
-from app.routes.auth import get_current_user
 
-# construção do objeto APIRouter.
+# Import da autenticação
+from .auth import get_current_user
+
+# construção do objeto de rota
 router = APIRouter()
 
-#  construção da rota home
+# construção da rota padrão
 @router.get("/")
 async def home():
-    """ Função que executa a rota home."""
     return (
         "Bem-vindo(a) à API de dados de Vitivinicultura da Embrapa."
         "Consulta de dados extraídas da página da Embrapa via autenticação."
@@ -35,7 +36,8 @@ async def home():
 # construção da rota de produção
 @router.get("/producao", status_code=201, 
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
-            '**Ano**: 1970 a 2023.', tags=['coleta_dados'],
+            '**Ano**: 1970 a 2023.',
+            tags=['coleta_dados'],
             response_model=ProducaoComercializacao)
 async def producao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
@@ -83,7 +85,9 @@ async def producao(ano: int, current_user: Annotated[User, Depends(get_current_u
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
             '**Ano**: 1970 a 2023.<br>'
             '**Tipo de Uva**: Viníferas:01, Americanas e Híbridas:02, Uvas de Mesa:03, '
-            'Sem Classificação:04', tags=['coleta_dados'], response_model=Processamento)
+            'Sem Classificação:04', 
+            tags=['coleta_dados'],
+            response_model=Processamento)
 async def processamento(ano: int, tipo_uva: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -126,7 +130,7 @@ async def processamento(ano: int, tipo_uva: str, current_user: Annotated[User, D
             return obter_item_processamento_db(dados_mongo_db)
 
 # construção da rota de processamento da página por completo
-@router.get("/processamento_completo", status_code=201)
+@router.get("/processamento_completo", status_code=201, tags=['coleta_dados'])
 async def processamento_completo(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -156,7 +160,8 @@ async def processamento_completo(ano: int, current_user: Annotated[User, Depends
 # construção da rota de comercialização
 @router.get("/comercializacao", status_code=201, 
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
-            '**Ano**: 1970 a 2023.', tags=['coleta_dados'],
+            '**Ano**: 1970 a 2023.',
+            tags=['coleta_dados'],
             response_model=ProducaoComercializacao)
 async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
@@ -204,7 +209,9 @@ async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_cu
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
             '**Ano**: 1970 a 2024.<br>'
             '**Derivados**: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03,'
-            'Uvas passas:04, Suco de uva:05', tags=['coleta_dados'], response_model=ImportacaoExportacao)
+            'Uvas passas:04, Suco de uva:05', 
+            tags=['coleta_dados'],
+            response_model=ImportacaoExportacao)
 async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -237,7 +244,7 @@ async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depe
         else:
             # recupera os dados do banco de dados MongoDB.
             dados_mongo_db = data_collection.find_one({'ano': ano, 'processo': 'Importação',
-                                                       'produto': derivado})
+                                                       'derivado': derivado})
             # transformação da chave id em texto para instância dos dados.
             dados_mongo_db['_id'] = str(dados_mongo_db['_id'])
             # armazena os dados em cache.
@@ -251,7 +258,9 @@ async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depe
 @router.get("/exportacao", status_code=201,
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
             '**Ano**: 1970 a 2024.<br>'
-            '**Derivados**: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04', tags=['coleta_dados'], response_model=ImportacaoExportacao)
+            '**Derivados**: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04', 
+            tags=['coleta_dados'],
+            response_model=ImportacaoExportacao)
 async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -264,7 +273,7 @@ async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depe
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
-            dados_web = obter_dados_import_export(ano, derivado,processo='Exportação',
+            dados_web = obter_dados_import_export(ano, derivado, processo = 'Exportação',
                                                   tag_page='06')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)
@@ -284,7 +293,7 @@ async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depe
         else:
             # recupera os dados do banco de dados MongoDB.
             dados_mongo_db = data_collection.find_one({'ano': ano, 'processo': 'Exportação',
-                                                       'produto': derivado})
+                                                       'derivado': derivado})
             # transformação da chave id em texto para instância dos dados.
             dados_mongo_db['_id'] = str(dados_mongo_db['_id'])
             # armazena os dados em cache.
