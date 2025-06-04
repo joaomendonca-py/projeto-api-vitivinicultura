@@ -1,6 +1,31 @@
 """"Modularização Rotas API"""
 import json
 import sys
+<<<<<<< HEAD
+from fastapi import APIRouter, HTTPException, Depends
+from typing import Annotated
+sys.path.append('../projeto-api-vitivinicultura')
+from src.utils.func_imp_exp import obter_dados_import_export
+from src.utils.func_prod_com import obter_dados_prod_com
+from src.utils.func_proces import obter_dados_processamento, obter_dados_pagina_processamento
+from config.schema import obter_item_processamento_db
+from config.database import redis, data_collection
+# [AUTH] 30/05/2025 - Importações adicionadas para proteger rotas com autenticação
+from app.routes.auth import get_current_user
+from config.models import User
+
+# construção do objeto APIRouter.
+router = APIRouter()
+
+#  construção da rota home
+@router.get("/")
+async def home():
+    """ Função que executa a rota home."""
+    return "Bem-vindo(a) a API de dados de Vitivinicultura da Embrapa.\nDados entre 1970 a 2024."
+
+# construção da rota de produção
+@router.get("/producao", status_code=201, description='Ano: 1970 a 2023.')
+=======
 import os
 from fastapi import APIRouter, HTTPException, Depends
 from typing import Annotated
@@ -39,6 +64,7 @@ async def home():
             '**Ano**: 1970 a 2023.',
             tags=['coleta_dados'],
             response_model=ProducaoComercializacao)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def producao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -78,6 +104,15 @@ async def producao(ano: int, current_user: Annotated[User, Depends(get_current_u
             redis.set(f'{ano}-Produção', cache)
             # adiciona o período de tempo de armazenamento.
             redis.expire(f'{ano}-Produção', 60)
+<<<<<<< HEAD
+            return obter_item_processamento_db(dados_mongo_db)
+
+# construção da rota de processamento
+@router.get("/processamento", status_code=201,
+            description='Ano: 1970 a 2023.<br>'
+            'Tipo de Uva: Viníferas:01, Americanas e Híbridas:02, Uvas de Mesa:03, '
+            'Sem Classificação:04')
+=======
             return obter_item_prod_com_db(dados_mongo_db)
 
 # construção da rota de processamento
@@ -88,6 +123,7 @@ async def producao(ano: int, current_user: Annotated[User, Depends(get_current_u
             'Sem Classificação:04', 
             tags=['coleta_dados'],
             response_model=Processamento)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def processamento(ano: int, tipo_uva: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -130,7 +166,11 @@ async def processamento(ano: int, tipo_uva: str, current_user: Annotated[User, D
             return obter_item_processamento_db(dados_mongo_db)
 
 # construção da rota de processamento da página por completo
+<<<<<<< HEAD
+@router.get("/processamento_completo", status_code=201)
+=======
 @router.get("/processamento_completo", status_code=201, tags=['coleta_dados'])
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def processamento_completo(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -140,9 +180,18 @@ async def processamento_completo(ano: int, current_user: Annotated[User, Depends
         cache = redis.get(ano)
 
         if cache:
+<<<<<<< HEAD
+
+            print('Dados obtidos por cache')
+            return json.loads(cache)
+
+        else:
+
+=======
             print('Dados obtidos por cache')
             return json.loads(cache)
         else:
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
             # invoca a função para obter os dados da página.
             dados_web = obter_dados_pagina_processamento(ano)
 
@@ -157,12 +206,17 @@ async def processamento_completo(ano: int, current_user: Annotated[User, Depends
     except HTTPException as e:
         return HTTPException(status_code=500, detail=f"Erro: {e}")
 
+<<<<<<< HEAD
+# construção da rota de produção
+@router.get("/comercializacao", status_code=201, description='Ano: 1970 a 2023.')
+=======
 # construção da rota de comercialização
 @router.get("/comercializacao", status_code=201, 
             description='Para realizar a consulta, informar os dados conforme o padrão:<br>'
             '**Ano**: 1970 a 2023.',
             tags=['coleta_dados'],
             response_model=ProducaoComercializacao)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -202,6 +256,15 @@ async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_cu
             redis.set(f'{ano}-Comercialização', cache)
             # adiciona o período de tempo de armazenamento.
             redis.expire(f'{ano}-Comercialização', 60)
+<<<<<<< HEAD
+            return obter_item_processamento_db(dados_mongo_db)
+
+# construção da rota de importação
+@router.get("/importacao", status_code=201,
+            description='Ano: 1970 a 2024.<br>'
+            'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03,'
+            'Uvas passas:04, Suco de uva:05')
+=======
             return obter_item_prod_com_db(dados_mongo_db)
 
 # construção da rota de importação
@@ -212,6 +275,7 @@ async def comercializacao(ano: int, current_user: Annotated[User, Depends(get_cu
             'Uvas passas:04, Suco de uva:05', 
             tags=['coleta_dados'],
             response_model=ImportacaoExportacao)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -244,7 +308,11 @@ async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depe
         else:
             # recupera os dados do banco de dados MongoDB.
             dados_mongo_db = data_collection.find_one({'ano': ano, 'processo': 'Importação',
+<<<<<<< HEAD
+                                                       'produto': derivado})
+=======
                                                        'derivado': derivado})
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
             # transformação da chave id em texto para instância dos dados.
             dados_mongo_db['_id'] = str(dados_mongo_db['_id'])
             # armazena os dados em cache.
@@ -252,6 +320,14 @@ async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depe
             redis.set(f'{ano}-{derivado}-Importação', cache)
             # adiciona o período de tempo de armazenamento.
             redis.expire(f'{ano}-{derivado}-Importação', 60)
+<<<<<<< HEAD
+            return obter_item_processamento_db(dados_mongo_db)
+
+# construção da rota de exportação
+@router.get("/exportacao", status_code=201,
+            description='Ano: 1970 a 2024.<br>'
+            'Derivados: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04')
+=======
             return obter_item_import_export_db(dados_mongo_db)
 
 # construção da rota de exportação
@@ -261,6 +337,7 @@ async def importacao(ano: int, derivado: str, current_user: Annotated[User, Depe
             '**Derivados**: Vinhos de mesa:01, Espumantes:02, Uvas frescas:03, Suco de uva:04', 
             tags=['coleta_dados'],
             response_model=ImportacaoExportacao)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depends(get_current_user)]):
     """ Função que executa o scrapping dos dados de processamento."""
 
@@ -273,7 +350,11 @@ async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depe
             return json.loads(cache)
         else:
             # invoca a função para obter os dados da página.
+<<<<<<< HEAD
+            dados_web = obter_dados_import_export(ano, derivado,processo='Exportação',
+=======
             dados_web = obter_dados_import_export(ano, derivado, processo = 'Exportação',
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
                                                   tag_page='06')
             # armazena os dados em cache.
             cache = json.dumps(dados_web)
@@ -293,7 +374,11 @@ async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depe
         else:
             # recupera os dados do banco de dados MongoDB.
             dados_mongo_db = data_collection.find_one({'ano': ano, 'processo': 'Exportação',
+<<<<<<< HEAD
+                                                       'produto': derivado})
+=======
                                                        'derivado': derivado})
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
             # transformação da chave id em texto para instância dos dados.
             dados_mongo_db['_id'] = str(dados_mongo_db['_id'])
             # armazena os dados em cache.
@@ -301,4 +386,8 @@ async def exportacao(ano: int, derivado: str, current_user: Annotated[User, Depe
             redis.set(f'{ano}-{derivado}-Exportação', cache)
             # adiciona o período de tempo de armazenamento.
             redis.expire(f'{ano}-{derivado}-Exportação', 60)
+<<<<<<< HEAD
+            return obter_item_processamento_db(dados_mongo_db)
+=======
             return obter_item_import_export_db(dados_mongo_db)
+>>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
