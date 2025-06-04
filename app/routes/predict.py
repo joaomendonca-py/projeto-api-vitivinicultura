@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import PowerTransformer
 from fastapi import APIRouter
 sys.path.append('../projeto-api-vitivinicultura')
-
+from config.models import CategoriaRequest
 
 # construção do objeto APIRouter.
 ml_router = APIRouter()
@@ -15,9 +15,12 @@ ml_router = APIRouter()
 @ml_router.post("/clustering", status_code=201, 
                     description='Informe o número de categorias que deseja criar para os dados:<br>'  
                     '**Retorno**: tabela com dados de transação e indicadores socioeconômicos dos países.',tags=['modelo_ML'])
-async def criar_categorias(categorias: int):
+async def criar_categorias(request: CategoriaRequest):
     """Função para gerar categorias de países a partir dos dados de exportação."""
     
+    # recebe a quantidade de clusters passada pelo usuário
+    categorias = request.categorias
+
     # conversão dos dados de entrada em dataframe
     data = pd.read_csv('data/processed/dataset_exportacao_clustering_processed.csv')
 

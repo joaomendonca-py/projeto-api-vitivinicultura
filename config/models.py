@@ -45,3 +45,6 @@ class ImportacaoExportacao(BaseModel):
             }
             linhas.append(linha_dict)
         return linhas
+
+class CategoriaRequest(BaseModel):
+    categorias: int

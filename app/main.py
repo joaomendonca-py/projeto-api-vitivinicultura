@@ -15,5 +15,5 @@ app = FastAPI(
 )
 
 # inclusão das rotas criadas à aplicação.
-app.include_router(router)
-app.include_router(ml_router)
+app.include_router(router, prefix='/router')
+app.include_router(ml_router, prefix="/modelo_ML")
