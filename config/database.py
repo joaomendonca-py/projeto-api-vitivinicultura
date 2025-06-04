@@ -1,18 +1,12 @@
 """Database"""
 import os
 import sys
-<<<<<<< HEAD
-sys.path.append('../projeto-api-vitivinicultura')
-from pymongo.mongo_client import MongoClient
-from redis import Redis
-=======
 import logging
 sys.path.append('../projeto-api-vitivinicultura')
 from pymongo.mongo_client import MongoClient
 
 # Configurar logging
 logger = logging.getLogger(__name__)
->>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
 
 # constante de conexão com o servidor MongoDB.
 URI = os.getenv('DB_URI')
@@ -28,14 +22,6 @@ user_collection = db['users']
 # construção de uma coleção que recebe os dados do processo de webscrapping.
 data_collection = db['data']
 
-<<<<<<< HEAD
-# conexão com redis para armazenamento de cache
-r_host = os.getenv('REDIS_HOST')
-r_port = os.getenv('REDIS_PORT')
-r_db = os.getenv('REDIST_DB')
-
-redis = Redis(host=r_host, port=r_port, db=r_db)
-=======
 # conexão com redis para armazenamento de cache com fallback
 try:
     from redis import Redis
@@ -76,4 +62,3 @@ except Exception as e:
     
     redis = MockRedis()
     logger.info("✅ MockRedis ativo - funcionando sem cache")
->>>>>>> ee91b8155e98a8084edee1553139a2c0fe5c814e
