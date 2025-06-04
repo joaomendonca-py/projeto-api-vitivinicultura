@@ -47,7 +47,7 @@ if "data_carregada" not in st.session_state:
     st.session_state.X_transformed = None
 
 if st.button("Gerar Visualizações"):
-    url = "https://vitivinicultura-00fv.onrender.com/docs#/modelo_ML/criar_categorias_clustering_post"
+    url = "https://vitivinicultura-00fv.onrender.com/modelo_ML/criar_categorias_clustering"
     payload = {"categorias": n_clusters}
     response = requests.post(url, json=payload)
 
