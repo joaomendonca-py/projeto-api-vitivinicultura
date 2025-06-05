@@ -1,5 +1,4 @@
 """App Dashboard Projeto Vitivinicultura"""
-from src.train import visualizar_coluna_por_cluster_streamlit
 import sys
 import streamlit as st
 import pandas as pd
@@ -9,6 +8,7 @@ import seaborn as sns
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import PowerTransformer
 sys.path.append('../projeto-api-vitivinicultura')
+from src.train import visualizar_coluna_por_cluster_streamlit
 
 # atributos da página
 st.set_page_config(
@@ -30,6 +30,7 @@ with col2:
         Ese aplicativo foi desenvolvido para ajudar sua análise de perfil dos países compradores de produtos de Vitivinicultura.\n
         Você pode escolher o número de categorias, visualizar os resultados em gráficos interativos 
         e baixar os dados processados com a categoria atribuída.
+
 """)
 
 st.markdown("---")
@@ -47,7 +48,9 @@ if "data_carregada" not in st.session_state:
     st.session_state.X_transformed = None
 
 if st.button("Gerar Visualizações"):
-    url = "https://vitivinicultura-00fv.onrender.com/modelo_ML/criar_categorias_clustering"
+    url = "http://127.0.0.1:8000//modelo_ML/clustering"
+
+    # https://vitivinicultura-00fv.onrender.com/modelo_ML/criar_categorias_clustering
     payload = {"categorias": n_clusters}
     response = requests.post(url, json=payload)
 
@@ -61,6 +64,7 @@ if st.button("Gerar Visualizações"):
                         "Erro: coluna 'categoria' não está presente nos dados retornados pela API.")
                     st.stop()
 
+                # aplica a transformação dos dados antes de inserir no gráfico
                 X = df.drop(columns=['pais'])
                 transformer = PowerTransformer(
                     method='yeo-johnson', standardize=True)
@@ -91,7 +95,7 @@ if st.session_state.data_carregada:
     pca = PCA(n_components=2)
     components = pca.fit_transform(X_transformed.drop(columns=['categoria']))
 
-    fig_pca, ax = plt.subplots(figsize=(5, 3))
+    fig_pca, ax = plt.subplots(figsize=(4, 2))
     sns.scatterplot(
         x=components[:, 0],
         y=components[:, 1],
@@ -101,7 +105,7 @@ if st.session_state.data_carregada:
     )
     ax.legend(loc='upper right', fontsize=8)
     ax.set_title(
-        'Análise da distribuição das categorias por influência de dados.')
+        'Análise da distribuição das categorias por influência de dados.', fontsize=8)
     ax.set_xlabel('Influência Indicadores Socioeconômicos', fontsize=7)
     ax.set_ylabel('Influência Indicadores de Transação', fontsize=7)
 

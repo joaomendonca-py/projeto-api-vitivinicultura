@@ -85,7 +85,7 @@ def visualizar_coluna_por_cluster_streamlit(tbl, coluna, cluster_col='categoria'
     Retorna:
     - fig: figura matplotlib para uso no Streamlit
     """
-    fig, ax = plt.subplots(figsize=(5, 3))
+    fig, ax = plt.subplots(figsize=(4, 2))
 
     # Stripplot com valores transformados
     sns.stripplot(
@@ -94,6 +94,7 @@ def visualizar_coluna_por_cluster_streamlit(tbl, coluna, cluster_col='categoria'
         data=tbl,
         jitter=True,
         alpha=0.6,
+        hue=cluster_col,
         ax=ax
     )
 
@@ -113,8 +114,8 @@ def visualizar_coluna_por_cluster_streamlit(tbl, coluna, cluster_col='categoria'
         label='Média Categoria'
     )
 
-    ax.legend(fontsize=7)
-    ax.set_title(f'Distribuição de {coluna} por Categoria')
+    ax.legend(fontsize=5)
+    ax.set_title(f'Distribuição de {coluna} por Categoria', fontsize=8)
     ax.set_ylabel(f'{coluna}', fontsize=7)
     ax.set_xlabel('Categoria', fontsize=7)
 
